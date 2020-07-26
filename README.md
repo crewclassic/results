@@ -1,10 +1,10 @@
-# These are the official historical race results for the San Diego Crew Classic.
+# San Diego Crew Classic Results 1973 to the Present
 
-The data contained here is presented in its raw format. Over the five
-decades of the Crew Classic's existence people, processes, and
+The data contained here is presented in its raw format. Over the many
+decades of the Crew Classic's existence people, process, and
 technology changes caused the results to be stored in different
-arrangements. This archive represents the most accurate record of race
-results since 1973. 
+formats and arrangements. This archive represents the most accurate
+record of race results since 1973.
 
 Of course if you should notice an error, please create a [github
 issue](https://github.com/crewclassic/results/issues) with the details
@@ -12,12 +12,13 @@ and we'll take a look. You are also welcome to create a pull request.
 
 ## Notes
 
-There was no Crew Classic in 1980 or in 2020 due to health and safety
-concerns that caused the event to be canceled.
+There was no Crew Classic event in 1980 or in 2020 due to health and
+safety concerns that resulted in cancelation.
 
-## Archived Online Results
+## Online Results
 
-The following links to results published on the web since 2005. See
+From 2005 to the present day, San Diego Crew Classic results were
+published on the web. Here are archive links to those results.. See
 the excel spreadsheets in this repository for years prior to 2005.
 
 * [2005 archive.org](https://web.archive.org/web/20130526084505/http://crewclassic.org/results/2005.html)
