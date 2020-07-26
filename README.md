@@ -29,7 +29,7 @@ the excel spreadsheets in this repository for years prior to 2005.
 * [2011 archive.org](https://web.archive.org/web/20130428213140/http://crewclassic.org/results/2011.html)
 * [2012 archive.org](https://web.archive.org/web/20130428140754/http://crewclassic.org/results/2012.html)
 * [2013 archive.org](https://web.archive.org/web/20130409104546/http://crewclassic.com/2013.html)
-* [2014 row2k](https://www.row2k.com/results/resultspage.cfm?UID=7607633&cat=6)
+* [2014 archive.org](https://web.archive.org/web/20140830064659/http://crewclassic.com/results/2014.html)
 * [2015 hereNow](https://www.herenow.com/results/#/races/20127/results)
 * [2016 hereNow](https://www.herenow.com/results/#/races/20203/results)
 * [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
