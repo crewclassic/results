@@ -10,6 +10,10 @@ Of course if you should notice an error, please create a [github
 issue](https://github.com/crewclassic/results/issues) with the details
 and we'll take a look. You are also welcome to create a pull request.
 
+## Notes
+
+There was no Crew Classic in 1980 or in 2020 due to health and safety
+concerns that caused the event to be canceled.
 
 ## Archived Online Results
 
@@ -31,4 +35,3 @@ the excel spreadsheets in this repository for years prior to 2005.
 * [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
 * [2018 Regatta Master](https://www.regattacentral.com/regatta/results2/?job_id=5379&org_id=0)
 * [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
-* 2020 Regatta canceled due to COVID-19
