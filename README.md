@@ -17,7 +17,7 @@ The following links to results published on the web since 2005. See
 the excel spreadsheets in this repository for years prior to 2005.
 
 * [2005 archive.org](https://web.archive.org/web/20130526084505/http://crewclassic.org/results/2005.html)
-* [2006 archive.org](https://web.archive.org/web/20130526103425/http://crewclassic.org/results/2006.html
+* [2006 archive.org](https://web.archive.org/web/20130526103425/http://crewclassic.org/results/2006.html)
 * [2007 archive.org](https://web.archive.org/web/20130526101456/http://crewclassic.org/results/2007.html)
 * [2008 archive.org](https://web.archive.org/web/20130525214045/http://crewclassic.org/results/2008.html)
 * [2009 archive.org](https://web.archive.org/web/20130428222123/http://crewclassic.org/results/2009.html)
