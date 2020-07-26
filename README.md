@@ -31,3 +31,4 @@ the excel spreadsheets in this repository for years prior to 2005.
 * [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
 * [2018 Regatta Master](https://www.regattacentral.com/regatta/results2/?job_id=5379&org_id=0)
 * [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
+* 2020 Regatta canceled due to COVID-19
