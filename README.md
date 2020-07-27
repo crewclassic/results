@@ -34,5 +34,5 @@ the excel spreadsheets in this repository for years prior to 2005.
 * [2015 hereNow](https://www.herenow.com/results/#/races/20127/results)
 * [2016 hereNow](https://www.herenow.com/results/#/races/20203/results)
 * [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
-* [2018 Regatta Master](https://www.regattacentral.com/regatta/results2/?job_id=5379&org_id=0)
+* [2018 Regatta Master](http://online.regattamaster.com/Pages/QuickView.aspx?regattaID=1306)
 * [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
