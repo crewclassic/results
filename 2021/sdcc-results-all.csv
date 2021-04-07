@@ -1,0 +1,166 @@
+sep=,
+regatta_code,event_nr,event_code,event_name,event_remarks,round_type_code,round_type_name,distance,race_start_time,race_sequence,entry_name,entry_reference,stroke_name,position,result,status
+sdcc,089,"WHS JV 8","Womens High School Junior Varsity 8","ERG ZLAC Rowing Club Cup",2000m,"2000 meter",2000m,10:20,7,"San Diego Rowing Club",6832/entries/54,"Moehringer, Tzipporah",1,08:25.8,official
+sdcc,089,"WHS JV 8","Womens High School Junior Varsity 8","ERG ZLAC Rowing Club Cup",2000m,"2000 meter",2000m,10:20,7,"Roland Park Country School",6832/entries/72,"Milstone, Lily",2,09:32.1,official
+sdcc,003,"WColl Varsity 8+","Womens Collegiate Varsity 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/34,"Sylla, Kadee",1,05:11.2,official
+sdcc,003,"WColl Varsity 8+","Womens Collegiate Varsity 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"San Diego State University",6832/entries/21,,2,05:12.8,official
+sdcc,014,"MColl 2V 8+","Mens Collegiate 2V 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/30,"Crabtree, Jack",1,04:40.1,official
+sdcc,019,"WHS JV 4x","Womens High School Junior Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club A",6832/entries/202,"Ahmed, Shazray",1,05:49.5,official
+sdcc,019,"WHS JV 4x","Womens High School Junior Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club B",6832/entries/260,"Fahd, Maha",2,06:14.0,official
+sdcc,019,"WHS JV 4x","Womens High School Junior Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/226,"Cardenas, Valeria",3,06:23.8,official
+sdcc,113,"MMD 8","Mens Masters D (50-54) 8","ERG Founders Trophy",2000m,"2000 meter",2000m,11:00,9,"Unaffiliated (CAN)",6832/entries/47,"Forgeron, Mike",1,06:35.3,official
+sdcc,113,"MMD 8","Mens Masters D (50-54) 8","ERG Founders Trophy",2000m,"2000 meter",2000m,11:00,9,"Marin Rowing Association",6832/entries/195,"Paradis, Paul",2,06:54.5,official
+sdcc,113,"MMD 8","Mens Masters D (50-54) 8","ERG Founders Trophy",2000m,"2000 meter",2000m,12:00,12,"North Dakota Indoor Rowing Team",6832/entries/138,"Kusurin, Ante",,,"did not start"
+sdcc,113,"MMD 8","Mens Masters D (50-54) 8","ERG Founders Trophy",2000m,"2000 meter",2000m,11:00,9,"North Dakota Indoor Rowing Team",6832/entries/138,"Kusurin, Ante",,,"did not start"
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/224,"Ewart, Chloe",1,04:19.5,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/263,"Burne, Sophie",2,04:44.0,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"St. Michaels University School",6832/entries/152,"Curry, Emma",3,04:55.1,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/277,"Denham, Danette",4,05:04.0,official
+sdcc,021,"MHS 4x","Mens High School 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"St. Michaels University School",6832/entries/151,"Muller, Markus",1,04:34.6,official
+sdcc,055,"WM 4+","Womens Masters 4+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Texas Rowing Center",6832/entries/44,"Falkenthal, Tracy",1,05:03.3,official
+sdcc,016,"MColl Novice 8+","Mens Collegiate Novice 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/174,"van Dongen, Marius",1,04:59.6,official
+sdcc,009,"WColl 2V 8+","Womens Collegiate 2V 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"USC Women's Rowing",6832/entries/4,"Daboub, Stephanie",1,04:58.9,official
+sdcc,009,"WColl 2V 8+","Womens Collegiate 2V 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/33,"Asher, Morgan",2,05:15.9,official
+sdcc,009,"WColl 2V 8+","Womens Collegiate 2V 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"San Diego State University",6832/entries/23,,3,05:40.8,official
+sdcc,086,"MHS JV 4","Mens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,09:20,4,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club B",6832/entries/290,"Parsons, Brodie",1,08:42.0,official
+sdcc,014,"MColl 2V 8+","Mens Collegiate 2V 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/30,"Crabtree, Jack",1,05:00.8,official
+sdcc,090,"WHS Novice 8","Womens High School Novice 8",ERG,2000m,"2000 meter",2000m,12:40,14,"Roland Park Country School",6832/entries/74,"Vitberg, Maya",1,10:22.6,official
+sdcc,082,"WHS Varsity 4","Womens High School Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,"Lakeside School",6832/entries/236,"Lewis, Amelia",1,08:03.5,official
+sdcc,082,"WHS Varsity 4","Womens High School Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,RowLA,6832/entries/59,"Huber, Sydney",2,08:08.2,official
+sdcc,082,"WHS Varsity 4","Womens High School Varsity 4",ERG,2000m,"2000 meter",2000m,09:00,3,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club",6832/entries/280,"Phan, Victoria",3,08:09.8,official
+sdcc,082,"WHS Varsity 4","Womens High School Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,"Roland Park Country School",6832/entries/70,"Lawson, Camille",4,09:10.5,official
+sdcc,023,"MHS Novice 4x+","Mens High School Novice 4x+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/232,"Janicik, Carson",1,04:47.5,official
+sdcc,023,"MHS Novice 4x+","Mens High School Novice 4x+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/230,"Sindici, Shannon",2,04:59.4,official
+sdcc,068,"WColl Varsity DII/III/Club 8","Womens Collegiate Varsity DII/III/Club 8","ERG Grace Rett Memorial",2000m,"2000 meter",2000m,11:40,11,"University of Calgary Rowing Club",6832/entries/45,"Anderson, Hannah",1,07:46.2,official
+sdcc,009,"WColl 2V 8+","Womens Collegiate 2V 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"USC Women's Rowing",6832/entries/4,"Daboub, Stephanie",1,05:15.4,official
+sdcc,009,"WColl 2V 8+","Womens Collegiate 2V 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/33,"Asher, Morgan",2,05:21.6,official
+sdcc,009,"WColl 2V 8+","Womens Collegiate 2V 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"San Diego State University",6832/entries/23,,3,05:43.0,official
+sdcc,025,"WHS JV 8+","Womens High School Junior Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/278,"Brachmann, Shelby",1,05:26.5,official
+sdcc,025,"WHS JV 8+","Womens High School Junior Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/285,"Kasprisin, Isabella",2,08:08.9,official
+sdcc,059,"Mix PR2 2x","Mix PR2 2x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Bair Island Aquatic Center (BIAC)",6832/entries/15,"Gernaat, Russell",1,05:27.3,official
+sdcc,093,"MHS JV 8","Mens High School Junior Varsity 8","ERG Jean Jessop Hervey Cup",2000m,"2000 meter",2000m,12:20,13,"San Diego Rowing Club",6832/entries/103,"Navarro, Aleksander",1,07:13.8,official
+sdcc,093,"MHS JV 8","Mens High School Junior Varsity 8","ERG Jean Jessop Hervey Cup",2000m,"2000 meter",2000m,12:20,13,"Lakeside School",6832/entries/240,"Liuson, Harry",2,07:52.5,official
+sdcc,119,"MM Club Champ 4","Mens Masters Club Championship 4",ERG,2000m,"2000 meter",2000m,13:00,15,"Rock Creek Rowing, Inc.",6832/entries/300,"Bracewell, Joseph",1,07:01.9,official
+sdcc,119,"MM Club Champ 4","Mens Masters Club Championship 4",ERG,2000m,"2000 meter",2000m,13:00,15,"Club Deportivo de Puerto Sajonia",6832/entries/234,"Soler, Alberto",2,07:14.7,official
+sdcc,116,"MMG 8","Mens Masters G (65-69) 8",ERG,2000m,"2000 meter",2000m,13:40,17,"San Diego Rowing Club",6832/entries/161,"Brooks, Andrew",1,07:58.5,official
+sdcc,103,"WMC 8","Womens Masters C (43-49) 8","ERG Margi Fetter Graham Trophy",2000m,"2000 meter",2000m,13:20,16,"San Diego Rowing Club",6832/entries/68,"Gallagher, Laura",1,07:53.8,official
+sdcc,103,"WMC 8","Womens Masters C (43-49) 8","ERG Margi Fetter Graham Trophy",2000m,"2000 meter",2000m,13:20,16,"Texas Rowing Center",6832/entries/158,"Cassidy, Lauren",2,07:55.6,official
+sdcc,018,"WHS Varsity 4x","Womens High School Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club B",6832/entries/191,"Rizwan, Zara",1,05:23.0,official
+sdcc,018,"WHS Varsity 4x","Womens High School Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club A",6832/entries/171,"Haris, Safa",2,06:01.1,official
+sdcc,018,"WHS Varsity 4x","Womens High School Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/225,"Lelevier, Arissa",3,06:19.4,official
+sdcc,040,"WMD 8+","Womens Masters D (50-54) 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Marin Rowing Association",6832/entries/39,,1,06:01.6,official
+sdcc,012,"MColl Varsity 8+","Mens Collegiate Varsity 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/29,"Putnam, Garrett",1,05:00.8,official
+sdcc,015,"MColl 3V 8+","Mens Collegiate 3V 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/31,"Munguia Wulftange, Francisco",1,04:57.5,official
+sdcc,001,"WColl Varsity 8+","Womens Collegiate Varsity 8+","WATER Jessop-Whittier Cup Invitational","1500m outbound","1500m outbound leg",1500m,01:00,,"USC Women's Rowing",6832/entries/2,"Alttoa, Grete",1,04:55.5,official
+sdcc,001,"WColl Varsity 8+","Womens Collegiate Varsity 8+","WATER Jessop-Whittier Cup Invitational","1500m outbound","1500m outbound leg",1500m,01:00,,"University of Washington",6832/entries/177,"McNamara-Smith, Carmen",2,04:55.8,official
+sdcc,056,"MixM 8+","Mixed Masters 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Texas Rowing Center",6832/entries/132,"Lafferty, Devon",1,04:09.2,official
+sdcc,018,"WHS Varsity 4x","Womens High School Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club B",6832/entries/191,"Rizwan, Zara",1,05:20.0,official
+sdcc,018,"WHS Varsity 4x","Womens High School Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/225,"Lelevier, Arissa",2,05:24.6,official
+sdcc,018,"WHS Varsity 4x","Womens High School Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club A",6832/entries/171,"Haris, Safa",3,07:14.1,official
+sdcc,104,"WMD 8","Womens Masters D (50-54) 8","ERG Waddell & Reed, Inc. Cup",2000m,"2000 meter",2000m,11:20,10,"Don Rowing Club",6832/entries/181,"Brett-Evans, Elene",1,08:27.8,official
+sdcc,029,"MHS JV 8+","Mens High School Junior Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/265,"Farkas, Alex",1,04:10.1,official
+sdcc,029,"MHS JV 8+","Mens High School Junior Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/266,"Wissman, Nicholas",2,05:12.7,official
+sdcc,091,"LWHS 8","Womens High School Lightweight 8","ERG Referee Cup LA84 Foundation Trophy",2000m,"2000 meter",2000m,11:40,11,"San Diego Rowing Club",6832/entries/55,"Necochea, Ireland",1,08:29.2,official
+sdcc,115,"MMF 8","Mens Masters F (60-64) 8","ERG Grand Masters Oarlock Trophy",2000m,"2000 meter",2000m,14:20,19,"University of San Diego",6832/entries/50,"Weber, Mike",1,06:55.3,official
+sdcc,115,"MMF 8","Mens Masters F (60-64) 8","ERG Grand Masters Oarlock Trophy",2000m,"2000 meter",2000m,06:00,1,"University Barge Club",6832/entries/310,"Cook, Alex",2,07:42.7,official
+sdcc,099,"M Alumni Cup 8","Mens Alumni Cup 8",ERG,2000m,"2000 meter",2000m,12:00,12,"Unaffiliated (USA)",6832/entries/147,"Miklasevich, Matt",1,06:58.0,official
+sdcc,099,"M Alumni Cup 8","Mens Alumni Cup 8",ERG,2000m,"2000 meter",2000m,12:00,12,"Club Nautico De San Juan",6832/entries/61,"Wheeler, Matthew",,,"did not start"
+sdcc,039,"WMC 8+","Womens Masters C (43-49) 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"North Shore",6832/entries/183,"Magness, Kristin",1,04:56.1,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"St. Michaels University School",6832/entries/152,"Curry, Emma",1,04:31.6,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/224,"Ewart, Chloe",2,04:40.3,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/277,"Denham, Danette",3,04:54.6,official
+sdcc,024,"WHS Varsity 8+","Womens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/263,"Burne, Sophie",4,06:16.3,official
+sdcc,085,"MHS Varsity 4","Mens High School Varsity 4","ERG UCSD Health",2000m,"2000 meter",2000m,09:20,4,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club",6832/entries/289,"Kennedy, Joe",1,07:38.4,official
+sdcc,085,"MHS Varsity 4","Mens High School Varsity 4","ERG UCSD Health",2000m,"2000 meter",2000m,09:20,4,"Lakeside School",6832/entries/244,"Casturi, Aditya",2,08:19.5,official
+sdcc,006,"WColl Varsity 4+","Womens Collegiate Varsity 4+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/35,"Herrera-Ross, Nicky",1,06:00.9,official
+sdcc,006,"WColl Varsity 4+","Womens Collegiate Varsity 4+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"USC Women's Rowing",6832/entries/3,"McCale, Alexandra",2,06:11.0,official
+sdcc,105,"WME 8","Womens Masters E (55-59) 8","ERG Kearney Johnston Cup",2000m,"2000 meter",2000m,11:20,10,"Chinook Performance Racing",6832/entries/37,"Cunningham, Renee",1,07:49.5,official
+sdcc,117,"MMH+ 8","Mens Masters H+ (70+) 8",ERG,2000m,"2000 meter",2000m,12:40,14,"Kent Mitchell Rowing Club",6832/entries/209,"Ives, Ed",1,07:23.1,official
+sdcc,117,"MMH+ 8","Mens Masters H+ (70+) 8",ERG,2000m,"2000 meter",2000m,12:40,14,"San Diego Rowing Club",6832/entries/104,"Randall, Barry",2,08:20.3,official
+sdcc,076,"MColl Varsity 8","Mens Collegiate Varsity 8","ERG American Specialty Health Cup",2000m,"2000 meter",2000m,12:00,12,"University of Southern California",6832/entries/320,"Falstrup, Evan",1,07:24.3,official
+sdcc,003,"WColl Varsity 8+","Womens Collegiate Varsity 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/34,"Sylla, Kadee",1,05:15.2,official
+sdcc,003,"WColl Varsity 8+","Womens Collegiate Varsity 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"San Diego State University",6832/entries/21,,2,05:25.6,official
+sdcc,041,"WME 8+","Womens Masters E (55-59) 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"North Shore",6832/entries/182,"Taylor, Natalee",1,04:47.3,official
+sdcc,118,"WM Club Champ 4","Womens Masters Club Championship 4",ERG,2000m,"2000 meter",2000m,13:00,15,"Unaffiliated (USA)",6832/entries/146,"Wright, Michelle",1,08:08.0,official
+sdcc,118,"WM Club Champ 4","Womens Masters Club Championship 4",ERG,2000m,"2000 meter",2000m,13:00,15,"The RowHouse SB Club",6832/entries/205,"Sands, Michelle",2,08:12.2,official
+sdcc,001,"WColl Varsity 8+","Womens Collegiate Varsity 8+","WATER Jessop-Whittier Cup Invitational","1500m return","1500m return leg",1500m,01:00,,"University of Washington",6832/entries/177,"McNamara-Smith, Carmen",1,04:52.9,official
+sdcc,001,"WColl Varsity 8+","Womens Collegiate Varsity 8+","WATER Jessop-Whittier Cup Invitational","1500m return","1500m return leg",1500m,01:00,,"USC Women's Rowing",6832/entries/2,"Alttoa, Grete",2,05:05.3,official
+sdcc,039,"WMC 8+","Womens Masters C (43-49) 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"North Shore",6832/entries/183,"Magness, Kristin",1,04:59.7,official
+sdcc,040,"WMD 8+","Womens Masters D (50-54) 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Marin Rowing Association",6832/entries/39,,1,05:48.8,official
+sdcc,007,"WColl 4+ B entries","Womens Collegiate 4+ B entries",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/36,"Hirchag, Madison",1,06:05.3,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/262,"Kunkler, Thomas",1,04:04.4,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/264,"Cesaretti, William",2,04:22.7,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/228,"Correa, Diego",3,04:31.8,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club",6832/entries/166,"Tariq, Bilal",4,05:25.2,official
+sdcc,084,"WHS Novice 4","Womens High School Novice 4","ERG Ulster Challenge Cup",2000m,"2000 meter",2000m,14:00,18,"Roland Park Country School",6832/entries/73,"Mazzuli, Mary",1,08:45.7,official
+sdcc,084,"WHS Novice 4","Womens High School Novice 4","ERG Ulster Challenge Cup",2000m,"2000 meter",2000m,08:40,2,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club",6832/entries/287,"Kelley, Margaret",2,09:14.3,official
+sdcc,084,"WHS Novice 4","Womens High School Novice 4","ERG Ulster Challenge Cup",2000m,"2000 meter",2000m,14:00,18,"San Diego Rowing Club",6832/entries/270,"He, Jasmine",3,09:17.2,official
+sdcc,084,"WHS Novice 4","Womens High School Novice 4","ERG Ulster Challenge Cup",2000m,"2000 meter",2000m,15:00,21,"Community Rowing of San Diego",6832/entries/196,"Atkinson, Anne",4,09:48.4,official
+sdcc,084,"WHS Novice 4","Womens High School Novice 4","ERG Ulster Challenge Cup",2000m,"2000 meter",2000m,14:00,18,"Lakeside School",6832/entries/238,"Palomino, Terese",,,"did not start"
+sdcc,084,"WHS Novice 4","Womens High School Novice 4","ERG Ulster Challenge Cup",2000m,"2000 meter",2000m,14:00,18,"Community Rowing of San Diego",6832/entries/196,"Atkinson, Anne",,,"did not start"
+sdcc,059,"Mix PR2 2x","Mix PR2 2x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Bair Island Aquatic Center (BIAC)",6832/entries/15,"Gernaat, Russell",1,12:31.9,official
+sdcc,006,"WColl Varsity 4+","Womens Collegiate Varsity 4+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/35,"Herrera-Ross, Nicky",1,06:00.9,official
+sdcc,006,"WColl Varsity 4+","Womens Collegiate Varsity 4+",WATER,"1500m return","1500m return leg",1500m,01:00,,"USC Women's Rowing",6832/entries/3,"McCale, Alexandra",2,06:08.4,official
+sdcc,056,"MixM 8+","Mixed Masters 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Texas Rowing Center",6832/entries/132,"Lafferty, Devon",1,04:10.0,official
+sdcc,110,"MMA 8","Mens Masters A (27-35) 8","ERG Jack Buchanan Memorial Trophy",2000m,"2000 meter",2000m,10:00,6,"Club Nautico De San Juan",6832/entries/62,"Wheeler, Matthew",,,"did not start"
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/262,"Kunkler, Thomas",1,03:58.6,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club",6832/entries/166,"Tariq, Bilal",2,04:01.0,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/264,"Cesaretti, William",3,04:07.4,official
+sdcc,028,"MHS Varsity 8+","Mens High School Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/228,"Correa, Diego",4,04:27.1,official
+sdcc,020,"WHS Novice 4x+","Womens High School Novice 4x+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/227,"Gonor, Paige",1,05:14.3,official
+sdcc,020,"WHS Novice 4x+","Womens High School Novice 4x+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"St. Michaels University School A",6832/entries/148,"Truebridge, Elyse",2,05:24.0,official
+sdcc,020,"WHS Novice 4x+","Womens High School Novice 4x+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"St. Michaels University School B",6832/entries/149,"Chow, Jaclyn",3,05:26.7,official
+sdcc,022,"MHS JV 4x","Mens High School Junior Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club B",6832/entries/197,"Sattar, Raaed Moosa",1,04:36.4,official
+sdcc,022,"MHS JV 4x","Mens High School Junior Varsity 4x",WATER,"1250m return","1250m return leg",1250m,01:00,,"Karachi Boat Club A",6832/entries/169,"Aziz, Afnan",2,05:42.9,official
+sdcc,107,"WMG 8","Womens Masters G (65-69) 8",ERG,2000m,"2000 meter",2000m,11:20,10,"Chinook Performance Racing",6832/entries/323,"Egan, Cheryl",1,08:40.7,official
+sdcc,020,"WHS Novice 4x+","Womens High School Novice 4x+",WATER,"1250m return","1250m return leg",1250m,01:00,,"St. Michaels University School A",6832/entries/148,"Truebridge, Elyse",1,04:56.6,official
+sdcc,020,"WHS Novice 4x+","Womens High School Novice 4x+",WATER,"1250m return","1250m return leg",1250m,01:00,,"St. Michaels University School B",6832/entries/149,"Chow, Jaclyn",2,05:01.1,official
+sdcc,020,"WHS Novice 4x+","Womens High School Novice 4x+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/227,"Gonor, Paige",3,06:21.6,official
+sdcc,029,"MHS JV 8+","Mens High School Junior Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/265,"Farkas, Alex",1,04:12.5,official
+sdcc,029,"MHS JV 8+","Mens High School Junior Varsity 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/266,"Wissman, Nicholas",2,04:26.9,official
+sdcc,021,"MHS 4x","Mens High School 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"St. Michaels University School",6832/entries/151,"Muller, Markus",1,04:53.9,official
+sdcc,012,"MColl Varsity 8+","Mens Collegiate Varsity 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/29,"Putnam, Garrett",1,04:40.1,official
+sdcc,094,"MHS Novice 8","Mens High School Novice 8","ERG Rose Cup",2000m,"2000 meter",2000m,14:20,19,"San Diego Rowing Club",6832/entries/313,"Heggie, Luke",1,08:19.9,official
+sdcc,100,"WM Club Champ 8","Womens Masters Club Championship 8","ERG Thalia Kelly Considine Cup",2000m,"2000 meter",2000m,13:20,16,"Rock Creek Rowing, Inc.",6832/entries/307,"McMahon, Catherine",1,08:45.7,official
+sdcc,100,"WM Club Champ 8","Womens Masters Club Championship 8","ERG Thalia Kelly Considine Cup",2000m,"2000 meter",2000m,13:20,16,"The RowHouse SB Club",6832/entries/203,"Madsen, Lynette",2,09:19.5,official
+sdcc,055,"WM 4+","Womens Masters 4+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Texas Rowing Center",6832/entries/44,"Falkenthal, Tracy",1,04:57.5,official
+sdcc,025,"WHS JV 8+","Womens High School Junior Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing A",6832/entries/278,"Brachmann, Shelby",1,05:23.8,official
+sdcc,025,"WHS JV 8+","Womens High School Junior Varsity 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"New Trier High School Rowing B",6832/entries/285,"Kasprisin, Isabella",2,05:23.9,official
+sdcc,016,"MColl Novice 8+","Mens Collegiate Novice 8+",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/174,"van Dongen, Marius",1,04:49.6,official
+sdcc,106,"WMF 8","Womens Masters F (60-64) 8","ERG Campland on the Bay Trophy",2000m,"2000 meter",2000m,11:20,10,"Long Beach Rowing Association",6832/entries/49,"Malacrida, Grace",1,08:07.1,official
+sdcc,106,"WMF 8","Womens Masters F (60-64) 8","ERG Campland on the Bay Trophy",2000m,"2000 meter",2000m,11:20,10,"Delta Deas Rowing Club",6832/entries/316,"Davidson, Ann",2,09:09.6,official
+sdcc,106,"WMF 8","Womens Masters F (60-64) 8","ERG Campland on the Bay Trophy",2000m,"2000 meter",2000m,11:20,10,"San Diego Rowing Club",6832/entries/69,"Czajkowski, Katrine",,,"did not start"
+sdcc,019,"WHS JV 4x","Womens High School Junior Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club B",6832/entries/260,"Fahd, Maha",1,04:32.0,official
+sdcc,019,"WHS JV 4x","Womens High School Junior Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club A",6832/entries/202,"Ahmed, Shazray",2,05:28.6,official
+sdcc,019,"WHS JV 4x","Womens High School Junior Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/226,"Cardenas, Valeria",3,05:35.6,official
+sdcc,088,"WHS Varsity 8","Womens High School Varsity 8","ERG Gilman-Mulliken Cup",2000m,"2000 meter",2000m,10:20,7,"San Diego Rowing Club",6832/entries/52,"Chapman, Audrey",1,07:50.7,official
+sdcc,030,"MHS Novice 8+","Mens High School Novice 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"St. Michaels University School",6832/entries/153,"Aubertin, Jaieme",1,05:00.0,official
+sdcc,007,"WColl 4+ B entries","Womens Collegiate 4+ B entries",WATER,"1500m outbound","1500m outbound leg",1500m,01:00,,"University of San Diego",6832/entries/36,"Hirchag, Madison",1,06:17.8,official
+sdcc,092,"MHS Varsity 8","Mens High School Varsity 8","ERG San Diego Rowing Cup",2000m,"2000 meter",2000m,12:20,13,"San Diego Rowing Club",6832/entries/102,"Hankee, Matthew",1,06:47.5,official
+sdcc,092,"MHS Varsity 8","Mens High School Varsity 8","ERG San Diego Rowing Cup",2000m,"2000 meter",2000m,12:20,13,"Lakeside School",6832/entries/239,"Jaff, Arin",2,07:11.1,official
+sdcc,109,"MM Club Champ 8","Mens Masters Club Championship 8",ERG,2000m,"2000 meter",2000m,14:40,20,"The RowHouse SB Club",6832/entries/206,"Ziegast, Eric",1,07:55.0,official
+sdcc,112,"MMC 8","Mens Masters C (43-49) 8","ERG Coach Del Beekley Volunteer Cup",2000m,"2000 meter",2000m,12:00,12,"San Diego Rowing Club",6832/entries/159,"Bolitho, Glynn",1,07:09.5,official
+sdcc,112,"MMC 8","Mens Masters C (43-49) 8","ERG Coach Del Beekley Volunteer Cup",2000m,"2000 meter",2000m,11:00,9,"Club Deportivo de Puerto Sajonia",6832/entries/233,"Vallejos, Oscar",2,07:39.1,official
+sdcc,112,"MMC 8","Mens Masters C (43-49) 8","ERG Coach Del Beekley Volunteer Cup",2000m,"2000 meter",2000m,11:00,9,"San Diego Rowing Club",6832/entries/159,"Bolitho, Glynn",,,"did not start"
+sdcc,083,"WHS JV 4","Womens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,09:00,3,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club A",6832/entries/282,"Savage, Sophia",1,08:31.7,official
+sdcc,083,"WHS JV 4","Womens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,RowLA,6832/entries/60,"De Nes, Isabella",2,08:49.3,official
+sdcc,083,"WHS JV 4","Womens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,"Lakeside School",6832/entries/237,"Yue, Katherine",3,08:55.5,official
+sdcc,083,"WHS JV 4","Womens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,"Roland Park Country School",6832/entries/71,"Rowe, Kenzie",4,09:08.7,official
+sdcc,083,"WHS JV 4","Womens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,09:00,3,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club B",6832/entries/288,"Babka, Claire",5,09:10.3,official
+sdcc,083,"WHS JV 4","Womens High School Junior Varsity 4",ERG,2000m,"2000 meter",2000m,10:40,8,"Lakeside School",6832/entries/238,"Palomino, Terese",6,09:10.5,official
+sdcc,041,"WME 8+","Womens Masters E (55-59) 8+",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"North Shore",6832/entries/182,"Taylor, Natalee",1,05:00.1,official
+sdcc,120,"MixM Club Champ 8","Mixed Masters Club Championship 8",ERG,2000m,"2000 meter",2000m,13:40,17,"The RowHouse SB Club",6832/entries/207,"Garfein, Susan",1,08:13.8,official
+sdcc,030,"MHS Novice 8+","Mens High School Novice 8+",WATER,"1250m return","1250m return leg",1250m,01:00,,"St. Michaels University School",6832/entries/153,"Aubertin, Jaieme",1,04:37.4,official
+sdcc,087,"MHS Novice 4","Mens High School Novice 4",ERG,2000m,"2000 meter",2000m,14:00,18,"San Diego Rowing Club A",6832/entries/269,"Schulteis, Alaric",1,07:51.2,official
+sdcc,087,"MHS Novice 4","Mens High School Novice 4",ERG,2000m,"2000 meter",2000m,08:40,2,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club A",6832/entries/291,"Oudkirk, Thomas",2,07:55.4,official
+sdcc,087,"MHS Novice 4","Mens High School Novice 4",ERG,2000m,"2000 meter",2000m,14:00,18,"Community Rowing of San Diego",6832/entries/201,"Medina, Pierre",3,08:55.4,official
+sdcc,087,"MHS Novice 4","Mens High School Novice 4",ERG,2000m,"2000 meter",2000m,08:40,2,"Bishop O'Connell Crew/Bishop Denis J. O'Connell High School Crew Boosters Club B",6832/entries/292,"Parsons, Severyn",4,09:49.8,official
+sdcc,087,"MHS Novice 4","Mens High School Novice 4",ERG,2000m,"2000 meter",2000m,14:00,18,"San Diego Rowing Club B",6832/entries/271,"Young, Elliot",,,"did not start"
+sdcc,015,"MColl 3V 8+","Mens Collegiate 3V 8+",WATER,"1500m return","1500m return leg",1500m,01:00,,"University of San Diego",6832/entries/31,"Munguia Wulftange, Francisco",1,05:17.3,official
+sdcc,114,"MME 8","Mens Masters E (55-59) 8","ERG Stewards Cup",2000m,"2000 meter",2000m,09:40,5,"San Diego Rowing Club",6832/entries/160,"Wood, Michael",1,07:28.0,official
+sdcc,023,"MHS Novice 4x+","Mens High School Novice 4x+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/232,"Janicik, Carson",1,04:51.4,official
+sdcc,023,"MHS Novice 4x+","Mens High School Novice 4x+",WATER,"1250m return","1250m return leg",1250m,01:00,,"Community Rowing of San Diego",6832/entries/230,"Sindici, Shannon",2,05:05.1,official
+sdcc,022,"MHS JV 4x","Mens High School Junior Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club A",6832/entries/169,"Aziz, Afnan",1,04:18.4,official
+sdcc,022,"MHS JV 4x","Mens High School Junior Varsity 4x",WATER,"1250m outbound","1250m outbound leg",1250m,01:00,,"Karachi Boat Club B",6832/entries/197,"Sattar, Raaed Moosa",2,04:54.3,official
+sdcc,111,"MMB 8","Mens Masters B (36-42) 8","ERG Presidents Trophy",2000m,"2000 meter",2000m,10:00,6,"San Diego Rowing Club",6832/entries/66,"Murt, Jeffrey",1,07:01.5,official
+sdcc,095,"LMHS 8","Mens High School Lightweight 8","ERG Shimano Rowing Dynamics Cup",2000m,"2000 meter",2000m,10:00,6,"San Diego Rowing Club",6832/entries/235,"Sosna, Dane",1,07:25.9,official

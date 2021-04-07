@@ -13,12 +13,12 @@ and we'll take a look. You are also welcome to create a pull request.
 ## Notes
 
 There was no Crew Classic event in 1980 or in 2020 due to health and
-safety concerns that resulted in cancelation.
+safety concerns that resulted in cancellation.
 
 ## Online Results
 
 From 2005 to the present day, San Diego Crew Classic results were
-published on the web. Here are archive links to those results.. See
+published on the web. Here are archive links to those results. See
 the excel spreadsheets in this repository for years prior to 2005.
 
 * [2005 archive.org](https://web.archive.org/web/20130526084505/http://crewclassic.org/results/2005.html)
@@ -36,3 +36,5 @@ the excel spreadsheets in this repository for years prior to 2005.
 * [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
 * [2018 Regatta Master](http://online.regattamaster.com/Pages/QuickView.aspx?regattaID=1306)
 * [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
+* The 2020 Regatta was canceled due to COVID-19
+* [2021 Virtual Regatta by Time Team](https://regatta.time-team.nl/sdcc/2021/results/events.php)
