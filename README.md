@@ -38,3 +38,4 @@ the excel spreadsheets in this repository for years prior to 2005.
 * [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
 * The 2020 Regatta was canceled due to COVID-19
 * [2021 Virtual Regatta by Time Team](https://regatta.time-team.nl/sdcc/2021/results/events.php)
+* [2022 Regatta Timing](http://results.regattatiming.com/backoffice/webpages/staticRaceResults.jsp?raceId=540)

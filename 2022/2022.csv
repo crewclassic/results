@@ -1,0 +1,679 @@
+Event,Place,Entry,Lane,Time,Margin
+#1 32 Womens Masters A 8+ (27-35) Final (07:15:00) Official,1,"Long Beach/San Diego (Palmer, K.) ",6,07:39.598,
+#1 32 Womens Masters A 8+ (27-35) Final (07:15:00) Official,2,"Austin (Reinkort, M.) ",4,07:49.753,10.155
+#1 32 Womens Masters A 8+ (27-35) Final (07:15:00) Official,3,BIAC,5,07:51.453,11.855
+#1 32 Womens Masters A 8+ (27-35) Final (07:15:00) Official,4,"East Bay (Prada, F.) ",1,07:58.671,19.073
+#1 32 Womens Masters A 8+ (27-35) Final (07:15:00) Official,5,"San Diego RC (Ewing, E.) ",2,08:25.663,46.065
+#1 32 Womens Masters A 8+ (27-35) Final (07:15:00) Official,6,"Long Beach (Jensen, R.) ",3,08:59.773,01:20.175
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,1,Club Nautico De San Juan,1,06:30.943,
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,2,"San Diego (Alparicio, B.) ",4,06:34.243,03.300
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,3,Riverside A,3,06:36.473,05.530
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,4,Riverside B,8,06:48.883,17.940
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,5,"Austin (Womack, C.) ",6,06:52.843,21.900
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,6,"Potomac (Merchant, W.) ",2,07:01.508,30.565
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,7,BIAC,7,07:08.106,37.163
+#2 5 Mens Masters A 8+ (27-35) Final  (07:23:00) Official,8,Los Angeles,5,07:10.946,40.003
+#3 35 Womens Masters B 8+ (36-42) Final (07:31:00) Official,1,Texas RC,3,07:45.901,
+#3 35 Womens Masters B 8+ (36-42) Final (07:31:00) Official,2,Lake Merritt,4,08:05.626,19.725
+#3 35 Womens Masters B 8+ (36-42) Final (07:31:00) Official,3,"Lake Union (Berner-Hays, A.) ",2,08:13.521,27.620
+#3 35 Womens Masters B 8+ (36-42) Final (07:31:00) Official,4,"Vancouver (Riley, P.) ",5,08:15.719,29.818
+#3 35 Womens Masters B 8+ (36-42) Final (07:31:00) Official,5,ZLAC,1,08:21.129,35.228
+#4 8 Mens Masters B 8+ (36-42) Final (07:39:00) Official,1,"San Diego RC (Peszek, T.) ",1,06:38.556,
+#4 8 Mens Masters B 8+ (36-42) Final (07:39:00) Official,2,"Long Beach (Tucker, Z.) ",3,06:54.721,16.165
+#4 8 Mens Masters B 8+ (36-42) Final (07:39:00) Official,3,Los Angeles,4,07:07.138,28.582
+#4 8 Mens Masters B 8+ (36-42) Final (07:39:00) Official,4,"Potomac (DeLo, C.) ",2,07:08.848,30.292
+#4 8 Mens Masters B 8+ (36-42) Final (07:39:00) Official,5,Lake Merritt,5,07:14.861,36.305
+#4 8 Mens Masters B 8+ (36-42) Final (07:39:00) Official,6,"Lake Union (King, A.) ",6,07:15.648,37.092
+#5 39 Womens Masters C 8+ (43-49) Final (07:47:00) Official,1,"Endeavor Racing Alliance/Cambridge/Penn AC/Long Beach/Unaff(USA)/Connecticut/Radcliffe Alumni/San Diego RC (O'Brien, W.) ",3,07:21.784,
+#5 39 Womens Masters C 8+ (43-49) Final (07:47:00) Official,2,Texas RC,2,07:41.184,19.400
+#5 39 Womens Masters C 8+ (43-49) Final (07:47:00) Official,3,"San Diego RC (Ahlman, S.) ",1,07:50.307,28.523
+#5 39 Womens Masters C 8+ (43-49) Final (07:47:00) Official,4,"Lake Union (Hein, N.) ",5,07:51.609,29.825
+#5 39 Womens Masters C 8+ (43-49) Final (07:47:00) Official,5,"Station L (Walker, S.) ",4,08:04.969,43.185
+#6 11 Mens Masters C 8+ Final (07:55:00) Official,1,"Palm Beach (Morelli, P.) ",2,06:52.745,
+#6 11 Mens Masters C 8+ Final (07:55:00) Official,2,"San Diego RC (Johnson, R.) ",1,07:44.035,51.290
+#6 11 Mens Masters C 8+ Final (07:55:00) Official,3,"Pacific (Kirby, M.) ",3,07:47.880,55.135
+#7 43 Womens Masters D 8+ (50-54) Final (08:03:00) Official,1,"Sarasota (Corbett-Brown, L.) ",3,07:37.401,
+#7 43 Womens Masters D 8+ (50-54) Final (08:03:00) Official,2,"Endeavor Racing Alliance (McCormick, E.) ",2,07:40.466,03.065
+#7 43 Womens Masters D 8+ (50-54) Final (08:03:00) Official,3,"College Club Seattle (Scull, C.) ",1,07:42.478,05.077
+#7 43 Womens Masters D 8+ (50-54) Final (08:03:00) Official,4,"ZLAC (Gregory, A.) ",4,07:58.876,21.475
+#7 43 Womens Masters D 8+ (50-54) Final (08:03:00) Official,5,"Los Angeles (Davis, K.) ",6,08:21.918,44.517
+#7 43 Womens Masters D 8+ (50-54) Final (08:03:00) Official,-,"Long Beach (Bonuso, N.) ",5,Scratch,
+#8 14 Mens Masters D 8+ (50-54) Final (08:11:00) Official,1,"Unaff. (CAN) (Forgeron, M.) ",1,06:46.768,
+#8 14 Mens Masters D 8+ (50-54) Final (08:11:00) Official,2,Ex Nemo,4,06:48.468,01.700
+#8 14 Mens Masters D 8+ (50-54) Final (08:11:00) Official,3,"North Dakota (FROST, D.) ",2,06:57.086,10.318
+#8 14 Mens Masters D 8+ (50-54) Final (08:11:00) Official,4,Texas RC,3,07:00.571,13.803
+#8 14 Mens Masters D 8+ (50-54) Final (08:11:00) Official,5,"East Bay (Demorest, A.) ",5,07:35.411,48.643
+#9 48 Womens Masters E 8+ (55-59) Final (08:19:00) Official,1,"Endeavor Racing Alliance (Friel, H.) ",1,08:06.352,
+#9 48 Womens Masters E 8+ (55-59) Final (08:19:00) Official,2,Long Beach,2,08:51.412,45.060
+#9 48 Womens Masters E 8+ (55-59) Final (08:19:00) Official,3,"San Diego RC (Pili, D.) ",4,09:21.885,01:15.533
+#9 48 Womens Masters E 8+ (55-59) Final (08:19:00) Official,4,ZLAC,3,09:37.550,01:31.198
+#10 18 Mens Masters E 8+ (55-59) Final (08:27:00) Official,1,"Kent Mitchell (Still, M.) ",1,06:56.967,
+#10 18 Mens Masters E 8+ (55-59) Final (08:27:00) Official,2,"San Diego (Kapicka, M.) ",2,07:01.963,04.996
+#10 18 Mens Masters E 8+ (55-59) Final (08:27:00) Official,3,"Station L (Glasfeld, A.) ",3,07:11.792,14.825
+"#11 37 Womens Youth 4x Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (08:35:00) Official",1,"Redwood Scullers A (Phipps, C.) ",1,07:31.042,
+"#11 37 Womens Youth 4x Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (08:35:00) Official",2,Newport Sea Base A,2,07:50.035,18.993
+"#11 37 Womens Youth 4x Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (08:35:00) Official",3,Los Gatos B,5,07:51.481,20.439
+"#11 37 Womens Youth 4x Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (08:35:00) Official",4,Texas RC,3,08:03.487,32.445
+"#11 37 Womens Youth 4x Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (08:35:00) Official",5,Lake Las Vegas,4,08:37.417,01:06.375
+#12 37 Womens Youth 4x Heat 2 (08:43:00) Official,1,Los Gatos A,2,07:40.728,
+#12 37 Womens Youth 4x Heat 2 (08:43:00) Official,2,Long Beach Junior Crew,1,07:48.669,07.941
+#12 37 Womens Youth 4x Heat 2 (08:43:00) Official,3,Norcal Crew,3,08:01.092,20.364
+#12 37 Womens Youth 4x Heat 2 (08:43:00) Official,4,Maritime RC B,4,08:04.140,23.412
+#12 37 Womens Youth 4x Heat 2 (08:43:00) Official,5,"Redwood Scullers C (Bollyky, G.) ",6,08:09.153,28.425
+#12 37 Womens Youth 4x Heat 2 (08:43:00) Official,6,"RowLA (Goldstein, E.) ",5,08:16.857,36.129
+#13 37 Womens Youth 4x Heat 3 (08:51:00) Official,1,Maritime RC A,1,07:52.240,
+#13 37 Womens Youth 4x Heat 3 (08:51:00) Official,2,"Redwood Scullers B (Ha, A.) ",2,07:53.540,01.300
+#13 37 Womens Youth 4x Heat 3 (08:51:00) Official,3,Newport Sea Base B,6,08:19.510,27.270
+#13 37 Womens Youth 4x Heat 3 (08:51:00) Official,4,Casitas Rowing,4,08:20.600,28.360
+#13 37 Womens Youth 4x Heat 3 (08:51:00) Official,5,"Austin (Apostolakis, A.) ",3,08:44.030,51.790
+#13 37 Womens Youth 4x Heat 3 (08:51:00) Official,6,Community Rowing SD,5,12:24.100,04:31.860
+"#14 Mens Youth 4x Heat 1 Top 2 to Final 1, NFT (3rd) to Final 1; Next 3rds, 4ths, and NFT 5ths (2) to Final 2; Remainder to Final 3 (08:59:00) Official",1,Newport Sea Base A,1,06:38.301,
+"#14 Mens Youth 4x Heat 1 Top 2 to Final 1, NFT (3rd) to Final 1; Next 3rds, 4ths, and NFT 5ths (2) to Final 2; Remainder to Final 3 (08:59:00) Official",2,Artemis,2,06:56.024,17.723
+"#14 Mens Youth 4x Heat 1 Top 2 to Final 1, NFT (3rd) to Final 1; Next 3rds, 4ths, and NFT 5ths (2) to Final 2; Remainder to Final 3 (08:59:00) Official",3,Capital,3,07:01.982,23.681
+"#14 Mens Youth 4x Heat 1 Top 2 to Final 1, NFT (3rd) to Final 1; Next 3rds, 4ths, and NFT 5ths (2) to Final 2; Remainder to Final 3 (08:59:00) Official",4,"Redwood Scullers B (Perlroth, A.) ",5,07:03.582,25.281
+"#14 Mens Youth 4x Heat 1 Top 2 to Final 1, NFT (3rd) to Final 1; Next 3rds, 4ths, and NFT 5ths (2) to Final 2; Remainder to Final 3 (08:59:00) Official",5,Maritime RC B,4,07:10.845,32.544
+"#14 Mens Youth 4x Heat 1 Top 2 to Final 1, NFT (3rd) to Final 1; Next 3rds, 4ths, and NFT 5ths (2) to Final 2; Remainder to Final 3 (08:59:00) Official",6,Texas RC B,6,07:38.057,59.756
+#15 Mens Youth 4x Heat 2 (09:07:00) Official,1,Maritime RC A,1,06:47.160,
+#15 Mens Youth 4x Heat 2 (09:07:00) Official,2,"Redwood Scullers A (Vaksman, C.) ",2,06:49.582,02.422
+#15 Mens Youth 4x Heat 2 (09:07:00) Official,3,Texas RC A,3,06:53.774,06.614
+#15 Mens Youth 4x Heat 2 (09:07:00) Official,4,"Los Gatos B (Lasso, A.) ",5,07:14.510,27.350
+#15 Mens Youth 4x Heat 2 (09:07:00) Official,5,Newport Sea Base B,6,07:23.085,35.925
+#15 Mens Youth 4x Heat 2 (09:07:00) Official,6,"Austin (Miguel, R.) ",4,07:35.995,48.835
+#16 Mens Youth 4x Heat 3 (09:15:00) Official,1,"Los Gatos A (Kramer, M.) ",1,06:44.187,
+#16 Mens Youth 4x Heat 3 (09:15:00) Official,2,"Long Beach Junior Crew (Griffin, T.) ",2,06:49.477,05.290
+#16 Mens Youth 4x Heat 3 (09:15:00) Official,3,Casitas Rowing,3,07:00.914,16.727
+#16 Mens Youth 4x Heat 3 (09:15:00) Official,4,OARS,4,07:01.202,17.015
+#16 Mens Youth 4x Heat 3 (09:15:00) Official,5,"River City (Hoernlein, T.) ",6,07:32.933,48.746
+#16 Mens Youth 4x Heat 3 (09:15:00) Official,6,Lake Las Vegas,5,07:46.877,01:02.690
+#17 Womens U16 8+ Heat 1 All to Final (09:23:00) Official,1,"Marin (Ellington, B.) ",1,07:42.789,
+#17 Womens U16 8+ Heat 1 All to Final (09:23:00) Official,2,Newport Sea Base,3,08:12.418,29.629
+#17 Womens U16 8+ Heat 1 All to Final (09:23:00) Official,3,Norcal Crew,2,08:16.441,33.652
+#17 Womens U16 8+ Heat 1 All to Final (09:23:00) Official,4,"CCHS Crew (Galluccio, S.) ",4,08:47.075,01:04.286
+#18 12 Mens U16 8+ Heat 1 All to Final (09:31:00) Official,1,"Marin (Fasano, N.) ",1,06:52.038,
+#18 12 Mens U16 8+ Heat 1 All to Final (09:31:00) Official,2,Pacific,2,06:58.580,06.542
+#18 12 Mens U16 8+ Heat 1 All to Final (09:31:00) Official,3,"Long Beach Junior Crew (Price, K.) ",5,07:23.303,31.265
+#18 12 Mens U16 8+ Heat 1 All to Final (09:31:00) Official,4,Norcal Crew,3,07:44.563,52.525
+#18 12 Mens U16 8+ Heat 1 All to Final (09:31:00) Official,5,Dallas United,4,08:12.261,01:20.223
+#19 42 Womens U16 4x+ Heat 1 All to Final (09:39:00) Official,1,Maritime RC,1,08:22.293,
+#19 42 Womens U16 4x+ Heat 1 All to Final (09:39:00) Official,2,"Redwood Scullers (Naveen, A.) ",2,08:47.805,25.512
+#19 42 Womens U16 4x+ Heat 1 All to Final (09:39:00) Official,3,Norcal Crew,3,10:17.901,01:55.608
+#20 Mens U16 4x+ Heat 1 All to Final (09:47:00) Official,1,Newport Sea Base,3,07:44.661,
+#20 Mens U16 4x+ Heat 1 All to Final (09:47:00) Official,2,OARS,1,07:54.424,09.763
+#20 Mens U16 4x+ Heat 1 All to Final (09:47:00) Official,3,Lake Las Vegas,4,08:16.359,31.698
+#20 Mens U16 4x+ Heat 1 All to Final (09:47:00) Official,4,"CCHS Crew (MacNab, J.) ",5,08:18.815,34.154
+#20 Mens U16 4x+ Heat 1 All to Final (09:47:00) Official,5,Norcal Crew,2,08:19.215,34.554
+"#21 Womens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (09:55:00) Official",1,"Redwood Scullers A (PETRI, O.) ",1,07:46.824,
+"#21 Womens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (09:55:00) Official",2,"Los Gatos (Sivi, A.) ",2,07:58.874,12.050
+"#21 Womens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (09:55:00) Official",3,Texas RC,3,08:20.965,34.141
+"#21 Womens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (09:55:00) Official",4,Norcal Crew,4,08:22.280,35.456
+#22 Womens U17 4x Heat 2 (10:03:00) Official,1,Connecticut,2,07:59.789,
+#22 Womens U17 4x Heat 2 (10:03:00) Official,2,"Redwood Scullers B (Khawaja, F.) ",3,08:18.377,18.588
+#22 Womens U17 4x Heat 2 (10:03:00) Official,3,Maritime RC,1,08:30.260,30.471
+#22 Womens U17 4x Heat 2 (10:03:00) Official,4,Lake Las Vegas,4,08:48.919,49.130
+"#23 Mens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (10:11:00) Official",1,Maritime RC A,1,06:51.972,
+"#23 Mens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (10:11:00) Official",2,"Los Gatos A (Shetler, L.) ",2,07:01.914,09.942
+"#23 Mens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (10:11:00) Official",3,"River City (Davids, B.) ",4,07:26.514,34.542
+"#23 Mens U17 4x Heat 1 Top 3 to Final 1, Remainder to Final 2 (10:11:00) Official",4,"Austin (Engler, G.) ",3,07:48.543,56.571
+#24 Mens U17 4x Heat 2 (10:19:00) Official,1,Maritime RC B,3,07:05.647,
+#24 Mens U17 4x Heat 2 (10:19:00) Official,2,"Redwood Scullers (Gurenkov, D.) ",2,07:12.205,06.558
+#24 Mens U17 4x Heat 2 (10:19:00) Official,3,OARS,1,07:20.336,14.689
+#24 Mens U17 4x Heat 2 (10:19:00) Official,4,"Los Gatos B (Yoo, D.) ",4,07:29.912,24.265
+"#25 Mens Masters 8+ H, I (70+) Final 1 (10:39:00) Official",1,Kent Mitchell (H),1,08:00.633,
+"#25 Mens Masters 8+ H, I (70+) Final 1 (10:39:00) Official",2,San Diego RC (H),2,09:10.147,01:09.514
+#26 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Heat 1 All to Final (10:47:00) Official,1,Texas Austin,1,06:43.845,
+#26 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Heat 1 All to Final (10:47:00) Official,2,California,2,06:47.958,04.113
+#26 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Heat 1 All to Final (10:47:00) Official,3,"Washington (Cossill, E.) ",4,06:56.635,12.790
+#26 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Heat 1 All to Final (10:47:00) Official,4,USC,5,06:58.953,15.108
+#26 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Heat 1 All to Final (10:47:00) Official,5,UCLA,3,07:07.112,23.267
+#27 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Heat 1 All to Final (10:55:00) Official,1,UC Santa Barbara,3,07:42.034,
+#27 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Heat 1 All to Final (10:55:00) Official,2,Purdue,2,07:47.234,05.200
+#27 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Heat 1 All to Final (10:55:00) Official,3,U of Calgary RC,1,08:10.865,28.831
+#27 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Heat 1 All to Final (10:55:00) Official,4,Colorado,4,08:17.990,35.956
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",1,San Diego,1,07:14.097,
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",2,Oklahoma,3,07:15.758,01.661
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",3,UC San Diego,4,07:21.270,07.173
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",4,"Old Dominion (Carlisle, A.) ",6,07:23.356,09.259
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",5,"MIT (LTWT) (Love, K.) ",7,07:26.045,11.948
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",6,Bates,2,07:26.231,12.134
+"#28 Womens Collegiate Varsity UCSD Health Cal Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:03:00) Official",7,Marist,5,07:31.695,17.598
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,1,Stanford,2,06:55.680,
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,2,Gonzaga,1,06:58.784,03.104
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,3,"Sacramento St (YOUNG, H.) ",3,07:12.434,16.754
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,4,MIT,4,07:20.286,24.606
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,5,Loyola Marymount,6,07:25.586,29.906
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,6,Portland,5,07:25.894,30.214
+#29 Womens Collegiate Varsity UCSD Health Cal Cup Heat 2 (11:11:00) Official,7,"SeattleU (Logan, C.) ",7,07:42.461,46.781
+"#30 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 1 1-2 to Final 1 (Copley Cup), 3-4 to Final 2 (Cal Cup), Remainder to Final 3 (11:19:00) Official",1,San Diego,1,06:26.570,
+"#30 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 1 1-2 to Final 1 (Copley Cup), 3-4 to Final 2 (Cal Cup), Remainder to Final 3 (11:19:00) Official",2,Bates,2,06:30.710,04.140
+"#30 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 1 1-2 to Final 1 (Copley Cup), 3-4 to Final 2 (Cal Cup), Remainder to Final 3 (11:19:00) Official",3,MIT,3,06:35.200,08.630
+"#30 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 1 1-2 to Final 1 (Copley Cup), 3-4 to Final 2 (Cal Cup), Remainder to Final 3 (11:19:00) Official",4,UC Santa Barbara,4,06:38.050,11.480
+"#30 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 1 1-2 to Final 1 (Copley Cup), 3-4 to Final 2 (Cal Cup), Remainder to Final 3 (11:19:00) Official",5,Long Beach St,5,06:57.100,30.530
+#31 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 2 (11:27:00) Official,1,A.S.R. Nereus,1,06:16.309,
+#31 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 2 (11:27:00) Official,2,Gonzaga,2,06:24.350,08.041
+#31 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 2 (11:27:00) Official,3,"Marietta (Puntarelli, G.) ",3,06:37.684,21.375
+#31 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 2 (11:27:00) Official,4,Orange Coast,4,06:41.002,24.693
+#31 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 2 (11:27:00) Official,5,UC Davis,5,06:51.777,35.468
+#32 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 3 (11:35:00) Official,1,UC San Diego,2,06:21.669,
+#32 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 3 (11:35:00) Official,2,Marist,1,06:24.419,02.750
+#32 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 3 (11:35:00) Official,3,UCLA,3,06:27.596,05.927
+#32 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 3 (11:35:00) Official,4,Purdue,4,06:28.080,06.411
+#32 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 3 (11:35:00) Official,5,Loyola Marymount,5,06:52.527,30.858
+#32 Mens Varsity Active&Fit Now Cal/Copley Cup Eight Heat 3 (11:35:00) Official,6,Colorado,6,07:13.732,52.063
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",1,USC,2,07:39.377,
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",2,"Washington (McNamara-Smith, C.) ",3,07:49.465,10.088
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",3,Oklahoma,4,08:05.742,26.365
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",4,San Diego,1,08:12.413,33.036
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",5,UC San Diego,5,08:33.227,53.850
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",6,"Old Dominion (Hoff, A.) ",7,08:39.475,01:00.098
+"#33 50 Womens Collegiate Varsity 4+ Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (11:43:00) Official",7,Portland,6,08:43.738,01:04.361
+#34 50 Womens Collegiate Varsity 4+ Heat 2 (11:51:00) Official,1,Texas Austin,1,07:35.318,
+#34 50 Womens Collegiate Varsity 4+ Heat 2 (11:51:00) Official,2,California,2,07:41.910,06.592
+#34 50 Womens Collegiate Varsity 4+ Heat 2 (11:51:00) Official,3,Gonzaga,3,08:03.664,28.346
+#34 50 Womens Collegiate Varsity 4+ Heat 2 (11:51:00) Official,4,UCLA,4,08:09.062,33.744
+#34 50 Womens Collegiate Varsity 4+ Heat 2 (11:51:00) Official,5,MIT,6,08:27.781,52.463
+#34 50 Womens Collegiate Varsity 4+ Heat 2 (11:51:00) Official,6,"Sacramento St (Nixon, B.) ",5,08:28.445,53.127
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",1,California,2,06:55.154,
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",2,USC,1,06:55.666,00.512
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",3,UCLA,3,07:13.354,18.200
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",4,Oklahoma,4,07:19.779,24.625
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",5,San Diego,5,07:25.906,30.752
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",6,"Sacramento St (Goddard, W.) ",6,07:27.891,32.737
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",7,Marist,7,07:37.908,42.754
+"#35 4 Womens Collegiate 2V Heat 1 1-4 to Final 1, Remainder to Final 2 (11:59:00) Official",8,Portland,8,07:39.350,44.196
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,1,Texas Austin,1,06:30.880,
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,2,"Washington (Bryant, M.) ",2,06:34.127,03.247
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,3,Stanford,3,06:47.952,17.072
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,4,Gonzaga,4,06:48.805,17.925
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,5,UC San Diego,6,06:59.825,28.945
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,6,Loyola Marymount,8,07:01.900,31.020
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,7,MIT,7,07:07.032,36.152
+#36 4 Womens Collegiate 2V Heat 2 (15:36:00) Official,8,Bates,5,07:12.945,42.065
+"#37 23 Mens Collegiate 2V Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:15:00) Official",1,Purdue,4,06:39.418,
+"#37 23 Mens Collegiate 2V Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:15:00) Official",2,Gonzaga,2,06:40.876,01.458
+"#37 23 Mens Collegiate 2V Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:15:00) Official",3,San Diego,1,06:42.510,03.092
+"#37 23 Mens Collegiate 2V Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:15:00) Official",4,MIT,3,06:43.955,04.537
+"#37 23 Mens Collegiate 2V Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:15:00) Official",5,UCLA,5,06:56.245,16.827
+#38 23 Mens Collegiate 2V Heat 2 (12:23:00) Official,1,UC San Diego,2,06:28.526,
+#38 23 Mens Collegiate 2V Heat 2 (12:23:00) Official,2,Marist,1,06:33.855,05.329
+#38 23 Mens Collegiate 2V Heat 2 (12:23:00) Official,3,"Marietta (McWhite, J.) ",4,06:41.794,13.268
+#38 23 Mens Collegiate 2V Heat 2 (12:23:00) Official,4,Bates,3,06:43.340,14.814
+#38 23 Mens Collegiate 2V Heat 2 (12:23:00) Official,-,Colorado,5,DNS,
+#39 7 Womens Collegiate Novice Heat 1 All to Final (12:31:00) Official,1,"Washington (Fehling, B.) ",1,07:14.448,
+#39 7 Womens Collegiate Novice Heat 1 All to Final (12:31:00) Official,2,UCLA,2,07:21.842,07.394
+#39 7 Womens Collegiate Novice Heat 1 All to Final (12:31:00) Official,3,British Columbia,3,07:30.240,15.792
+#39 7 Womens Collegiate Novice Heat 1 All to Final (12:31:00) Official,4,San Diego,5,07:35.119,20.671
+#39 7 Womens Collegiate Novice Heat 1 All to Final (12:31:00) Official,5,Oklahoma,6,07:35.238,20.790
+#39 7 Womens Collegiate Novice Heat 1 All to Final (12:31:00) Official,6,Loyola Marymount,4,08:15.684,01:01.236
+"#40 29 Mens Collegiate Novice Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:39:00) Official",1,Orange Coast,1,06:50.264,
+"#40 29 Mens Collegiate Novice Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:39:00) Official",2,Loyola Marymount,2,07:11.966,21.702
+"#40 29 Mens Collegiate Novice Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:39:00) Official",3,UC Santa Barbara,3,07:15.124,24.860
+"#40 29 Mens Collegiate Novice Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:39:00) Official",4,Long Beach St,4,07:19.978,29.714
+"#40 29 Mens Collegiate Novice Heat 1 Top 3 to Final 1, Remainder to Final 2 (12:39:00) Official",5,SDSU - Men,5,07:26.289,36.025
+#41 29 Mens Collegiate Novice Heat 2 (12:47:00) Official,1,UCLA,1,06:43.374,
+#41 29 Mens Collegiate Novice Heat 2 (12:47:00) Official,2,"Southern California (Labounko, T.) ",3,06:48.678,05.304
+#41 29 Mens Collegiate Novice Heat 2 (12:47:00) Official,3,U of Calgary RC,2,06:55.541,12.167
+#41 29 Mens Collegiate Novice Heat 2 (12:47:00) Official,4,"UC Davis (Mohamad Khani, A.) ",4,06:58.674,15.300
+#41 29 Mens Collegiate Novice Heat 2 (12:47:00) Official,5,Colorado,5,07:36.232,52.858
+#42 25/46/58 Adaptive M/W/MX 2x (13:32:00) Official,1,"Casitas Rowing (Salcedo Power, A.) ",3,08:55.531,
+#42 25/46/58 Adaptive M/W/MX 2x (13:32:00) Official,2,"Athletes Without Limits (Boldt, J.) ",2,09:08.219,12.688
+#42 25/46/58 Adaptive M/W/MX 2x (13:32:00) Official,3,"Athletes Without Limits (Ourada, L.) ",1,09:50.769,55.238
+#42 25/46/58 Adaptive M/W/MX 2x (13:32:00) Official,4,"Endeavor Racing Alliance (Jewell, E.) ",6,10:02.581,01:07.050
+#42 25/46/58 Adaptive M/W/MX 2x (13:32:00) Official,5,"Athletes Without Limits (Hurley, P.) ",5,10:54.327,01:58.796
+#42 25/46/58 Adaptive M/W/MX 2x (13:32:00) Official,6,"Atlanta (Barbee, W.) ",4,12:14.317,03:18.786
+#43 M/W/MX PR 8+ Final 1 (13:44:00) Official,1,"Athletes Without LimitsCRI (Delsordo, A.) ",2,07:27.760,
+#43 M/W/MX PR 8+ Final 1 (13:44:00) Official,2,"Freedom Rows/USRowing/Detroit BC/Atlanta/OKC Riversport (Campbell, R.) ",1,08:59.340,01:31.580
+#43 M/W/MX PR 8+ Final 1 (13:44:00) Official,3,"Freedom Rows/USRowing/San Diego RC/OKC Riversport (Cao, K.) ",3,09:42.260,02:14.500
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",1,"Cambridge (Pierce, J.) ",1,06:57.886,06:11.686 HC(age:61 -00:46.200),
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",2,"San Diego (Kapicka, M.) ",5,07:11.570,06:27.970 HC(age:60 -00:43.600),16.284
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",3,"Sammamish (Senenko, W.) ",3,06:50.290,06:30.890 HC(age:49 -00:19.400),19.204
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",4,Riverside,6,06:31.555,19.869,
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",5,"Crimson Death Barge (Caughey, T.) ",4,07:01.813,06:38.813 HC(age:51 -00:23.000),27.127
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",6,"Potomac (Merchant, W.) ",2,06:48.360,36.674,
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",7,"Potomac (DeLo, C.) ",8,07:00.323,06:51.323 HC(age:42 -00:09.000),39.637
+"#44 3 Mens Masters 8+ Club Heat 1 1-4 to Final 1, Remainder to Final 2 (14:00:00) Official",8,BIAC,7,06:59.030,47.344,
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,1,"Marin (Aguiar, M.) ",5,06:49.182,06:13.182 HC(age:57 -00:36.000),
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,2,"Rocky Mountain (Springer, G.) ",2,07:09.602,06:20.602 HC(age:62 -00:49.000),07.420
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,3,"North Dakota (McCabe, C.) ",6,06:45.652,06:22.652 HC(age:51 -00:23.000),09.470
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,4,"East Bay (Scott, H.) ",3,06:32.538,06:27.738 HC(age:38 -00:04.800),14.556
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,5,Texas RC,1,06:45.735,06:31.335 HC(age:46 -00:14.400),18.153
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,6,"Lake Union (Tan, A.) ",4,06:35.398,06:34.798 HC(age:31 -00:00.600),21.616
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,7,Riverside,8,06:39.872,26.690,
+#45 3 Mens Masters 8+ Club Heat 2 (14:08:00) Official,8,"Station L (Glasfeld, A.) ",7,07:05.542,06:40.542 HC(age:52 -00:25.000),27.360
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",1,Long Beach,3,07:20.091,06:58.891 HC(age:50 -00:21.200)
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",2,Sarasota,6,07:26.068,06:59.068 HC(age:53 -00:27.000),00.177
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",3,"College Club Seattle (Scull, C.) ",1,07:28.224,07:07.024 HC(age:50 -00:21.200),08.133
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",4,Martha's Moms,2,07:43.734,07:07.734 HC(age:57 -00:36.000),08.843
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",5,BIAC,4,07:43.624,07:22.424 HC(age:50 -00:21.200),23.533
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",6,"Station L (Walker, S.) ",5,07:45.054,07:23.854 HC(age:50 -00:21.200),24.963
+"#46 30 Womens Masters 8+ Club Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (14:16:00) Official",7,Martha's Moms,7,08:43.408,07:36.208 HC(age:68 -01:07.200),37.317
+#47 30 Womens Masters 8+ Club Heat 2 (14:24:00) Official,1,"Sammamish (Teschke, J.) ",1,07:28.587,07:14.187 HC(age:46 -00:14.400)
+#47 30 Womens Masters 8+ Club Heat 2 (14:24:00) Official,2,Texas RC,3,07:18.322,07:14.322 HC(age:37 -00:04.000),00.135
+#47 30 Womens Masters 8+ Club Heat 2 (14:24:00) Official,3,"Rogue Rowing (Rimov, C.) ",5,07:56.091,07:26.891 HC(age:54 -00:29.200),12.704
+#47 30 Womens Masters 8+ Club Heat 2 (14:24:00) Official,4,"Sammamish (Kovaly, J.) ",6,08:07.937,07:29.537 HC(age:58 -00:38.400),15.350
+#47 30 Womens Masters 8+ Club Heat 2 (14:24:00) Official,5,"Vancouver (Riley, P.) ",4,07:45.552,07:38.752 HC(age:40 -00:06.800),24.565
+#47 30 Womens Masters 8+ Club Heat 2 (14:24:00) Official,6,"Lake Union (Werner, J.) ",2,08:01.191,08:00.191 HC(age:32 -00:01.000),46.004
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,1,Texas Austin,3,06:41.124,
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,2,California,2,06:47.987,06.863
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,3,"Washington (Adebiyi, A.) ",1,06:54.267,13.143
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,4,Baja California St,5,07:02.144,21.020
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,5,USC,7,07:08.887,27.763
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,6,U of Calgary RC,4,07:19.201,38.077
+#48 17 Womens Open 8+ Heat 1 All to Final (14:32:00) Official,7,Bates,6,07:36.901,55.777
+#49 24 Mens Open 8+ Heat 1 All to Final (14:40:00) Official,1,Baja California St,1,06:13.317,
+#49 24 Mens Open 8+ Heat 1 All to Final (14:40:00) Official,2,Butte,4,06:20.827,07.510
+#49 24 Mens Open 8+ Heat 1 All to Final (14:40:00) Official,3,Long Beach St,3,06:28.644,15.327
+#49 24 Mens Open 8+ Heat 1 All to Final (14:40:00) Official,4,U of Calgary RC,2,06:31.034,17.717
+"#50 Womens Youth Gilman-Mulliken Cup Heat 1 Top 2 To Final 1,  3-4 to Final 2, 5-6 to Final 3 (14:48:00) Official",1,Connecticut,2,07:00.010,
+"#50 Womens Youth Gilman-Mulliken Cup Heat 1 Top 2 To Final 1,  3-4 to Final 2, 5-6 to Final 3 (14:48:00) Official",2,San Diego RC,1,07:00.287,00.277
+"#50 Womens Youth Gilman-Mulliken Cup Heat 1 Top 2 To Final 1,  3-4 to Final 2, 5-6 to Final 3 (14:48:00) Official",3,Long Beach Junior Crew,3,07:12.300,12.290
+"#50 Womens Youth Gilman-Mulliken Cup Heat 1 Top 2 To Final 1,  3-4 to Final 2, 5-6 to Final 3 (14:48:00) Official",4,"Dallas United (Rodriguez, E.) ",5,07:12.697,12.687
+"#50 Womens Youth Gilman-Mulliken Cup Heat 1 Top 2 To Final 1,  3-4 to Final 2, 5-6 to Final 3 (14:48:00) Official",5,Texas RC,4,07:19.647,19.637
+"#50 Womens Youth Gilman-Mulliken Cup Heat 1 Top 2 To Final 1,  3-4 to Final 2, 5-6 to Final 3 (14:48:00) Official",6,ZLAC,6,07:50.158,50.148
+#51 Womens Youth Gilman-Mulliken Cup Heat 2 (14:56:00) Official,1,"Marin (Lermusiaux, J.) ",1,06:41.505,
+#51 Womens Youth Gilman-Mulliken Cup Heat 2 (14:56:00) Official,2,Capital,2,06:54.450,12.945
+#51 Womens Youth Gilman-Mulliken Cup Heat 2 (14:56:00) Official,3,Norcal Crew,3,06:57.856,16.351
+#51 Womens Youth Gilman-Mulliken Cup Heat 2 (14:56:00) Official,4,Pacific,4,07:09.614,28.109
+#51 Womens Youth Gilman-Mulliken Cup Heat 2 (14:56:00) Official,5,River City,5,07:15.096,33.591
+#51 Womens Youth Gilman-Mulliken Cup Heat 2 (14:56:00) Official,6,"CCHS Crew (Ewart, C.) ",6,07:50.321,01:08.816
+#52 Womens Youth Gilman-Mulliken Cup Heat 3 (15:04:00) Official,1,Newport,1,06:43.723,
+#52 Womens Youth Gilman-Mulliken Cup Heat 3 (15:04:00) Official,2,Saugatuck,2,06:47.837,04.114
+#52 Womens Youth Gilman-Mulliken Cup Heat 3 (15:04:00) Official,3,Marina Aquatic Center,4,07:03.037,19.314
+#52 Womens Youth Gilman-Mulliken Cup Heat 3 (15:04:00) Official,4,Sammamish,3,07:06.040,22.317
+#52 Womens Youth Gilman-Mulliken Cup Heat 3 (15:04:00) Official,5,"Saint Ignatius (Visser, G.) ",6,07:15.000,31.277
+#52 Womens Youth Gilman-Mulliken Cup Heat 3 (15:04:00) Official,6,"White Rock Rowing (Fox, E.) ",5,07:20.507,36.784
+"#53 Mens Youth San Diego Rowing Cup Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:12:00) Official",1,Saugatuck,2,06:05.901,
+"#53 Mens Youth San Diego Rowing Cup Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:12:00) Official",2,San Diego RC,1,06:08.431,02.530
+"#53 Mens Youth San Diego Rowing Cup Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:12:00) Official",3,OARS,3,06:11.688,05.787
+"#53 Mens Youth San Diego Rowing Cup Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:12:00) Official",4,Dallas United Crew,4,06:24.428,18.527
+"#53 Mens Youth San Diego Rowing Cup Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:12:00) Official",5,Saint Ignatius,5,06:32.888,26.987
+#54 Mens Youth San Diego Rowing Cup Heat 2 (15:20:00) Official,1,"Marin (Sutherland, K.) ",1,06:08.656,
+#54 Mens Youth San Diego Rowing Cup Heat 2 (15:20:00) Official,2,Norcal Crew,2,06:11.842,03.186
+#54 Mens Youth San Diego Rowing Cup Heat 2 (15:20:00) Official,3,"Long Beach Junior Crew (Hutton, R.) ",3,06:20.279,11.623
+#54 Mens Youth San Diego Rowing Cup Heat 2 (15:20:00) Official,4,Marina Aquatic Center,5,06:20.862,12.206
+#54 Mens Youth San Diego Rowing Cup Heat 2 (15:20:00) Official,5,Sammamish,4,06:24.266,15.610
+#55 Mens Youth San Diego Rowing Cup Heat 3 (15:28:00) Official,1,Newport,1,06:06.446,
+#55 Mens Youth San Diego Rowing Cup Heat 3 (15:28:00) Official,2,Maritime RC,3,06:19.488,13.042
+#55 Mens Youth San Diego Rowing Cup Heat 3 (15:28:00) Official,3,Capital,2,06:22.194,15.748
+#55 Mens Youth San Diego Rowing Cup Heat 3 (15:28:00) Official,4,Pacific,4,06:22.961,16.515
+#55 Mens Youth San Diego Rowing Cup Heat 3 (15:28:00) Official,5,"CCHS Crew (Krich, G.) ",5,06:37.454,31.008
+"#56 Womens U17 Referee Cup LA84 Foundation Trophy Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:44:00) Official",1,Capital,2,07:09.953,
+"#56 Womens U17 Referee Cup LA84 Foundation Trophy Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:44:00) Official",2,"Marin (King, A.) ",1,07:16.020,06.067
+"#56 Womens U17 Referee Cup LA84 Foundation Trophy Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:44:00) Official",3,White Rock Rowing,5,07:33.767,23.814
+"#56 Womens U17 Referee Cup LA84 Foundation Trophy Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:44:00) Official",4,"Saint Ignatius (Keene, A.) ",4,07:42.992,33.039
+"#56 Womens U17 Referee Cup LA84 Foundation Trophy Heat 1 Top 2 To Final 1, 3-4 to Final 2, 5-6 to Final 3 (15:44:00) Official",5,San Diego RC,3,07:49.360,39.407
+#57 Womens U17 Referee Cup LA84 Foundation Trophy Heat 2 (15:52:00) Official,1,Long Beach Junior Crew,1,07:09.899,
+#57 Womens U17 Referee Cup LA84 Foundation Trophy Heat 2 (15:52:00) Official,2,Pacific,2,07:11.509,01.610
+#57 Womens U17 Referee Cup LA84 Foundation Trophy Heat 2 (15:52:00) Official,3,Marina Aquatic Center,3,07:29.121,19.222
+#57 Womens U17 Referee Cup LA84 Foundation Trophy Heat 2 (15:52:00) Official,4,"Dallas United A (Bell, V.) ",4,07:51.579,41.680
+#58 Womens U17 Referee Cup LA84 Foundation Trophy Heat 3 (16:00:00) Official,1,Newport,1,07:12.254,
+#58 Womens U17 Referee Cup LA84 Foundation Trophy Heat 3 (16:00:00) Official,2,Norcal Crew,2,07:14.081,01.827
+#58 Womens U17 Referee Cup LA84 Foundation Trophy Heat 3 (16:00:00) Official,3,"Austin (Ueber, I.) ",4,07:23.918,11.664
+#58 Womens U17 Referee Cup LA84 Foundation Trophy Heat 3 (16:00:00) Official,4,Casitas Rowing,3,07:41.244,28.990
+#58 Womens U17 Referee Cup LA84 Foundation Trophy Heat 3 (16:00:00) Official,5,Dallas United B,5,08:15.793,01:03.539
+"#59 Mens U17 Shimano Rowing Dynamics Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:08:00) Official",1,Newport,1,06:35.580,
+"#59 Mens U17 Shimano Rowing Dynamics Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:08:00) Official",2,"Marin B (Wilcox, B.) ",2,06:38.637,03.057
+"#59 Mens U17 Shimano Rowing Dynamics Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:08:00) Official",3,Norcal Crew,3,06:44.714,09.134
+"#59 Mens U17 Shimano Rowing Dynamics Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:08:00) Official",4,Dallas United,4,06:45.917,10.337
+"#59 Mens U17 Shimano Rowing Dynamics Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:08:00) Official",5,Casitas Rowing,5,07:17.785,42.205
+#60 Mens U17 Shimano Rowing Dynamics Cup Heat 2 (16:16:00) Official,1,"Marin A (Ryan, H.) ",1,06:21.327,
+#60 Mens U17 Shimano Rowing Dynamics Cup Heat 2 (16:16:00) Official,2,"Long Beach Junior Crew (Josephbek, C.) ",2,06:35.900,14.573
+#60 Mens U17 Shimano Rowing Dynamics Cup Heat 2 (16:16:00) Official,3,San Diego RC,3,06:37.887,16.560
+#60 Mens U17 Shimano Rowing Dynamics Cup Heat 2 (16:16:00) Official,4,"CCHS Crew (Wittman, H.) ",5,07:00.292,38.965
+#60 Mens U17 Shimano Rowing Dynamics Cup Heat 2 (16:16:00) Official,5,Marina Aquatic Center,4,07:12.148,50.821
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",1,Newport A,2,06:59.475,
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",2,Capital,3,07:13.667,14.192
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",3,Marin B,5,07:16.290,16.815
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",4,San Diego RC,1,07:22.613,23.138
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",5,Sammamish,4,07:26.087,26.612
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",6,River City,6,07:33.627,34.152
+"#61 Womens Youth B ZLAC Rowing Club Cup Heat 1 1-3 to Final 1, NFT (4th) to Final 1; Remainder to Final 2 (16:24:00) Official",7,"Saint Ignatius (Riad, D.) ",7,07:40.477,41.002
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,1,"Marin A (Holtz, M.) ",1,06:55.782,
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,2,Saugatuck,2,07:10.618,14.836
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,3,Norcal Crew,3,07:18.338,22.556
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,4,Newport B,6,07:23.485,27.703
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,5,Marina Aquatic Center,7,07:29.105,33.323
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,6,Pacific,5,07:51.155,55.373
+#62 Womens Youth B ZLAC Rowing Club Cup Heat 2 (16:32:00) Official,7,Long Beach Junior Crew,4,07:54.108,58.326
+"#63 Mens Youth B Jean Jessop Hervey Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:40:00) Official",1,Saugatuck,3,06:22.737,
+"#63 Mens Youth B Jean Jessop Hervey Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:40:00) Official",2,San Diego RC,1,06:24.210,01.473
+"#63 Mens Youth B Jean Jessop Hervey Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:40:00) Official",3,Norcal Crew,2,06:25.730,02.993
+"#63 Mens Youth B Jean Jessop Hervey Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:40:00) Official",4,Newport B,4,06:26.207,03.470
+"#63 Mens Youth B Jean Jessop Hervey Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:40:00) Official",5,Newport Sea Base,5,06:39.340,16.603
+"#63 Mens Youth B Jean Jessop Hervey Cup Heat 1 Top 3 to Final 1, Remainder to Final 2 (16:40:00) Official",6,Saint Ignatius,6,06:59.137,36.400
+#64 Mens Youth B Jean Jessop Hervey Cup Heat 2 (16:48:00) Official,1,"Marin (McMahon, W.) ",1,06:17.698,
+#64 Mens Youth B Jean Jessop Hervey Cup Heat 2 (16:48:00) Official,2,Newport A,2,06:20.209,02.511
+#64 Mens Youth B Jean Jessop Hervey Cup Heat 2 (16:48:00) Official,3,Sammamish,4,06:35.753,18.055
+#64 Mens Youth B Jean Jessop Hervey Cup Heat 2 (16:48:00) Official,4,Pacific,3,06:38.119,20.421
+#64 Mens Youth B Jean Jessop Hervey Cup Heat 2 (16:48:00) Official,5,Dallas United,6,06:42.269,24.571
+#64 Mens Youth B Jean Jessop Hervey Cup Heat 2 (16:48:00) Official,6,Marina Aquatic Center,5,06:45.924,28.226
+#65 Womens Concept2 Youth 4x Final 3 (16:56:00) Official,1,"Redwood Scullers C (Bollyky, G.) ",2,07:44.216,
+#65 Womens Concept2 Youth 4x Final 3 (16:56:00) Official,2,"RowLA (Goldstein, E.) ",4,07:46.713,02.497
+#65 Womens Concept2 Youth 4x Final 3 (16:56:00) Official,3,Lake Las Vegas,1,08:06.590,22.374
+#65 Womens Concept2 Youth 4x Final 3 (16:56:00) Official,4,"Austin (Apostolakis, A.) ",3,08:30.296,46.080
+#65 Womens Concept2 Youth 4x Final 3 (16:56:00) Official,5,Community Rowing SD,5,11:02.915,03:18.699
+#66 Mens Youth 4x Final 3 (17:04:00) Official,1,Texas RC B,2,07:02.376,
+#66 Mens Youth 4x Final 3 (17:04:00) Official,2,"Austin (Miguel, R.) ",3,07:06.516,04.140
+#66 Mens Youth 4x Final 3 (17:04:00) Official,3,"River City (Hoernlein, T.) ",1,07:17.276,14.900
+#66 Mens Youth 4x Final 3 (17:04:00) Official,4,Lake Las Vegas,4,07:17.879,15.503
+#67 Womens Youth Gilman-Mulliken Cup Final 3 (17:12:00) Official,1,"Saint Ignatius (Visser, G.) ",3,07:22.298,
+#67 Womens Youth Gilman-Mulliken Cup Final 3 (17:12:00) Official,2,River City,2,07:23.078,00.780
+#67 Womens Youth Gilman-Mulliken Cup Final 3 (17:12:00) Official,3,Texas RC,1,07:28.595,06.297
+#67 Womens Youth Gilman-Mulliken Cup Final 3 (17:12:00) Official,4,"White Rock Rowing (Fox, E.) ",6,07:38.188,15.890
+#67 Womens Youth Gilman-Mulliken Cup Final 3 (17:12:00) Official,5,ZLAC,4,07:53.960,31.662
+#67 Womens Youth Gilman-Mulliken Cup Final 3 (17:12:00) Official,6,"CCHS Crew (Ewart, C.) ",5,08:01.020,38.722
+#68 Mens Youth San Diego Rowing Cup Final 3 (17:20:00) Official,1,Sammamish,2,06:33.848,
+#68 Mens Youth San Diego Rowing Cup Final 3 (17:20:00) Official,2,Saint Ignatius,1,06:36.182,02.334
+#68 Mens Youth San Diego Rowing Cup Final 3 (17:20:00) Official,3,"CCHS Crew (Krich, G.) ",3,06:53.398,19.550
+#69 Womens U17 Referee Cup LA84 Foundation Trophy Final 3 (17:28:00) Official,1,San Diego RC,1,08:02.733,
+#69 Womens U17 Referee Cup LA84 Foundation Trophy Final 3 (17:28:00) Official,2,Dallas United B,2,08:32.693,29.960
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",1,"Unaff. (CAN) (F) (Forgeron, M.) ",7,06:37.558,
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",2,"Cambridge (F) (Pierce, J.) ",1,06:44.858,07.300
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",3,"Long Beach (F) (Bater, B.) ",2,06:58.333,20.775
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",4,"Rocky Mountain (F) (Springer, G.) ",3,07:03.484,25.926
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",5,"Kent Mitchell (G) (Ives, E.) ",5,07:04.231,26.673
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",6,"North Dakota/San Diego (G) (Garcia-May, M.) ",6,07:09.700,32.142
+"#70 Mens Masters F,G Final 1 (07:15:00) Official",7,"Texas RC/San Diego RC (G) (Bennett, K.) ",4,07:12.289,34.731
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",1,"Endeavor Racing Alliance (F) (Friel, H.) ",2,07:38.966,
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",2,"Long Beach (G) (Malacrida, G.) ",1,07:49.166,10.200
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",3,Martha's Moms (F),3,07:57.708,18.742
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",4,"East Bay (F) (Velez, P.) ",5,08:01.082,22.116
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",5,"Station L (F) (Ey, S.) ",4,08:10.177,31.211
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",6,"Martha's Moms (G) (Smith, J.) ",7,08:19.873,40.907
+"#71 Womens Masters F,G,H,I Campland on the Bay Trophy (60+) Final 1 (07:23:00) Official",7,"San Diego RC (H) (Conn, M.) ",6,08:42.311,01:03.345
+#72 Womens Concept2 Youth 4x Final 2 (07:31:00) Official,1,Los Gatos B,1,07:29.792,
+#72 Womens Concept2 Youth 4x Final 2 (07:31:00) Official,2,Maritime RC B,5,07:36.139,06.347
+#72 Womens Concept2 Youth 4x Final 2 (07:31:00) Official,3,Norcal Crew,2,07:37.823,08.031
+#72 Womens Concept2 Youth 4x Final 2 (07:31:00) Official,4,Texas RC,4,07:41.854,12.062
+#72 Womens Concept2 Youth 4x Final 2 (07:31:00) Official,5,Casitas Rowing,6,07:49.537,19.745
+#72 Womens Concept2 Youth 4x Final 2 (07:31:00) Official,6,Newport Sea Base B,3,07:55.637,25.845
+#73 Womens Concept2 Youth 4x Final 1 (07:39:00) Official,1,"Redwood Scullers A (Phipps, C.) ",1,07:07.145,
+#73 Womens Concept2 Youth 4x Final 1 (07:39:00) Official,2,Los Gatos A,2,07:13.025,05.880
+#73 Womens Concept2 Youth 4x Final 1 (07:39:00) Official,3,Long Beach Junior Crew,5,07:26.445,19.300
+#73 Womens Concept2 Youth 4x Final 1 (07:39:00) Official,4,Newport Sea Base A,4,07:28.811,21.666
+#73 Womens Concept2 Youth 4x Final 1 (07:39:00) Official,5,"Redwood Scullers B (Ha, A.) ",6,07:29.505,22.360
+#73 Womens Concept2 Youth 4x Final 1 (07:39:00) Official,6,Maritime RC A,3,07:29.916,22.771
+#74 Mens Youth 4x Final 2 (07:47:00) Official,1,"Redwood Scullers B (Perlroth, A.) ",3,06:43.922,
+#74 Mens Youth 4x Final 2 (07:47:00) Official,2,Maritime RC B,6,06:46.666,02.744
+#74 Mens Youth 4x Final 2 (07:47:00) Official,3,Casitas Rowing,1,06:46.964,03.042
+#74 Mens Youth 4x Final 2 (07:47:00) Official,4,"Los Gatos B (Lasso, A.) ",4,06:47.133,03.211
+#74 Mens Youth 4x Final 2 (07:47:00) Official,5,OARS,5,06:48.875,04.953
+#74 Mens Youth 4x Final 2 (07:47:00) Official,6,Newport Sea Base B,7,06:58.417,14.495
+#74 Mens Youth 4x Final 2 (07:47:00) Official,7,Capital,2,07:06.977,23.055
+#75 Mens Youth 4x Final 1 (07:55:00) Official,1,Newport Sea Base A,1,06:21.129,
+#75 Mens Youth 4x Final 1 (07:55:00) Official,2,"Los Gatos A (Kramer, M.) ",3,06:23.391,02.262
+#75 Mens Youth 4x Final 1 (07:55:00) Official,3,Artemis,4,06:28.391,07.262
+#75 Mens Youth 4x Final 1 (07:55:00) Official,4,"Redwood Scullers A (Vaksman, C.) ",5,06:28.685,07.556
+#75 Mens Youth 4x Final 1 (07:55:00) Official,5,Maritime RC A,2,06:32.516,11.387
+#75 Mens Youth 4x Final 1 (07:55:00) Official,6,Texas RC A,7,06:34.760,13.631
+#75 Mens Youth 4x Final 1 (07:55:00) Official,7,"Long Beach Junior Crew (Griffin, T.) ",6,06:42.165,21.036
+#76 Womens U16 8+ Final 1 (08:03:00) Official,1,"Marin (Ellington, B.) ",1,07:26.392,
+#76 Womens U16 8+ Final 1 (08:03:00) Official,2,Newport Sea Base,2,07:46.783,20.391
+#76 Womens U16 8+ Final 1 (08:03:00) Official,3,Norcal Crew,3,08:00.210,33.818
+#76 Womens U16 8+ Final 1 (08:03:00) Official,4,"CCHS Crew (Galluccio, S.) ",4,08:17.068,50.676
+#77 Mens U16 8+ Rose Cup Final 1 (08:11:00) Official,1,"Marin (Fasano, N.) ",1,06:43.635,
+#77 Mens U16 8+ Rose Cup Final 1 (08:11:00) Official,2,Pacific,2,06:49.099,05.464
+#77 Mens U16 8+ Rose Cup Final 1 (08:11:00) Official,3,Norcal Crew,5,06:59.175,15.540
+#77 Mens U16 8+ Rose Cup Final 1 (08:11:00) Official,4,"Long Beach Junior Crew (Price, K.) ",3,07:03.744,20.109
+#77 Mens U16 8+ Rose Cup Final 1 (08:11:00) Official,5,Dallas United,4,07:51.635,01:08.000
+#78 Womens U16 Ulster Challenge Cup 4x+ Final 1 (08:19:00) Official,1,Maritime RC,1,08:03.337,
+#78 Womens U16 Ulster Challenge Cup 4x+ Final 1 (08:19:00) Official,2,"Redwood Scullers (Naveen, A.) ",2,08:25.479,22.142
+#78 Womens U16 Ulster Challenge Cup 4x+ Final 1 (08:19:00) Official,3,Norcal Crew,3,09:56.990,01:53.653
+#79 Mens U16 4x+ Final 1 (08:27:00) Official,1,OARS,2,07:36.130,
+#79 Mens U16 4x+ Final 1 (08:27:00) Official,2,Newport Sea Base,1,07:37.180,01.050
+#79 Mens U16 4x+ Final 1 (08:27:00) Official,3,Norcal Crew,5,08:02.720,26.590
+#79 Mens U16 4x+ Final 1 (08:27:00) Official,4,"CCHS Crew (MacNab, J.) ",4,08:07.380,31.250
+#79 Mens U16 4x+ Final 1 (08:27:00) Official,5,Lake Las Vegas,3,08:37.640,01:01.510
+#80 Womens U17 4x Final 2 (08:35:00) Official,1,Norcal Crew,1,08:24.585,
+#80 Womens U17 4x Final 2 (08:35:00) Official,2,Lake Las Vegas,2,08:31.940,07.355
+#81 Womens U17 4x Final 1 (08:43:00) Official,1,"Redwood Scullers A (PETRI, O.) ",1,07:34.117,
+#81 Womens U17 4x Final 1 (08:43:00) Official,2,"Los Gatos (Sivi, A.) ",3,07:41.354,07.237
+#81 Womens U17 4x Final 1 (08:43:00) Official,3,Connecticut,2,07:45.981,11.864
+#81 Womens U17 4x Final 1 (08:43:00) Official,4,Maritime RC,6,07:53.292,19.175
+#81 Womens U17 4x Final 1 (08:43:00) Official,5,"Redwood Scullers B (Khawaja, F.) ",4,08:05.021,30.904
+#81 Womens U17 4x Final 1 (08:43:00) Official,6,Texas RC,5,08:05.354,31.237
+#82 Mens U17 4x Final 2 (08:51:00) Official,1,"Los Gatos B (Yoo, D.) ",2,07:16.570,
+#82 Mens U17 4x Final 2 (08:51:00) Official,2,"Austin (Engler, G.) ",1,09:14.410,01:57.840
+#83 Mens U17 4x Final 1 (08:59:00) Official,1,Maritime RC A,1,06:46.337,
+#83 Mens U17 4x Final 1 (08:59:00) Official,2,Maritime RC B,2,06:52.977,06.640
+#83 Mens U17 4x Final 1 (08:59:00) Official,3,"Los Gatos A (Shetler, L.) ",3,06:53.366,07.029
+#83 Mens U17 4x Final 1 (08:59:00) Official,4,OARS,6,06:58.053,11.716
+#83 Mens U17 4x Final 1 (08:59:00) Official,5,"Redwood Scullers (Gurenkov, D.) ",4,06:59.533,13.196
+#83 Mens U17 4x Final 1 (08:59:00) Official,6,"River City (Davids, B.) ",5,07:16.189,29.852
+#84 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Final 1 (09:19:00) Official,1,Texas Austin,1,06:26.265,
+#84 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Final 1 (09:19:00) Official,2,California,2,06:32.803,06.538
+#84 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Final 1 (09:19:00) Official,3,"Washington (Cossill, E.) ",3,06:34.660,08.395
+#84 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Final 1 (09:19:00) Official,4,USC,4,06:37.234,10.969
+#84 Womens Collegiate Varsity Jessop-Whittier Cup Invitational Final 1 (09:19:00) Official,5,UCLA,5,06:46.825,20.560
+#85 Mens Collegiate Varsity Copley Cup (09:27:00) Official,1,A.S.R. Nereus,2,06:07.045,
+#85 Mens Collegiate Varsity Copley Cup (09:27:00) Official,2,Marist,4,06:12.148,05.103
+#85 Mens Collegiate Varsity Copley Cup (09:27:00) Official,3,Gonzaga,5,06:13.205,06.160
+#85 Mens Collegiate Varsity Copley Cup (09:27:00) Official,4,Bates,6,06:13.718,06.673
+#85 Mens Collegiate Varsity Copley Cup (09:27:00) Official,5,UC San Diego,3,06:14.055,07.010
+#85 Mens Collegiate Varsity Copley Cup (09:27:00) Official,6,San Diego,1,06:18.168,11.123
+#86 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Final 1 (09:35:00) Official,1,Purdue,2,07:07.750,
+#86 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Final 1 (09:35:00) Official,2,U of Calgary RC,3,07:13.136,05.386
+#86 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Final 1 (09:35:00) Official,3,UC Santa Barbara,1,07:19.636,11.886
+#86 Womens Grace Rett Memorial Collegiate Varsity DII/III/Club Final 1 (09:35:00) Official,4,Colorado,4,07:47.886,40.136
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,1,"Old Dominion (Carlisle, A.) ",1,07:00.093,
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,2,Portland,5,07:06.692,06.599
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,3,Loyola Marymount,3,07:07.398,07.305
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,4,"MIT (LTWT) (Love, K.) ",2,07:09.195,09.102
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,5,Marist,6,07:12.074,11.981
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,6,Bates,4,07:13.403,13.310
+#87 Womens Collegiate Varsity UCSD Health Cal Cup Final 2 (09:43:00) Official,7,"SeattleU (Logan, C.) ",7,07:15.374,15.281
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,1,Stanford,2,06:42.827,
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,2,Gonzaga,4,06:50.269,07.442
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,3,"Sacramento St (YOUNG, H.) ",6,06:56.598,13.771
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,4,Oklahoma,3,07:00.189,17.362
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,5,UC San Diego,5,07:02.600,19.773
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,6,San Diego,1,07:03.166,20.339
+#88 Womens Collegiate Varsity UCSD Health Cal Cup Final 1 (09:51:00) Official,7,MIT,7,07:04.163,21.336
+#89 Mens Collegiate Varsity Active&Fit Cal Cup Final 2 (09:59:00) Official,1,UC Davis,2,06:32.777,
+#89 Mens Collegiate Varsity Active&Fit Cal Cup Final 2 (09:59:00) Official,2,Long Beach St,1,06:34.512,01.735
+#89 Mens Collegiate Varsity Active&Fit Cal Cup Final 2 (09:59:00) Official,3,Loyola Marymount,3,06:36.278,03.501
+#89 Mens Collegiate Varsity Active&Fit Cal Cup Final 2 (09:59:00) Official,4,Colorado,4,06:49.375,16.598
+#90 Mens Collegiate Varsity Active&Fit Cal Cup Final 1 (10:07:00) Official,1,Purdue,4,06:13.694,
+#90 Mens Collegiate Varsity Active&Fit Cal Cup Final 1 (10:07:00) Official,2,UCLA,3,06:14.026,00.332
+#90 Mens Collegiate Varsity Active&Fit Cal Cup Final 1 (10:07:00) Official,3,"Marietta (Puntarelli, G.) ",2,06:18.555,04.861
+#90 Mens Collegiate Varsity Active&Fit Cal Cup Final 1 (10:07:00) Official,4,MIT,1,06:21.609,07.915
+#90 Mens Collegiate Varsity Active&Fit Cal Cup Final 1 (10:07:00) Official,5,Orange Coast,5,06:26.606,12.912
+#90 Mens Collegiate Varsity Active&Fit Cal Cup Final 1 (10:07:00) Official,6,UC Santa Barbara,6,06:26.921,13.227
+#91 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 2 (10:15:00) Official,1,San Diego,1,08:13.206,
+#91 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 2 (10:15:00) Official,2,UC San Diego,2,08:21.280,08.074
+#91 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 2 (10:15:00) Official,3,MIT,3,08:23.126,09.920
+#91 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 2 (10:15:00) Official,4,Portland,6,08:24.843,11.637
+#91 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 2 (10:15:00) Official,5,"Sacramento St (Nixon, B.) ",5,08:33.284,20.078
+#91 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 2 (10:15:00) Official,6,"Old Dominion (Hoff, A.) ",4,08:34.173,20.967
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,1,Texas Austin,2,07:27.748,
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,2,USC,1,07:32.532,04.784
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,3,California,4,07:39.908,12.160
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,4,"Washington (McNamara-Smith, C.) ",3,07:49.702,21.954
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,5,Oklahoma,5,08:02.271,34.523
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,6,Gonzaga,6,08:02.917,35.169
+#92 Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup Final 1 (10:23:00) Official,7,UCLA,7,08:07.788,40.040
+#93 Mens Collegiate 3V Final 1 (10:31:00) Official,1,UC San Diego,1,06:40.187,
+#93 Mens Collegiate 3V Final 1 (10:31:00) Official,2,MIT,2,06:58.073,17.886
+#93 Mens Collegiate 3V Final 1 (10:31:00) Official,3,Bates,3,07:06.489,26.302
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,1,UC San Diego,2,07:16.052,
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,2,San Diego,1,07:16.209,00.157
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,3,"Sacramento St (Goddard, W.) ",3,07:16.237,00.185
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,4,Loyola Marymount,4,07:18.507,02.455
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,5,MIT,6,07:23.437,07.385
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,6,Marist,5,07:24.238,08.186
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,7,Bates,8,07:26.372,10.320
+#94 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 2 (10:39:00) Official,8,Portland,7,07:27.532,11.480
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,1,Texas Austin,2,06:42.947,
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,2,California,1,06:45.242,02.295
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,3,"Washington (Bryant, M.) ",4,06:49.583,06.636
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,4,USC,3,06:51.055,08.108
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,5,Stanford,6,07:02.893,19.946
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,6,UCLA,5,07:06.018,23.071
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,7,Gonzaga,8,07:07.152,24.205
+#95 Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy Final 1 (10:47:00) Official,8,Oklahoma,7,07:14.563,31.616
+#96 Mens Collegiate 2V Sharp Memorial Cup Final 2 (10:55:00) Official,1,MIT,1,06:41.156,
+#96 Mens Collegiate 2V Sharp Memorial Cup Final 2 (10:55:00) Official,2,UCLA,3,06:45.183,04.027
+#96 Mens Collegiate 2V Sharp Memorial Cup Final 2 (10:55:00) Official,3,Bates,2,06:51.676,10.520
+#96 Mens Collegiate 2V Sharp Memorial Cup Final 2 (10:55:00) Official,4,Colorado,4,08:16.375,01:35.219
+#97 Mens Collegiate 2V Sharp Memorial Cup Final 1 (11:03:00) Official,1,UC San Diego,2,06:23.397,
+#97 Mens Collegiate 2V Sharp Memorial Cup Final 1 (11:03:00) Official,2,Marist,4,06:24.050,00.653
+#97 Mens Collegiate 2V Sharp Memorial Cup Final 1 (11:03:00) Official,3,Purdue,1,06:30.926,07.529
+#97 Mens Collegiate 2V Sharp Memorial Cup Final 1 (11:03:00) Official,4,Gonzaga,3,06:31.160,07.763
+#97 Mens Collegiate 2V Sharp Memorial Cup Final 1 (11:03:00) Official,5,"Marietta (McWhite, J.) ",6,06:35.766,12.369
+#97 Mens Collegiate 2V Sharp Memorial Cup Final 1 (11:03:00) Official,6,San Diego,5,06:37.123,13.726
+#98 Womens Collegiate Novice Laurel Korholz Perpetual Trophy Final 1 (11:11:00) Official,1,"Washington (Fehling, B.) ",1,07:15.833,
+#98 Womens Collegiate Novice Laurel Korholz Perpetual Trophy Final 1 (11:11:00) Official,2,UCLA,2,07:23.787,07.954
+#98 Womens Collegiate Novice Laurel Korholz Perpetual Trophy Final 1 (11:11:00) Official,3,British Columbia,3,07:26.214,10.381
+#98 Womens Collegiate Novice Laurel Korholz Perpetual Trophy Final 1 (11:11:00) Official,4,San Diego,4,07:27.519,11.686
+#98 Womens Collegiate Novice Laurel Korholz Perpetual Trophy Final 1 (11:11:00) Official,5,Oklahoma,5,07:33.913,18.080
+#98 Womens Collegiate Novice Laurel Korholz Perpetual Trophy Final 1 (11:11:00) Official,6,Loyola Marymount,6,08:16.928,01:01.095
+#99 Mens Collegiate Novice Derek Guelker Memorial Cup Final 2 (11:19:00) Official,1,"UC Davis (Mohamad Khani, A.) ",2,07:06.402,
+#99 Mens Collegiate Novice Derek Guelker Memorial Cup Final 2 (11:19:00) Official,2,Colorado,4,07:14.482,08.080
+#99 Mens Collegiate Novice Derek Guelker Memorial Cup Final 2 (11:19:00) Official,3,SDSU - Men,3,07:16.931,10.529
+#99 Mens Collegiate Novice Derek Guelker Memorial Cup Final 2 (11:19:00) Official,4,Long Beach St,1,07:23.033,16.631
+#100 Mens Collegiate Novice Derek Guelker Memorial Cup Final 1 (11:27:00) Official,1,Orange Coast,1,06:34.897,
+#100 Mens Collegiate Novice Derek Guelker Memorial Cup Final 1 (11:27:00) Official,2,UCLA,2,06:37.931,03.034
+#100 Mens Collegiate Novice Derek Guelker Memorial Cup Final 1 (11:27:00) Official,3,"Southern California (Labounko, T.) ",4,06:44.768,09.871
+#100 Mens Collegiate Novice Derek Guelker Memorial Cup Final 1 (11:27:00) Official,4,U of Calgary RC,6,07:07.845,32.948
+#100 Mens Collegiate Novice Derek Guelker Memorial Cup Final 1 (11:27:00) Official,5,Loyola Marymount,3,07:08.235,33.338
+#100 Mens Collegiate Novice Derek Guelker Memorial Cup Final 1 (11:27:00) Official,6,UC Santa Barbara,5,07:14.503,39.606
+#101 Womens 8+ Alumni Susan Francia Trophy Final 1 (11:35:00) Official,1,Brown Women,1,07:26.971,
+#101 Womens 8+ Alumni Susan Francia Trophy Final 1 (11:35:00) Official,2,SDSU,4,07:37.060,10.089
+#101 Womens 8+ Alumni Susan Francia Trophy Final 1 (11:35:00) Official,3,"San Diego (Ahlman, S.) ",2,07:41.275,14.304
+#101 Womens 8+ Alumni Susan Francia Trophy Final 1 (11:35:00) Official,4,UC San Diego,5,07:45.358,18.387
+#101 Womens 8+ Alumni Susan Francia Trophy Final 1 (11:35:00) Official,5,UCSB Alumni,3,08:06.817,39.846
+#102 Mens 8+ Alumni Cup Final 1 (11:43:00) Official,1,"Butte (Holmes, A.) ",2,06:31.816,
+#102 Mens 8+ Alumni Cup Final 1 (11:43:00) Official,2,Isla Vista A,3,06:38.164,06.348
+#102 Mens 8+ Alumni Cup Final 1 (11:43:00) Official,3,Club Nautico De San Juan,1,06:44.275,12.459
+#102 Mens 8+ Alumni Cup Final 1 (11:43:00) Official,4,Isla Vista B,4,07:08.818,37.002
+#103 Mens Collegiate Novice 8+ B EntrieS Final 1 (11:51:00) Official,1,Orange Coast,1,06:51.622,
+#103 Mens Collegiate Novice 8+ B EntrieS Final 1 (11:51:00) Official,2,UCLA,2,06:54.136,02.514
+#103 Mens Collegiate Novice 8+ B EntrieS Final 1 (11:51:00) Official,3,UC Davis [Exhibition],5,07:24.876,33.254
+#103 Mens Collegiate Novice 8+ B EntrieS Final 1 (11:51:00) Official,4,UC Santa Barbara,3,07:57.706,01:06.084
+#103 Mens Collegiate Novice 8+ B EntrieS Final 1 (11:51:00) Official,5,SDSU - Men,6,08:30.281,01:38.659
+#103 Mens Collegiate Novice 8+ B EntrieS Final 1 (11:51:00) Official,-,Southern California,4,DNS,
+#104 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 2 (11:59:00) Official,1,BIAC,2,07:51.394,07:30.194 HC(age:50 -00:21.200),
+#104 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 2 (11:59:00) Official,2,"Station L (Walker, S.) ",4,07:54.016,07:32.816 HC(age:50 -00:21.200),02.622
+#104 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 2 (11:59:00) Official,3,"Sammamish (Kovaly, J.) ",1,08:23.705,07:45.305 HC(age:58 -00:38.400),15.111
+#104 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 2 (11:59:00) Official,4,"Vancouver (Riley, P.) ",3,07:53.690,07:46.890 HC(age:40 -00:06.800),16.696
+#104 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 2 (11:59:00) Official,5,Martha's Moms,6,09:07.796,08:00.596 HC(age:68 -01:07.200),30.402
+#104 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 2 (11:59:00) Official,6,"Lake Union (Werner, J.) ",5,08:15.871,08:14.871 HC(age:32 -00:01.000),44.677
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,1,Sarasota,3,07:31.882,07:04.882 HC(age:53 -00:27.000)
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,2,Long Beach,1,07:28.808,07:07.608 HC(age:50 -00:21.200),02.726
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,3,"College Club Seattle (Scull, C.) ",5,07:35.362,07:14.162 HC(age:50 -00:21.200),09.280
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,4,Martha's Moms,7,07:59.780,07:23.780 HC(age:57 -00:36.000),18.898
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,5,Texas RC,4,07:28.654,07:24.654 HC(age:37 -00:04.000),19.772
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,6,"Sammamish (Teschke, J.) ",2,07:42.974,07:28.574 HC(age:46 -00:14.400),23.692
+#105 Womens Masters 8+ Club Champ Thalia Kelly Considine Cup Final 1 (12:07:00) Official,7,"Rogue Rowing (Rimov, C.) ",6,08:23.469,07:54.269 HC(age:54 -00:29.200),49.387
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,1,Riverside,6,06:35.977,,
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,2,Texas RC,2,06:50.556,06:36.156 HC(age:46 -00:14.400),00.179
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,3,"Station L (Glasfeld, A.) ",8,07:01.534,06:36.534 HC(age:52 -00:25.000),00.557
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,4,"Lake Union (Tan, A.) ",4,06:46.008,06:45.408 HC(age:31 -00:00.600),09.431
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,5,"Crimson Death Barge (Caughey, T.) ",1,07:14.500,06:51.500 HC(age:51 -00:23.000),15.523
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,6,"Potomac (DeLo, C.) ",5,07:05.771,06:56.771 HC(age:42 -00:09.000),20.794
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,7,"Potomac (Merchant, W.) ",3,06:57.451,21.474,
+#106 Mens Masters 8+ Club Champ Final 2 (12:15:00) Official,8,BIAC,7,06:59.248,23.271,
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,1,"Cambridge (Pierce, J.) ",1,06:53.751,06:07.551 HC(age:61 -00:46.200),
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,2,"Marin (Aguiar, M.) ",2,06:50.185,06:14.185 HC(age:57 -00:36.000),06.634
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,3,"San Diego (Kapicka, M.) ",3,07:00.647,06:17.047 HC(age:60 -00:43.600),09.496
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,4,"Sammamish (Senenko, W.) ",5,06:44.167,06:24.767 HC(age:49 -00:19.400),17.216
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,5,Riverside,7,06:27.785,20.234,
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,6,"Rocky Mountain (Springer, G.) ",4,07:18.597,06:29.597 HC(age:62 -00:49.000),22.046
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,7,"East Bay (Scott, H.) ",8,06:37.985,06:33.185 HC(age:38 -00:04.800),25.634
+#107 Mens Masters 8+ Club Champ Final 1 (12:23:00) Official,8,"North Dakota (McCabe, C.) ",6,06:56.561,06:33.561 HC(age:51 -00:23.000),26.010
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,1,Texas Austin,1,06:49.725,
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,2,California,2,06:55.070,05.345
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,3,"Washington (Adebiyi, A.) ",3,06:57.571,07.846
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,4,Baja California St,4,07:12.359,22.634
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,5,USC,5,07:18.310,28.585
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,6,U of Calgary RC,6,07:23.919,34.194
+#108 Womens Open 8+ Carley Copley Cup Final 1 (12:31:00) Official,7,Bates,7,07:55.302,01:05.577
+#109 Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC Final 1 (12:39:00) Official,1,Butte,2,06:17.580,
+#109 Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC Final 1 (12:39:00) Official,2,Baja California St,1,06:20.331,02.751
+#109 Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC Final 1 (12:39:00) Official,3,U of Calgary RC,4,06:36.734,19.154
+#109 Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC Final 1 (12:39:00) Official,4,Long Beach St,3,06:44.442,26.862
+#110 Womens Collegiate 4+ B entries Final 1 (13:24:00) Official,1,Gonzaga,2,07:25.596,
+#110 Womens Collegiate 4+ B entries Final 1 (13:24:00) Official,2,San Diego,1,07:44.740,19.144
+#110 Womens Collegiate 4+ B entries Final 1 (13:24:00) Official,3,Oklahoma,3,07:48.140,22.544
+#110 Womens Collegiate 4+ B entries Final 1 (13:24:00) Official,4,UC San Diego,4,08:13.608,48.012
+#111 Womens Collegiate DII/DIII Club 4+ Final 1 (13:32:00) Official,1,Colorado,3,07:48.727,
+#111 Womens Collegiate DII/DIII Club 4+ Final 1 (13:32:00) Official,2,UC Santa Barbara,2,08:31.336,42.609
+#111 Womens Collegiate DII/DIII Club 4+ Final 1 (13:32:00) Official,3,"Long Beach St (Valtierra, L.) ",1,09:30.205,01:41.478
+#112 Womens Collegiate DII/DIII/Club Novice Final 1 (13:40:00) Official,1,Orange Coast,1,07:23.666,
+#112 Womens Collegiate DII/DIII/Club Novice Final 1 (13:40:00) Official,2,U of Calgary RC,2,07:37.491,13.825
+#112 Womens Collegiate DII/DIII/Club Novice Final 1 (13:40:00) Official,3,UC Santa Barbara A,3,07:39.540,15.874
+#112 Womens Collegiate DII/DIII/Club Novice Final 1 (13:40:00) Official,4,Colorado,5,07:41.580,17.914
+#112 Womens Collegiate DII/DIII/Club Novice Final 1 (13:40:00) Official,5,UC Santa Barbara B,4,08:30.572,01:06.906
+#113 Mens Collegiate Ltwt Secretary of the Navy Cup Final 1 (13:48:00) Official,1,MIT,1,06:11.096,
+#113 Mens Collegiate Ltwt Secretary of the Navy Cup Final 1 (13:48:00) Official,2,UC Santa Barbara,2,07:06.246,55.150
+#114 Womens Youth Gilman-Mulliken Cup Final 2 (13:56:00) Official,1,Norcal Crew,2,06:57.100,
+#114 Womens Youth Gilman-Mulliken Cup Final 2 (13:56:00) Official,2,Marina Aquatic Center,3,07:04.663,07.563
+#114 Womens Youth Gilman-Mulliken Cup Final 2 (13:56:00) Official,3,"Dallas United (Rodriguez, E.) ",4,07:08.894,11.794
+#114 Womens Youth Gilman-Mulliken Cup Final 2 (13:56:00) Official,4,Sammamish,6,07:09.666,12.566
+#114 Womens Youth Gilman-Mulliken Cup Final 2 (13:56:00) Official,5,Pacific,5,07:11.955,14.855
+#114 Womens Youth Gilman-Mulliken Cup Final 2 (13:56:00) Official,6,Long Beach Junior Crew,1,07:16.017,18.917
+#115 Womens Youth Gilman-Mulliken Cup Final 1 (14:04:00) Official,1,"Marin (Lermusiaux, J.) ",2,06:33.200,
+#115 Womens Youth Gilman-Mulliken Cup Final 1 (14:04:00) Official,2,Newport,3,06:42.780,09.580
+#115 Womens Youth Gilman-Mulliken Cup Final 1 (14:04:00) Official,3,Capital,5,06:48.140,14.940
+#115 Womens Youth Gilman-Mulliken Cup Final 1 (14:04:00) Official,4,Saugatuck,6,06:51.790,18.590
+#115 Womens Youth Gilman-Mulliken Cup Final 1 (14:04:00) Official,5,Connecticut,1,06:56.860,23.660
+#115 Womens Youth Gilman-Mulliken Cup Final 1 (14:04:00) Official,6,San Diego RC,4,06:59.390,26.190
+#116 Mens Youth San Diego Rowing Cup Final 2 (14:12:00) Official,1,OARS,1,06:01.512,
+#116 Mens Youth San Diego Rowing Cup Final 2 (14:12:00) Official,2,Marina Aquatic Center,5,06:09.980,08.468
+#116 Mens Youth San Diego Rowing Cup Final 2 (14:12:00) Official,3,"Long Beach Junior Crew (Hutton, R.) ",2,06:12.318,10.806
+#116 Mens Youth San Diego Rowing Cup Final 2 (14:12:00) Official,4,Capital,3,06:14.804,13.292
+#116 Mens Youth San Diego Rowing Cup Final 2 (14:12:00) Official,5,Dallas United Crew,4,06:15.903,14.391
+#116 Mens Youth San Diego Rowing Cup Final 2 (14:12:00) Official,6,Pacific,6,06:28.940,27.428
+#117 Mens Youth San Diego Rowing Cup Final 1 (14:20:00) Official,1,Newport,3,05:50.852,
+#117 Mens Youth San Diego Rowing Cup Final 1 (14:20:00) Official,2,Saugatuck,1,05:52.739,01.887
+#117 Mens Youth San Diego Rowing Cup Final 1 (14:20:00) Official,3,"Marin (Sutherland, K.) ",2,05:57.274,06.422
+#117 Mens Youth San Diego Rowing Cup Final 1 (14:20:00) Official,4,Norcal Crew,5,05:59.209,08.357
+#117 Mens Youth San Diego Rowing Cup Final 1 (14:20:00) Official,5,San Diego RC,4,06:05.689,14.837
+#117 Mens Youth San Diego Rowing Cup Final 1 (14:20:00) Official,6,Maritime RC,6,06:11.692,20.840
+#118 Womens U17 Referee Cup LA84 Foundation Trophy Final 2 (14:28:00) Official,1,"Austin (Ueber, I.) ",3,07:13.797,
+#118 Womens U17 Referee Cup LA84 Foundation Trophy Final 2 (14:28:00) Official,2,White Rock Rowing,1,07:22.034,08.237
+#118 Womens U17 Referee Cup LA84 Foundation Trophy Final 2 (14:28:00) Official,3,Marina Aquatic Center,2,07:25.221,11.424
+#118 Womens U17 Referee Cup LA84 Foundation Trophy Final 2 (14:28:00) Official,4,Casitas Rowing,6,07:28.510,14.713
+#118 Womens U17 Referee Cup LA84 Foundation Trophy Final 2 (14:28:00) Official,5,"Dallas United A (Bell, V.) ",5,07:30.335,16.538
+#118 Womens U17 Referee Cup LA84 Foundation Trophy Final 2 (14:28:00) Official,6,"Saint Ignatius (Keene, A.) ",4,07:32.049,18.252
+#119 Womens U17 Referee Cup LA84 Foundation Trophy Final 1 (14:36:00) Official,1,Capital,1,07:03.008,
+#119 Womens U17 Referee Cup LA84 Foundation Trophy Final 1 (14:36:00) Official,2,Long Beach Junior Crew,2,07:04.952,01.944
+#119 Womens U17 Referee Cup LA84 Foundation Trophy Final 1 (14:36:00) Official,3,Newport,3,07:08.857,05.849
+#119 Womens U17 Referee Cup LA84 Foundation Trophy Final 1 (14:36:00) Official,4,Norcal Crew,6,07:09.309,06.301
+#119 Womens U17 Referee Cup LA84 Foundation Trophy Final 1 (14:36:00) Official,5,Pacific,5,07:16.509,13.501
+#119 Womens U17 Referee Cup LA84 Foundation Trophy Final 1 (14:36:00) Official,6,"Marin (King, A.) ",4,07:26.860,23.852
+#120 Mens U17 Shimano Rowing Dynamics Cup Final 2 (14:44:00) Official,1,Dallas United,1,06:42.606,
+#120 Mens U17 Shimano Rowing Dynamics Cup Final 2 (14:44:00) Official,2,"CCHS Crew (Wittman, H.) ",2,06:51.652,09.046
+#120 Mens U17 Shimano Rowing Dynamics Cup Final 2 (14:44:00) Official,3,Casitas Rowing,3,07:11.972,29.366
+#120 Mens U17 Shimano Rowing Dynamics Cup Final 2 (14:44:00) Official,4,Marina Aquatic Center,4,07:20.341,37.735
+#121 Mens U17 Shimano Rowing Dynamics Cup Final 1 (14:52:00) Official,1,"Marin A (Ryan, H.) ",2,06:18.140,
+#121 Mens U17 Shimano Rowing Dynamics Cup Final 1 (14:52:00) Official,2,Newport,1,06:25.851,07.711
+#121 Mens U17 Shimano Rowing Dynamics Cup Final 1 (14:52:00) Official,3,"Long Beach Junior Crew (Josephbek, C.) ",4,06:28.626,10.486
+#121 Mens U17 Shimano Rowing Dynamics Cup Final 1 (14:52:00) Official,4,"Marin B (Wilcox, B.) ",3,06:29.592,11.452
+#121 Mens U17 Shimano Rowing Dynamics Cup Final 1 (14:52:00) Official,5,San Diego RC,6,06:40.798,22.658
+#121 Mens U17 Shimano Rowing Dynamics Cup Final 1 (14:52:00) Official,6,Norcal Crew,5,06:45.924,27.784
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,1,Marina Aquatic Center,3,07:14.269,
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,2,Newport B,1,07:15.610,01.341
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,3,Sammamish,2,07:17.136,02.867
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,4,"Saint Ignatius (Riad, D.) ",6,07:21.232,06.963
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,5,River City,4,07:28.607,14.338
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,6,Pacific,5,07:33.241,18.972
+#122 Womens Youth B ZLAC Rowing Club Cup Final 2 (15:00:00) Official,7,Long Beach Junior Crew,7,07:34.241,19.972
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,1,"Marin A (Holtz, M.) ",2,06:45.355,
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,2,Newport A,1,06:54.371,09.016
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,3,Saugatuck,4,06:58.198,12.843
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,4,Marin B,5,07:08.389,23.034
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,5,Capital,3,07:08.943,23.588
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,6,Norcal Crew,6,07:09.146,23.791
+#123 Womens Youth B ZLAC Rowing Club Cup Final 1 (15:08:00) Official,7,San Diego RC,7,07:15.183,29.828
+#124 Mens Youth B Jean Jessop Hervey Cup Final 2 (15:16:00) Official,1,Newport B,1,06:19.704,
+#124 Mens Youth B Jean Jessop Hervey Cup Final 2 (15:16:00) Official,2,Pacific,2,06:24.864,05.160
+#124 Mens Youth B Jean Jessop Hervey Cup Final 2 (15:16:00) Official,3,Dallas United,4,06:28.488,08.784
+#124 Mens Youth B Jean Jessop Hervey Cup Final 2 (15:16:00) Official,4,Marina Aquatic Center,6,06:31.781,12.077
+#124 Mens Youth B Jean Jessop Hervey Cup Final 2 (15:16:00) Official,5,Newport Sea Base,3,06:31.891,12.187
+#124 Mens Youth B Jean Jessop Hervey Cup Final 2 (15:16:00) Official,6,Saint Ignatius,5,06:45.494,25.790
+#125 Mens Youth B Jean Jessop Hervey Cup Final 1 (15:24:00) Official,1,"Marin (McMahon, W.) ",2,06:02.731,
+#125 Mens Youth B Jean Jessop Hervey Cup Final 1 (15:24:00) Official,2,Newport A,4,06:11.063,08.332
+#125 Mens Youth B Jean Jessop Hervey Cup Final 1 (15:24:00) Official,3,Saugatuck,1,06:12.568,09.837
+#125 Mens Youth B Jean Jessop Hervey Cup Final 1 (15:24:00) Official,4,Norcal Crew,5,06:13.454,10.723
+#125 Mens Youth B Jean Jessop Hervey Cup Final 1 (15:24:00) Official,5,San Diego RC,3,06:14.285,11.554
+#125 Mens Youth B Jean Jessop Hervey Cup Final 1 (15:24:00) Official,6,Sammamish,6,06:24.965,22.234
