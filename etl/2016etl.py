@@ -5,9 +5,10 @@ import csv
 import os, sys
 from chardet import detect
 
-WB="../2016.xlsx"
-CSV="2016.csv"
-ETL="2016-etl.csv"
+YEAR="2016"
+WB="../{}.xlsx".format(YEAR)
+CSV="{}.csv".format(YEAR)
+ETL="{}-etl.csv".format(YEAR)
 
 def get_encoding_type(file):
     with open(file, 'rb') as f:
@@ -50,7 +51,7 @@ event = ""
 #     Women's Collegiate DII/DIII/Club 4+ Final Only
 
 # Output:
-# Event #, Trophy, Event, Heat, Place, Organization, Time
+# Year, Event #, Trophy, Event, Heat, Place, Organization, Time
 
 
 with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infile:
@@ -63,11 +64,11 @@ with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infil
             continue
 
         if(rowcount == 1):
-            row = ["Event #", "Trophy", "Event", "Heat", "Place", "Boat", "Time", "Cox", "Rower1", "Rower2", "Rower3", "Rower4", "Rower5", "Rower6", "Rower7", "Rower8"]
+            row = ["Year", "Event #", "Trophy", "Event", "Heat", "Place", "Boat", "Time", "Cox", "Rower1", "Rower2", "Rower3", "Rower4", "Rower5", "Rower6", "Rower7", "Rower8"]
             outwriter.writerow(row)
         else:
             newrow = []
-            for i in range(0,18):
+            for i in range(0,16):
                 newrow.append('')
             newrow[0] = row[0] # Event #
             newrow[1] = ''   # 2016 data contains no trophy information
@@ -99,8 +100,8 @@ with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infil
             newrow[5] = row[4] # boat
             newrow[6] = row[8] # time
 
-            print(newrow)
-            outwriter.writerow(newrow)
+            #print([YEAR] + newrow)
+            outwriter.writerow([YEAR] + newrow)
 
 
 infile.close()

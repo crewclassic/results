@@ -5,9 +5,10 @@ import csv
 import os, sys
 from chardet import detect
 
-WB="../2008.xls"
-CSV="2008.csv"
-ETL="2008-etl.csv"
+YEAR="2008"
+WB="../{}.xls".format(YEAR)
+CSV="{}.csv".format(YEAR)
+ETL="{}-etl.csv".format(YEAR)
 
 def get_encoding_type(file):
     with open(file, 'rb') as f:
@@ -30,7 +31,7 @@ trophy = ""
 current_trophy = ""
 
 # Output:
-# Event #, Trophy, Event, Heat, Place, Organization, Time
+# Year, Event #, Trophy, Event, Heat, Place, Boat, Time, Cox, Rower1, Rower2, Rower3, Rower4, Rower5, Rower6, Rower7, Rower8
 
 
 with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infile:
@@ -43,13 +44,13 @@ with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infil
             continue
 
         if(rowcount == 3):
-            row = ["Event #", "Trophy", "Event", "Heat", "Place", "Boat", "Time", "Cox", "Rower1", "Rower2", "Rower3", "Rower4", "Rower5", "Rower6", "Rower7", "Rower8"]
+            row = ["Year", "Event #", "Trophy", "Event", "Heat", "Place", "Boat", "Time", "Cox", "Rower1", "Rower2", "Rower3", "Rower4", "Rower5", "Rower6", "Rower7", "Rower8"]
             outwriter.writerow(row)
         else:
             current_trophy = row[1].strip()
             row[1] = current_trophy
             newrow = []
-            for i in range(0,18):
+            for i in range(0,16):
                 newrow.append('')
             newrow[0] = row[0] # Event #
             newrow[1] = row[4] # Trophy
@@ -72,8 +73,8 @@ with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infil
                     newrow[5] = ''
                     newrow[6] = ''
 
-                print(newrow)
-                outwriter.writerow(newrow)
+                #print([YEAR] + newrow)
+                outwriter.writerow([YEAR] + newrow)
 
 
 infile.close()

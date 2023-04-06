@@ -5,9 +5,10 @@ import csv
 import os, sys
 from chardet import detect
 
-WB="../2018.xlsx"
-CSV="2018.csv"
-ETL="2018-etl.csv"
+YEAR="2018"
+WB="../{}.xlsx".format(YEAR)
+CSV="{}.csv".format(YEAR)
+ETL="{}-etl.csv".format(YEAR)
 
 def get_encoding_type(file):
     with open(file, 'rb') as f:
@@ -34,59 +35,65 @@ event = ""
 # Details, Event ID, Event Name, Race ID, Race No, Date, Time, Entries, Distance, Status, Progression Rule
 
 # Output:
-# Event #, Trophy, Event, Heat, Place, Organization, Time
+# Year, Event #, Trophy, Event, Heat, Place, Boat, Time, Cox, Rower1, Rower2, Rower3, Rower4, Rower5, Rower6, Rower7, Rower8
 
 
 with open(CSV, 'r', encoding = get_encoding_type(CSV), errors='ignore') as infile:
     inreader = csv.reader(infile, dialect='excel')
 
+    row = ["Year", "Event #", "Trophy", "Event", "Heat", "Place", "Boat", "Time", "Cox", "Rower1", "Rower2", "Rower3", "Rower4", "Rower5", "Rower6", "Rower7", "Rower8"]
+    outwriter.writerow(row)
+
+    state = 0
+    adj_time_index = 0
     for row in inreader:
         rowcount += 1
 
-        if(rowcount < 1 or rowcount >667):
-            continue
+        if state == 0 and rowcount != 368:
+            # Locate an event row
+            if len(row) >= 321:
+                if row[321] == "Official":
+                    state = 1
+                    newrow = []
+                    for i in range(0,16):
+                        newrow.append('')
 
-        if(rowcount == 1):
-            row = ["Event #", "Trophy", "Event", "Heat", "Place", "Boat", "Time", "Cox", "Rower1", "Rower2", "Rower3", "Rower4", "Rower5", "Rower6", "Rower7", "Rower8"]
-            outwriter.writerow(row)
-        else:
-            newrow = []
-            for i in range(0,18):
-                newrow.append('')
-            newrow[0] = row[0] # Event #
-            newrow[1] = ''   # 2018 data has trophy names buried in the flight name, we will not extract
-            flightname = row[1]
-            if "Heat " in flightname:
-                (title, heat) = flightname.split("Heat")
-            elif "Prelim" in flightname:
-                title = flightname.replace("Prelim","")
-                heat = "Prelim"
-            elif "3rd Final" in flightname:
-                title = flightname.replace("3rd Final","")
-                heat = "3rd Final"
-            elif "Petite Final" in flightname:
-                title = flightname.replace("Petite Final","")
-                heat = "Petite Final"
-            elif "Final Only" in flightname:
-                title = flightname.replace("Final Only","")
-                heat = "Final Only"
-            elif "Grand Final" in flightname:
-                title = flightname.replace("Grand Final","")
-                heat = "Grand Final"
-            else:
-                title = flightname
-                heat = ""
+                    newrow[0] = row[2] # event #
+                    newrow[1] = ''     # 2018 trophy data embedded in the event name
+                    newrow[2] = row[4] # Event title
+                    heat = row[61]     # Heat
+                    newrow[3] = heat.replace("Heat ","")
+                    
+                    num_entries = int(row[240])
+        elif state == 1:
+            if len(row) >= 1:
+                if row[1] == "Detail":
+                    state = 2
+                    adj_time_index = row.index("Adj Time")
+                    description_index = row.index("Description")
+        elif state == 2:
+            if len(row) >= 470:
+                place = row[2]
+                boat = row[5] + " " + row[46]
+                time = row[adj_time_index]
+            
+                newrow[4] = place.strip()
+                newrow[5] = boat.strip()
+                newrow[6] = time.strip()
+                newrow[8] = row[description_index].strip()
+            
+                #print([YEAR] + newrow)
+                outwriter.writerow([YEAR] + newrow)
                 
-            newrow[2] = title.strip() # Event title
-            newrow[3] = heat.strip()  # Heat
-            newrow[4] = row[2] # place
-            newrow[5] = row[4] # boat
-            newrow[6] = row[8] # time
-
-            print(newrow)
-            outwriter.writerow(newrow)
-
-
+                newrow[4] = ''
+                newrow[5] = ''
+                newrow[6] = ''
+                num_entries -= 1
+                if num_entries == 0:
+                    state = 0
+            elif len(row) == 0:
+                state = 0
+                
 infile.close()
 outfile.close()
 os.unlink(CSV)
