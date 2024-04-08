@@ -17,26 +17,27 @@ safety concerns that resulted in cancellation.
 
 ## Online Results
 
-From 2005 to the present day, San Diego Crew Classic results were
+From present day back to 2005, San Diego Crew Classic results were
 published on the web. Here are archive links to those results. See
 the excel spreadsheets in this repository for years prior to 2005.
 
-* [2005 archive.org](https://web.archive.org/web/20130526084505/http://crewclassic.org/results/2005.html)
-* [2006 archive.org](https://web.archive.org/web/20130526103425/http://crewclassic.org/results/2006.html)
-* [2007 archive.org](https://web.archive.org/web/20130526101456/http://crewclassic.org/results/2007.html)
-* [2008 archive.org](https://web.archive.org/web/20130525214045/http://crewclassic.org/results/2008.html)
-* [2009 archive.org](https://web.archive.org/web/20130428222123/http://crewclassic.org/results/2009.html)
-* [2010 archive.org](https://web.archive.org/web/20130429004729/http://crewclassic.org/results/2010.html)
-* [2011 archive.org](https://web.archive.org/web/20130428213140/http://crewclassic.org/results/2011.html)
-* [2012 archive.org](https://web.archive.org/web/20130428140754/http://crewclassic.org/results/2012.html)
-* [2013 archive.org](https://web.archive.org/web/20130409104546/http://crewclassic.com/2013.html)
-* [2014 archive.org](https://web.archive.org/web/20140830064659/http://crewclassic.com/results/2014.html)
-* [2015 hereNow](https://www.herenow.com/results/#/races/20127/results)
-* [2016 hereNow](https://www.herenow.com/results/#/races/20203/results)
-* [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
-* [2018 Regatta Master](http://online.regattamaster.com/Pages/QuickView.aspx?regattaID=1306)
-* [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
-* The 2020 Regatta was canceled due to COVID-19
-* [2021 Virtual Regatta by Time Team](https://regatta.time-team.nl/sdcc/2021/results/events.php)
-* [2022 Regatta Timing](http://results.regattatiming.com/backoffice/webpages/staticRaceResults.jsp?raceId=540)
+* [2024 RegattaMaster](https://m.regattamaster.com/#vwResultsBySchedule/1514)
 * [2023 Regatta Timing](https://results.regattatiming.com/backoffice/webpages/staticRaceResults.jsp?raceId=566)
+* [2022 Regatta Timing](http://results.regattatiming.com/backoffice/webpages/staticRaceResults.jsp?raceId=540)
+* [2021 Virtual Regatta by Time Team](https://regatta.time-team.nl/sdcc/2021/results/events.php)
+* The 2020 Regatta was canceled due to COVID-19
+* [2019 Regatta Timing](http://preview.regattatiming.com/backoffice/webpages/raceResults.jsp?raceId=494)
+* [2018 Regatta Master](http://online.regattamaster.com/Pages/QuickView.aspx?regattaID=1306)
+* [2017 hereNow](https://www.herenow.com/results/#/races/20127/results)
+* [2016 hereNow](https://www.herenow.com/results/#/races/20203/results)
+* [2015 hereNow](https://www.herenow.com/results/#/races/20127/results)
+* [2014 archive.org](https://web.archive.org/web/20140830064659/http://crewclassic.com/results/2014.html)
+* [2013 archive.org](https://web.archive.org/web/20130409104546/http://crewclassic.com/2013.html)
+* [2012 archive.org](https://web.archive.org/web/20130428140754/http://crewclassic.org/results/2012.html)
+* [2011 archive.org](https://web.archive.org/web/20130428213140/http://crewclassic.org/results/2011.html)
+* [2010 archive.org](https://web.archive.org/web/20130429004729/http://crewclassic.org/results/2010.html)
+* [2009 archive.org](https://web.archive.org/web/20130428222123/http://crewclassic.org/results/2009.html)
+* [2008 archive.org](https://web.archive.org/web/20130525214045/http://crewclassic.org/results/2008.html)
+* [2007 archive.org](https://web.archive.org/web/20130526101456/http://crewclassic.org/results/2007.html)
+* [2006 archive.org](https://web.archive.org/web/20130526103425/http://crewclassic.org/results/2006.html)
+* [2005 archive.org](https://web.archive.org/web/20130526084505/http://crewclassic.org/results/2005.html)
