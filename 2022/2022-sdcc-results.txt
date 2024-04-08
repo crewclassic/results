@@ -1,0 +1,634 @@
+# ************************************										
+# Regatta Timing Export File										
+# Generated on 03/25/22										
+# Rules: 										
+# 	All Data Copyright by Regatta Timing (C) 2000-2022									
+# 	Unless otherwise noted									
+# ************************************										
+bowNumber	eventCode	eventName	entryName	avgAge	strokeName	orgName	officialTime	resultStatus	eventPercent	top5Percent
+6	1	Womens Masters A 8+ (27-35) Duke Robinson Memorial Cup	Long Beach/San Diego	29	"Palmer, K."	Unaffiliated	07:39.6	OK	0	TRUE
+4	1	Womens Masters A 8+ (27-35) Duke Robinson Memorial Cup	Austin	28	"Reinkort, M."	austin	07:49.8	OK	2.21	TRUE
+5	1	Womens Masters A 8+ (27-35) Duke Robinson Memorial Cup	BIAC	30		biac	07:51.5	OK	2.58	TRUE
+1	1	Womens Masters A 8+ (27-35) Duke Robinson Memorial Cup	East Bay	44	"Prada, F."	east bay	07:58.7	OK	4.15	TRUE
+2	1	Womens Masters A 8+ (27-35) Duke Robinson Memorial Cup	San Diego RC	32	"Ewing, E."	san diego rc	08:25.7	OK	10.02	FALSE
+3	1	Womens Masters A 8+ (27-35) Duke Robinson Memorial Cup	Long Beach	40	"Jensen, R."	long beach	08:59.8	OK	17.44	FALSE
+1	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	Club Nautico De San Juan	32		club nautico de san juan	06:30.9	OK	0	TRUE
+4	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	San Diego	29	"Alparicio, B."	san diego	06:34.2	OK	0.84	TRUE
+3	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	Riverside A	27		riverside	06:36.5	OK	1.41	TRUE
+8	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	Riverside B	27		riverside	06:48.9	OK	4.59	TRUE
+6	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	Austin	30	"Womack, C."	austin	06:52.8	OK	5.6	FALSE
+2	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	Potomac	27	"Merchant, W."	potomac	07:01.5	OK	7.82	FALSE
+7	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	BIAC	28		biac	07:08.1	OK	9.51	FALSE
+5	2	Mens Masters A 8+ (27-35) Jack Buchanan Memorial Trophy	Los Angeles	32		los angeles	07:10.9	OK	10.23	FALSE
+3	3	Womens Masters B 8+ (36-42) Fred and Patricia Rickon Memorial Cup	Texas RC	40		texas rowing center	07:45.9	OK	0	TRUE
+4	3	Womens Masters B 8+ (36-42) Fred and Patricia Rickon Memorial Cup	Lake Merritt	41		lake merritt	08:05.6	OK	4.23	TRUE
+2	3	Womens Masters B 8+ (36-42) Fred and Patricia Rickon Memorial Cup	Lake Union	40	"Berner-Hays, A."	lake union	08:13.5	OK	5.93	FALSE
+5	3	Womens Masters B 8+ (36-42) Fred and Patricia Rickon Memorial Cup	Vancouver	41	"Riley, P."	vancouver	08:15.7	OK	6.4	FALSE
+1	3	Womens Masters B 8+ (36-42) Fred and Patricia Rickon Memorial Cup	ZLAC	38		zlac	08:21.1	OK	7.56	FALSE
+1	4	Mens Masters B 8+ (36-42) Presidents Trophy	San Diego RC	36	"Peszek, T."	san diego rc	06:38.6	OK	0	TRUE
+3	4	Mens Masters B 8+ (36-42) Presidents Trophy	Long Beach	38	"Tucker, Z."	long beach	06:54.7	OK	4.06	TRUE
+4	4	Mens Masters B 8+ (36-42) Presidents Trophy	Los Angeles	41		los angeles	07:07.1	OK	7.17	FALSE
+2	4	Mens Masters B 8+ (36-42) Presidents Trophy	Potomac	42	"DeLo, C."	potomac	07:08.8	OK	7.6	FALSE
+5	4	Mens Masters B 8+ (36-42) Presidents Trophy	Lake Merritt	38		lake merritt	07:14.9	OK	9.11	FALSE
+6	4	Mens Masters B 8+ (36-42) Presidents Trophy	Lake Union	36	"King, A."	lake union	07:15.6	OK	9.31	FALSE
+3	5	Womens Masters C 8+ (43-49) Margi Fetter Graham Trophy	Endeavor Racing Alliance/Cambridge/Penn AC/Long Beach/Unaff(USA)/Connecticut/Radcliffe Alumni/San Diego RC	44	"O'Brien, W."	Unaffiliated	07:21.8	OK	0	TRUE
+2	5	Womens Masters C 8+ (43-49) Margi Fetter Graham Trophy	Texas RC	43		texas rowing center	07:41.2	OK	4.39	TRUE
+1	5	Womens Masters C 8+ (43-49) Margi Fetter Graham Trophy	San Diego RC	43	"Ahlman, S."	san diego rc	07:50.3	OK	6.46	FALSE
+5	5	Womens Masters C 8+ (43-49) Margi Fetter Graham Trophy	Lake Union	44	"Hein, N."	lake union	07:51.6	OK	6.75	FALSE
+4	5	Womens Masters C 8+ (43-49) Margi Fetter Graham Trophy	Station L	43	"Walker, S."	station l	08:05.0	OK	9.78	FALSE
+2	6	Mens Masters C 8+ (43-49) Coach Del Beekley Volunteer Cup	Palm Beach	49	"Morelli, P."	palm beach	06:52.7	OK	0	TRUE
+1	6	Mens Masters C 8+ (43-49) Coach Del Beekley Volunteer Cup	San Diego RC	47	"Johnson, R."	san diego rc	07:44.0	OK	12.43	FALSE
+3	6	Mens Masters C 8+ (43-49) Coach Del Beekley Volunteer Cup	Pacific	54	"Kirby, M."	pacific	07:47.9	OK	13.36	FALSE
+3	7	"Womens Masters D 8+ (50-54) Waddell & Reed, Inc. Cup"	Sarasota	53	"Corbett-Brown, L."	sarasota crew	07:37.4	OK	0	TRUE
+2	7	"Womens Masters D 8+ (50-54) Waddell & Reed, Inc. Cup"	Endeavor Racing Alliance	50	"McCormick, E."	endeavor racing alliance	07:40.5	OK	0.67	TRUE
+1	7	"Womens Masters D 8+ (50-54) Waddell & Reed, Inc. Cup"	College Club Seattle	50	"Scull, C."	college club seattle	07:42.5	OK	1.11	TRUE
+4	7	"Womens Masters D 8+ (50-54) Waddell & Reed, Inc. Cup"	ZLAC	50	"Gregory, A."	zlac	07:58.9	OK	4.7	TRUE
+6	7	"Womens Masters D 8+ (50-54) Waddell & Reed, Inc. Cup"	Los Angeles	50	"Davis, K."	los angeles	08:21.9	OK	9.73	FALSE
+5	7	"Womens Masters D 8+ (50-54) Waddell & Reed, Inc. Cup"	Long Beach	55	"Bonuso, N."	long beach		Scratch	null	FALSE
+1	8	Mens Masters D 8+ (50-54) Founders Trophy	Unaff. (CAN)	56	"Forgeron, M."	unaff. (can)	06:46.8	OK	0	TRUE
+4	8	Mens Masters D 8+ (50-54) Founders Trophy	Ex Nemo	50		ex nemo	06:48.5	OK	0.42	TRUE
+2	8	Mens Masters D 8+ (50-54) Founders Trophy	North Dakota	51	"FROST, D."	north dakota	06:57.1	OK	2.54	TRUE
+3	8	Mens Masters D 8+ (50-54) Founders Trophy	Texas RC	50		texas rowing center	07:00.6	OK	3.39	TRUE
+5	8	Mens Masters D 8+ (50-54) Founders Trophy	East Bay	53	"Demorest, A."	east bay	07:35.4	OK	11.96	FALSE
+1	9	Womens Masters E 8+ (55-59) Kearney Johnston Cup	Endeavor Racing Alliance	56	"Friel, H."	endeavor racing alliance	08:06.4	OK	0	TRUE
+2	9	Womens Masters E 8+ (55-59) Kearney Johnston Cup	Long Beach	59		long beach	08:51.4	OK	9.26	FALSE
+4	9	Womens Masters E 8+ (55-59) Kearney Johnston Cup	San Diego RC	58	"Pili, D."	san diego rc	09:21.9	OK	15.53	FALSE
+3	9	Womens Masters E 8+ (55-59) Kearney Johnston Cup	ZLAC	58		zlac	09:37.6	OK	18.75	FALSE
+1	10	Mens Masters E 8+ (55-59) Stewards Cup	Kent Mitchell	55	"Still, M."	kent mitchell	06:57.0	OK	0	TRUE
+2	10	Mens Masters E 8+ (55-59) Stewards Cup	San Diego	52	"Kapicka, M."	san diego	07:02.0	OK	1.2	TRUE
+3	10	Mens Masters E 8+ (55-59) Stewards Cup	Station L	55	"Glasfeld, A."	station l	07:11.8	OK	3.56	TRUE
+1	11	Womens Concept2 Youth 4x	Redwood Scullers A	17	"Phipps, C."	redwood scullers	07:31.0	OK	0	TRUE
+2	11	Womens Concept2 Youth 4x	Newport Sea Base A	17		newport sea base rowing	07:50.0	OK	4.21	TRUE
+5	11	Womens Concept2 Youth 4x	Los Gatos B	17		los gatos	07:51.5	OK	4.53	TRUE
+3	11	Womens Concept2 Youth 4x	Texas RC	17		texas rowing center	08:03.5	OK	7.19	FALSE
+4	11	Womens Concept2 Youth 4x	Lake Las Vegas	18		lake las vegas rowing club	08:37.4	OK	14.72	FALSE
+2	12	Womens Concept2 Youth 4x	Los Gatos A	18		los gatos	07:40.7	OK	0	TRUE
+1	12	Womens Concept2 Youth 4x	Long Beach Junior Crew	18		long beach junior crew	07:48.7	OK	1.72	TRUE
+3	12	Womens Concept2 Youth 4x	Norcal Crew	17		norcal crew	08:01.1	OK	4.42	TRUE
+4	12	Womens Concept2 Youth 4x	Maritime RC B	17		maritime rowing club	08:04.1	OK	5.08	FALSE
+6	12	Womens Concept2 Youth 4x	Redwood Scullers C	17	"Bollyky, G."	redwood scullers	08:09.2	OK	6.17	FALSE
+5	12	Womens Concept2 Youth 4x	RowLA	17	"Goldstein, E."	rowla	08:16.9	OK	7.84	FALSE
+1	13	Womens Concept2 Youth 4x	Maritime RC A	18		maritime rowing club	07:52.2	OK	0	TRUE
+2	13	Womens Concept2 Youth 4x	Redwood Scullers B	17	"Ha, A."	redwood scullers	07:53.5	OK	0.28	TRUE
+6	13	Womens Concept2 Youth 4x	Newport Sea Base B	17		newport sea base rowing	08:19.5	OK	5.77	FALSE
+4	13	Womens Concept2 Youth 4x	Casitas Rowing	19		casitas rowing	08:20.6	OK	6.01	FALSE
+3	13	Womens Concept2 Youth 4x	Austin	17	"Apostolakis, A."	austin	08:44.0	OK	10.97	FALSE
+5	13	Womens Concept2 Youth 4x	Community Rowing SD	16		community rowing sd	12:24.1	OK	57.57	FALSE
+1	14	Mens Youth 4x	Newport Sea Base A	22		newport sea base rowing	06:38.3	OK	0	TRUE
+2	14	Mens Youth 4x	Artemis	17		artemis	06:56.0	OK	4.45	TRUE
+3	14	Mens Youth 4x	Capital	17		capital	07:02.0	OK	5.95	FALSE
+5	14	Mens Youth 4x	Redwood Scullers B	17	"Perlroth, A."	redwood scullers	07:03.6	OK	6.35	FALSE
+4	14	Mens Youth 4x	Maritime RC B	17		maritime rowing club	07:10.8	OK	8.17	FALSE
+6	14	Mens Youth 4x	Texas RC B	17		texas rowing center	07:38.1	OK	15	FALSE
+1	15	Mens Youth 4x	Maritime RC A	18		maritime rowing club	06:47.2	OK	0	TRUE
+2	15	Mens Youth 4x	Redwood Scullers A	17	"Vaksman, C."	redwood scullers	06:49.6	OK	0.59	TRUE
+3	15	Mens Youth 4x	Texas RC A	17		texas rowing center	06:53.8	OK	1.62	TRUE
+5	15	Mens Youth 4x	Los Gatos B	18	"Lasso, A."	los gatos	07:14.5	OK	6.72	FALSE
+6	15	Mens Youth 4x	Newport Sea Base B	19		newport sea base rowing	07:23.1	OK	8.82	FALSE
+4	15	Mens Youth 4x	Austin	17	"Miguel, R."	austin	07:36.0	OK	11.99	FALSE
+1	16	Mens Youth 4x	Los Gatos A	17	"Kramer, M."	los gatos	06:44.2	OK	0	TRUE
+2	16	Mens Youth 4x	Long Beach Junior Crew	17	"Griffin, T."	long beach junior crew	06:49.5	OK	1.31	TRUE
+3	16	Mens Youth 4x	Casitas Rowing	17		casitas rowing	07:00.9	OK	4.14	TRUE
+4	16	Mens Youth 4x	OARS	17		oars	07:01.2	OK	4.21	TRUE
+6	16	Mens Youth 4x	River City	17	"Hoernlein, T."	river city	07:32.9	OK	12.06	FALSE
+5	16	Mens Youth 4x	Lake Las Vegas	17		lake las vegas rowing club	07:46.9	OK	15.51	FALSE
+1	17	Womens U16 8+	Marin	14	"Ellington, B."	marin	07:42.8	OK	0	TRUE
+3	17	Womens U16 8+	Newport Sea Base	14		newport sea base rowing	08:12.4	OK	6.4	FALSE
+2	17	Womens U16 8+	Norcal Crew	14		norcal crew	08:16.4	OK	7.27	FALSE
+4	17	Womens U16 8+	CCHS Crew	15	"Galluccio, S."	cchs crew	08:47.1	OK	13.89	FALSE
+1	18	Mens U16 8+ Rose Cup	Marin	14	"Fasano, N."	marin	06:52.0	OK	0	TRUE
+2	18	Mens U16 8+ Rose Cup	Pacific	19		pacific	06:58.6	OK	1.59	TRUE
+5	18	Mens U16 8+ Rose Cup	Long Beach Junior Crew	15	"Price, K."	long beach junior crew	07:23.3	OK	7.59	FALSE
+3	18	Mens U16 8+ Rose Cup	Norcal Crew	14		norcal crew	07:44.6	OK	12.75	FALSE
+4	18	Mens U16 8+ Rose Cup	Dallas United	14		dallas united crew	08:12.3	OK	19.47	FALSE
+1	19	Womens U16 Ulster Challenge Cup 4x+	Maritime RC	15		maritime rowing club	08:22.3	OK	0	TRUE
+2	19	Womens U16 Ulster Challenge Cup 4x+	Redwood Scullers	14	"Naveen, A."	redwood scullers	08:47.8	OK	5.08	TRUE
+3	19	Womens U16 Ulster Challenge Cup 4x+	Norcal Crew	15		norcal crew	10:17.9	OK	23.02	FALSE
+3	20	Mens U16 4x+	Newport Sea Base	14		newport sea base rowing	07:44.7	OK	0	TRUE
+1	20	Mens U16 4x+	OARS	24		oars	07:54.4	OK	2.1	TRUE
+4	20	Mens U16 4x+	Lake Las Vegas	14		lake las vegas rowing club	08:16.4	OK	6.82	FALSE
+5	20	Mens U16 4x+	CCHS Crew	15	"MacNab, J."	cchs crew	08:18.8	OK	7.35	FALSE
+2	20	Mens U16 4x+	Norcal Crew	14		norcal crew	08:19.2	OK	7.44	FALSE
+1	21	Womens U17 4x	Redwood Scullers A	15	"PETRI, O."	redwood scullers	07:46.8	OK	0	TRUE
+2	21	Womens U17 4x	Los Gatos	16	"Sivi, A."	los gatos	07:58.9	OK	2.58	TRUE
+3	21	Womens U17 4x	Texas RC	15		texas rowing center	08:21.0	OK	7.31	FALSE
+4	21	Womens U17 4x	Norcal Crew	16		norcal crew	08:22.3	OK	7.6	FALSE
+2	22	Womens U17 4x	Connecticut	16		connecticut	07:59.8	OK	0	TRUE
+3	22	Womens U17 4x	Redwood Scullers B	16	"Khawaja, F."	redwood scullers	08:18.4	OK	3.87	TRUE
+1	22	Womens U17 4x	Maritime RC	15		maritime rowing club	08:30.3	OK	6.35	FALSE
+4	22	Womens U17 4x	Lake Las Vegas	15		lake las vegas rowing club	08:48.9	OK	10.24	FALSE
+1	23	Mens U17 4x	Maritime RC A	16		maritime rowing club	06:52.0	OK	0	TRUE
+2	23	Mens U17 4x	Los Gatos A	16	"Shetler, L."	los gatos	07:01.9	OK	2.41	TRUE
+4	23	Mens U17 4x	River City	15	"Davids, B."	river city	07:26.5	OK	8.38	FALSE
+3	23	Mens U17 4x	Austin	15	"Engler, G."	austin	07:48.5	OK	13.73	FALSE
+3	24	Mens U17 4x	Maritime RC B	16		maritime rowing club	07:05.6	OK	0	TRUE
+2	24	Mens U17 4x	Redwood Scullers	15	"Gurenkov, D."	redwood scullers	07:12.2	OK	1.54	TRUE
+1	24	Mens U17 4x	OARS	15		oars	07:20.3	OK	3.45	TRUE
+4	24	Mens U17 4x	Los Gatos B	16	"Yoo, D."	los gatos	07:29.9	OK	5.7	FALSE
+1	25	"Mens Masters 8+ H, I (70+)"	Kent Mitchell (H)	70		kent mitchell	08:00.6	OK	0	TRUE
+2	25	"Mens Masters 8+ H, I (70+)"	San Diego RC (H)	72		san diego rc	09:10.1	OK	14.46	FALSE
+1	26	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	Texas Austin	21		texas austin	06:43.8	OK	0	TRUE
+2	26	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	California	21		california	06:48.0	OK	1.02	TRUE
+4	26	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	Washington	23	"Cossill, E."	washington	06:56.6	OK	3.17	TRUE
+5	26	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	USC	22		usc women	06:59.0	OK	3.74	TRUE
+3	26	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	UCLA	21		ucla	07:07.1	OK	5.76	FALSE
+3	27	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	UC Santa Barbara	21		uc santa barbara	07:42.0	OK	0	TRUE
+2	27	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	Purdue	22		purdue	07:47.2	OK	1.13	TRUE
+1	27	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	U of Calgary RC	24		u of calgary rc	08:10.9	OK	6.24	FALSE
+4	27	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	Colorado	20		colorado	08:18.0	OK	7.78	FALSE
+1	28	Womens Collegiate Varsity UCSD Health Cal Cup	San Diego	21		san diego	07:14.1	OK	0	TRUE
+3	28	Womens Collegiate Varsity UCSD Health Cal Cup	Oklahoma	22		oklahoma	07:15.8	OK	0.38	TRUE
+4	28	Womens Collegiate Varsity UCSD Health Cal Cup	UC San Diego	20		uc san diego	07:21.3	OK	1.65	TRUE
+6	28	Womens Collegiate Varsity UCSD Health Cal Cup	Old Dominion	22	"Carlisle, A."	old dominion - women	07:23.4	OK	2.13	TRUE
+7	28	Womens Collegiate Varsity UCSD Health Cal Cup	MIT (LTWT)	21	"Love, K."	mit	07:26.0	OK	2.75	TRUE
+2	28	Womens Collegiate Varsity UCSD Health Cal Cup	Bates	21		bates college	07:26.2	OK	2.8	TRUE
+5	28	Womens Collegiate Varsity UCSD Health Cal Cup	Marist	21		marist	07:31.7	OK	4.05	TRUE
+2	29	Womens Collegiate Varsity UCSD Health Cal Cup	Stanford			stanford - women	06:55.7	OK	0	TRUE
+1	29	Womens Collegiate Varsity UCSD Health Cal Cup	Gonzaga	20		gonzaga	06:58.8	OK	0.75	TRUE
+3	29	Womens Collegiate Varsity UCSD Health Cal Cup	Sacramento St	22	"YOUNG, H."	sacramento state	07:12.4	OK	4.03	TRUE
+4	29	Womens Collegiate Varsity UCSD Health Cal Cup	MIT	20		mit	07:20.3	OK	5.92	FALSE
+6	29	Womens Collegiate Varsity UCSD Health Cal Cup	Loyola Marymount	21		loyola marymount	07:25.6	OK	7.19	FALSE
+5	29	Womens Collegiate Varsity UCSD Health Cal Cup	Portland	21		university of portland	07:25.9	OK	7.27	FALSE
+7	29	Womens Collegiate Varsity UCSD Health Cal Cup	SeattleU	21	"Logan, C."	seattleu	07:42.5	OK	11.25	FALSE
+2	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	USC	19		usc women	07:39.4	OK	0	TRUE
+3	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Washington	21	"McNamara-Smith, C."	washington	07:49.5	OK	2.2	TRUE
+4	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Oklahoma	22		oklahoma	08:05.7	OK	5.74	FALSE
+1	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	San Diego	21		san diego	08:12.4	OK	7.19	FALSE
+5	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	UC San Diego	20		uc san diego	08:33.2	OK	11.72	FALSE
+7	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Old Dominion	22	"Hoff, A."	old dominion - women	08:39.5	OK	13.08	FALSE
+6	33	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Portland	20		university of portland	08:43.7	OK	14.01	FALSE
+1	34	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Texas Austin	29		texas austin	07:35.3	OK	0	TRUE
+2	34	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	California	20		california	07:41.9	OK	1.45	TRUE
+3	34	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Gonzaga	19		gonzaga	08:03.7	OK	6.23	FALSE
+4	34	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	UCLA	19		ucla	08:09.1	OK	7.41	FALSE
+6	34	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	MIT	23		mit	08:27.8	OK	11.52	FALSE
+5	34	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Sacramento St	19	"Nixon, B."	sacramento state	08:28.4	OK	11.67	FALSE
+2	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	California	20		california	06:55.2	OK	0	TRUE
+1	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	USC	21		usc women	06:55.7	OK	0.12	TRUE
+3	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	UCLA	21		ucla	07:13.4	OK	4.38	TRUE
+4	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Oklahoma	22		oklahoma	07:19.8	OK	5.93	FALSE
+5	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	San Diego	20		san diego	07:25.9	OK	7.41	FALSE
+6	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Sacramento St	20	"Goddard, W."	sacramento state	07:27.9	OK	7.89	FALSE
+7	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Marist	21		marist	07:37.9	OK	10.3	FALSE
+8	35	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Portland	19		university of portland	07:39.4	OK	10.65	FALSE
+1	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Texas Austin	21		texas austin	06:30.9	OK	0	TRUE
+2	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Washington	22	"Bryant, M."	washington	06:34.1	OK	0.83	TRUE
+3	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Stanford	21		stanford - women	06:48.0	OK	4.37	TRUE
+4	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Gonzaga	21		gonzaga	06:48.8	OK	4.59	TRUE
+6	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	UC San Diego	20		uc san diego	06:59.8	OK	7.41	FALSE
+8	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Loyola Marymount	21		loyola marymount	07:01.9	OK	7.94	FALSE
+7	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	MIT	20		mit	07:07.0	OK	9.25	FALSE
+5	36	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Bates	20		bates college	07:12.9	OK	10.76	FALSE
+4	37	Mens Collegiate 2V Sharp Memorial Cup	Purdue	21		purdue	06:39.4	OK	0	TRUE
+2	37	Mens Collegiate 2V Sharp Memorial Cup	Gonzaga	19		gonzaga	06:40.9	OK	0.37	TRUE
+1	37	Mens Collegiate 2V Sharp Memorial Cup	San Diego	21		san diego	06:42.5	OK	0.77	TRUE
+3	37	Mens Collegiate 2V Sharp Memorial Cup	MIT	20		mit	06:44.0	OK	1.14	TRUE
+5	37	Mens Collegiate 2V Sharp Memorial Cup	UCLA	21		ucla	06:56.2	OK	4.21	TRUE
+2	38	Mens Collegiate 2V Sharp Memorial Cup	UC San Diego	22		uc san diego	06:28.5	OK	0	TRUE
+1	38	Mens Collegiate 2V Sharp Memorial Cup	Marist	21		marist	06:33.9	OK	1.37	TRUE
+4	38	Mens Collegiate 2V Sharp Memorial Cup	Marietta	21	"McWhite, J."	marietta college	06:41.8	OK	3.41	TRUE
+3	38	Mens Collegiate 2V Sharp Memorial Cup	Bates	21		bates college	06:43.3	OK	3.81	TRUE
+5	38	Mens Collegiate 2V Sharp Memorial Cup	Colorado	22		colorado		DNS	null	FALSE
+1	39	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	Washington	19	"Fehling, B."	washington	07:14.4	OK	0	TRUE
+2	39	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	UCLA	19		ucla	07:21.8	OK	1.7	TRUE
+3	39	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	British Columbia	19		british columbia	07:30.2	OK	3.63	TRUE
+5	39	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	San Diego	19		san diego	07:35.1	OK	4.76	TRUE
+6	39	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	Oklahoma	20		oklahoma	07:35.2	OK	4.79	TRUE
+4	39	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	Loyola Marymount	20		loyola marymount	08:15.7	OK	14.1	FALSE
+1	40	Mens Collegiate Novice Derek Guelker Memorial Cup	Orange Coast	19		orange coast	06:50.3	OK	0	TRUE
+2	40	Mens Collegiate Novice Derek Guelker Memorial Cup	Loyola Marymount	20		loyola marymount	07:12.0	OK	5.29	FALSE
+3	40	Mens Collegiate Novice Derek Guelker Memorial Cup	UC Santa Barbara	20		uc santa barbara	07:15.1	OK	6.06	FALSE
+4	40	Mens Collegiate Novice Derek Guelker Memorial Cup	Long Beach St	22		long beach state rowing	07:20.0	OK	7.24	FALSE
+5	40	Mens Collegiate Novice Derek Guelker Memorial Cup	SDSU - Men	21		sdsu - men	07:26.3	OK	8.78	FALSE
+1	41	Mens Collegiate Novice Derek Guelker Memorial Cup	UCLA	21		ucla	06:43.4	OK	0	TRUE
+3	41	Mens Collegiate Novice Derek Guelker Memorial Cup	Southern California	19	"Labounko, T."	southern california	06:48.7	OK	1.31	TRUE
+2	41	Mens Collegiate Novice Derek Guelker Memorial Cup	U of Calgary RC	20		u of calgary rc	06:55.5	OK	3.02	TRUE
+4	41	Mens Collegiate Novice Derek Guelker Memorial Cup	UC Davis	19	"Mohamad Khani, A."	uc davis	06:58.7	OK	3.79	TRUE
+5	41	Mens Collegiate Novice Derek Guelker Memorial Cup	Colorado	23		colorado	07:36.2	OK	13.1	FALSE
+2	43	M/W/MX PR 8+	Athletes Without LimitsCRI	43	"Delsordo, A."		07:27.8	OK	0	TRUE
+1	43	M/W/MX PR 8+	Freedom Rows/USRowing/Detroit BC/Atlanta/OKC Riversport	53	"Campbell, R."	Unaffiliated	08:59.3	OK	20.45	FALSE
+3	43	M/W/MX PR 8+	Freedom Rows/USRowing/San Diego RC/OKC Riversport	50	"Cao, K."	Unaffiliated	09:42.3	OK	30.04	FALSE
+1	44	Mens Masters 8+ Club Champ	Cambridge	61	"Pierce, J."	cambridge	06:11.7	OK	0	TRUE
+5	44	Mens Masters 8+ Club Champ	San Diego	60	"Kapicka, M."	san diego	06:28.0	OK	4.38	TRUE
+3	44	Mens Masters 8+ Club Champ	Sammamish	49	"Senenko, W."	sammamish rowing association	06:30.9	OK	5.17	FALSE
+6	44	Mens Masters 8+ Club Champ	Riverside	27		riverside	06:31.6	OK	5.35	FALSE
+4	44	Mens Masters 8+ Club Champ	Crimson Death Barge	51	"Caughey, T."	crimson death barge	06:38.8	OK	7.3	FALSE
+2	44	Mens Masters 8+ Club Champ	Potomac	27	"Merchant, W."	potomac	06:48.4	OK	9.87	FALSE
+8	44	Mens Masters 8+ Club Champ	Potomac	42	"DeLo, C."	potomac	06:51.3	OK	10.66	FALSE
+7	44	Mens Masters 8+ Club Champ	BIAC	28		biac	06:59.0	OK	12.74	FALSE
+5	45	Mens Masters 8+ Club Champ	Marin	57	"Aguiar, M."	marin	06:13.2	OK	0	TRUE
+2	45	Mens Masters 8+ Club Champ	Rocky Mountain	62	"Springer, G."	rocky mountain	06:20.6	OK	1.99	TRUE
+6	45	Mens Masters 8+ Club Champ	North Dakota	51	"McCabe, C."	north dakota	06:22.7	OK	2.54	TRUE
+3	45	Mens Masters 8+ Club Champ	East Bay	38	"Scott, H."	east bay	06:27.7	OK	3.9	TRUE
+1	45	Mens Masters 8+ Club Champ	Texas RC	46		texas rowing center	06:31.3	OK	4.86	TRUE
+4	45	Mens Masters 8+ Club Champ	Lake Union	31	"Tan, A."	lake union	06:34.8	OK	5.79	FALSE
+8	45	Mens Masters 8+ Club Champ	Riverside	27		riverside	06:39.9	OK	7.15	FALSE
+7	45	Mens Masters 8+ Club Champ	Station L	52	"Glasfeld, A."	station l	06:40.5	OK	7.33	FALSE
+3	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Long Beach	50		long beach	06:58.9	OK	0	TRUE
+6	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Sarasota	53		sarasota crew	06:59.1	OK	0.04	TRUE
+1	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	College Club Seattle	50	"Scull, C."	college club seattle	07:07.0	OK	1.94	TRUE
+2	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Martha's Moms	57		martha's moms	07:07.7	OK	2.11	TRUE
+4	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	BIAC	50		biac	07:22.4	OK	5.62	FALSE
+5	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Station L	50	"Walker, S."	station l	07:23.9	OK	5.96	FALSE
+7	46	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Martha's Moms	68		martha's moms	07:36.2	OK	8.91	FALSE
+1	47	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Sammamish	46	"Teschke, J."	sammamish rowing association	07:14.2	OK	0	TRUE
+3	47	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Texas RC	37		texas rowing center	07:14.3	OK	0.03	TRUE
+5	47	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Rogue Rowing	54	"Rimov, C."	rogue rowing	07:26.9	OK	2.93	TRUE
+6	47	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Sammamish	58	"Kovaly, J."	sammamish rowing association	07:29.5	OK	3.54	TRUE
+4	47	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Vancouver	40	"Riley, P."	vancouver	07:38.8	OK	5.66	FALSE
+2	47	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Lake Union	32	"Werner, J."	lake union	08:00.2	OK	10.6	FALSE
+3	48	Womens Open 8+ Carley Copley Cup	Texas Austin	20		texas austin	06:41.1	OK	0	TRUE
+2	48	Womens Open 8+ Carley Copley Cup	California	20		california	06:48.0	OK	1.71	TRUE
+1	48	Womens Open 8+ Carley Copley Cup	Washington	19	"Adebiyi, A."	washington	06:54.3	OK	3.28	TRUE
+5	48	Womens Open 8+ Carley Copley Cup	Baja California St	20		baja california state	07:02.1	OK	5.24	FALSE
+7	48	Womens Open 8+ Carley Copley Cup	USC	20		usc women	07:08.9	OK	6.92	FALSE
+4	48	Womens Open 8+ Carley Copley Cup	U of Calgary RC	25		u of calgary rc	07:19.2	OK	9.49	FALSE
+6	48	Womens Open 8+ Carley Copley Cup	Bates	20		bates college	07:36.9	OK	13.91	FALSE
+1	49	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	Baja California St	22		baja california state	06:13.3	OK	0	TRUE
+4	49	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	Butte			Unaffiliated	06:20.8	OK	2.01	TRUE
+3	49	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	Long Beach St	24		long beach state rowing	06:28.6	OK	4.11	TRUE
+2	49	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	U of Calgary RC	27		u of calgary rc	06:31.0	OK	4.75	TRUE
+2	50	Womens Youth Gilman-Mulliken Cup	Connecticut	17		connecticut	07:00.0	OK	0	TRUE
+1	50	Womens Youth Gilman-Mulliken Cup	San Diego RC	16		san diego rc	07:00.3	OK	0.07	TRUE
+3	50	Womens Youth Gilman-Mulliken Cup	Long Beach Junior Crew	17		long beach junior crew	07:12.3	OK	2.93	TRUE
+5	50	Womens Youth Gilman-Mulliken Cup	Dallas United	17	"Rodriguez, E."	dallas united crew	07:12.7	OK	3.02	TRUE
+4	50	Womens Youth Gilman-Mulliken Cup	Texas RC	17		texas rowing center	07:19.6	OK	4.68	TRUE
+6	50	Womens Youth Gilman-Mulliken Cup	ZLAC	17		zlac	07:50.2	OK	11.94	FALSE
+1	51	Womens Youth Gilman-Mulliken Cup	Marin	17	"Lermusiaux, J."	marin	06:41.5	OK	0	TRUE
+2	51	Womens Youth Gilman-Mulliken Cup	Capital	17		capital	06:54.5	OK	3.22	TRUE
+3	51	Womens Youth Gilman-Mulliken Cup	Norcal Crew	17		norcal crew	06:57.9	OK	4.07	TRUE
+4	51	Womens Youth Gilman-Mulliken Cup	Pacific	18		pacific	07:09.6	OK	7	FALSE
+5	51	Womens Youth Gilman-Mulliken Cup	River City	17		river city	07:15.1	OK	8.37	FALSE
+6	51	Womens Youth Gilman-Mulliken Cup	CCHS Crew	17	"Ewart, C."	cchs crew	07:50.3	OK	17.14	FALSE
+1	52	Womens Youth Gilman-Mulliken Cup	Newport	17		newport	06:43.7	OK	0	TRUE
+2	52	Womens Youth Gilman-Mulliken Cup	Saugatuck	17		saugatuck	06:47.8	OK	1.02	TRUE
+4	52	Womens Youth Gilman-Mulliken Cup	Marina Aquatic Center	18		marina aquatic center	07:03.0	OK	4.78	TRUE
+3	52	Womens Youth Gilman-Mulliken Cup	Sammamish	17		sammamish rowing association	07:06.0	OK	5.53	FALSE
+6	52	Womens Youth Gilman-Mulliken Cup	Saint Ignatius	17	"Visser, G."	saint ignatius	07:15.0	OK	7.75	FALSE
+5	52	Womens Youth Gilman-Mulliken Cup	White Rock Rowing	17	"Fox, E."	white rock rowing	07:20.5	OK	9.11	FALSE
+2	53	Mens Youth San Diego Rowing Cup	Saugatuck	17		saugatuck	06:05.9	OK	0	TRUE
+1	53	Mens Youth San Diego Rowing Cup	San Diego RC	18		san diego rc	06:08.4	OK	0.69	TRUE
+3	53	Mens Youth San Diego Rowing Cup	OARS	17		oars	06:11.7	OK	1.58	TRUE
+4	53	Mens Youth San Diego Rowing Cup	Dallas United Crew	21		dallas united crew	06:24.4	OK	5.06	FALSE
+5	53	Mens Youth San Diego Rowing Cup	Saint Ignatius	18		saint ignatius	06:32.9	OK	7.38	FALSE
+1	54	Mens Youth San Diego Rowing Cup	Marin	18	"Sutherland, K."	marin	06:08.7	OK	0	TRUE
+2	54	Mens Youth San Diego Rowing Cup	Norcal Crew	17		norcal crew	06:11.8	OK	0.86	TRUE
+3	54	Mens Youth San Diego Rowing Cup	Long Beach Junior Crew	18	"Hutton, R."	long beach junior crew	06:20.3	OK	3.15	TRUE
+5	54	Mens Youth San Diego Rowing Cup	Marina Aquatic Center	18		marina aquatic center	06:20.9	OK	3.31	TRUE
+4	54	Mens Youth San Diego Rowing Cup	Sammamish	17		sammamish rowing association	06:24.3	OK	4.23	TRUE
+1	55	Mens Youth San Diego Rowing Cup	Newport	18		newport	06:06.4	OK	0	TRUE
+3	55	Mens Youth San Diego Rowing Cup	Maritime RC	18		maritime rowing club	06:19.5	OK	3.56	TRUE
+2	55	Mens Youth San Diego Rowing Cup	Capital	17		capital	06:22.2	OK	4.3	TRUE
+4	55	Mens Youth San Diego Rowing Cup	Pacific	17		pacific	06:23.0	OK	4.51	TRUE
+5	55	Mens Youth San Diego Rowing Cup	CCHS Crew	17	"Krich, G."	cchs crew	06:37.5	OK	8.46	FALSE
+2	56	Womens U17 Referee Cup LA84 Foundation Trophy	Capital	15		capital	07:10.0	OK	0	TRUE
+1	56	Womens U17 Referee Cup LA84 Foundation Trophy	Marin	16	"King, A."	marin	07:16.0	OK	1.41	TRUE
+5	56	Womens U17 Referee Cup LA84 Foundation Trophy	White Rock Rowing	14		white rock rowing	07:33.8	OK	5.54	FALSE
+4	56	Womens U17 Referee Cup LA84 Foundation Trophy	Saint Ignatius	15	"Keene, A."	saint ignatius	07:43.0	OK	7.68	FALSE
+3	56	Womens U17 Referee Cup LA84 Foundation Trophy	San Diego RC	15		san diego rc	07:49.4	OK	9.17	FALSE
+1	57	Womens U17 Referee Cup LA84 Foundation Trophy	Long Beach Junior Crew	15		long beach junior crew	07:09.9	OK	0	TRUE
+2	57	Womens U17 Referee Cup LA84 Foundation Trophy	Pacific	16		pacific	07:11.5	OK	0.37	TRUE
+3	57	Womens U17 Referee Cup LA84 Foundation Trophy	Marina Aquatic Center	14		marina aquatic center	07:29.1	OK	4.47	TRUE
+4	57	Womens U17 Referee Cup LA84 Foundation Trophy	Dallas United A	16	"Bell, V."	dallas united crew	07:51.6	OK	9.7	FALSE
+1	58	Womens U17 Referee Cup LA84 Foundation Trophy	Newport	16		newport	07:12.3	OK	0	TRUE
+2	58	Womens U17 Referee Cup LA84 Foundation Trophy	Norcal Crew	16		norcal crew	07:14.1	OK	0.42	TRUE
+4	58	Womens U17 Referee Cup LA84 Foundation Trophy	Austin	15	"Ueber, I."	austin	07:23.9	OK	2.7	TRUE
+3	58	Womens U17 Referee Cup LA84 Foundation Trophy	Casitas Rowing	17		casitas rowing	07:41.2	OK	6.71	FALSE
+5	58	Womens U17 Referee Cup LA84 Foundation Trophy	Dallas United B	15		dallas united crew	08:15.8	OK	14.7	FALSE
+1	59	Mens U17 Shimano Rowing Dynamics Cup	Newport	16		newport	06:35.6	OK	0	TRUE
+2	59	Mens U17 Shimano Rowing Dynamics Cup	Marin B	16	"Wilcox, B."	marin	06:38.6	OK	0.77	TRUE
+3	59	Mens U17 Shimano Rowing Dynamics Cup	Norcal Crew	15		norcal crew	06:44.7	OK	2.31	TRUE
+4	59	Mens U17 Shimano Rowing Dynamics Cup	Dallas United	16		dallas united crew	06:45.9	OK	2.61	TRUE
+5	59	Mens U17 Shimano Rowing Dynamics Cup	Casitas Rowing	15		casitas rowing	07:17.8	OK	10.67	FALSE
+1	60	Mens U17 Shimano Rowing Dynamics Cup	Marin A	16	"Ryan, H."	marin	06:21.3	OK	0	TRUE
+2	60	Mens U17 Shimano Rowing Dynamics Cup	Long Beach Junior Crew	15	"Josephbek, C."	long beach junior crew	06:35.9	OK	3.82	TRUE
+3	60	Mens U17 Shimano Rowing Dynamics Cup	San Diego RC	15		san diego rc	06:37.9	OK	4.34	TRUE
+5	60	Mens U17 Shimano Rowing Dynamics Cup	CCHS Crew	16	"Wittman, H."	cchs crew	07:00.3	OK	10.22	FALSE
+4	60	Mens U17 Shimano Rowing Dynamics Cup	Marina Aquatic Center	15		marina aquatic center	07:12.1	OK	13.33	FALSE
+2	61	Womens Youth B ZLAC Rowing Club Cup	Newport A	17		newport	06:59.5	OK	0	TRUE
+3	61	Womens Youth B ZLAC Rowing Club Cup	Capital	17		capital	07:13.7	OK	3.38	TRUE
+5	61	Womens Youth B ZLAC Rowing Club Cup	Marin B	18		marin	07:16.3	OK	4.01	TRUE
+1	61	Womens Youth B ZLAC Rowing Club Cup	San Diego RC	17		san diego rc	07:22.6	OK	5.52	FALSE
+4	61	Womens Youth B ZLAC Rowing Club Cup	Sammamish	17		sammamish rowing association	07:26.1	OK	6.34	FALSE
+6	61	Womens Youth B ZLAC Rowing Club Cup	River City	18		river city	07:33.6	OK	8.14	FALSE
+7	61	Womens Youth B ZLAC Rowing Club Cup	Saint Ignatius	17	"Riad, D."	saint ignatius	07:40.5	OK	9.77	FALSE
+1	62	Womens Youth B ZLAC Rowing Club Cup	Marin A	17	"Holtz, M."	marin	06:55.8	OK	0	TRUE
+2	62	Womens Youth B ZLAC Rowing Club Cup	Saugatuck	17		saugatuck	07:10.6	OK	3.57	TRUE
+3	62	Womens Youth B ZLAC Rowing Club Cup	Norcal Crew	24		norcal crew	07:18.3	OK	5.42	FALSE
+6	62	Womens Youth B ZLAC Rowing Club Cup	Newport B	17		newport	07:23.5	OK	6.66	FALSE
+7	62	Womens Youth B ZLAC Rowing Club Cup	Marina Aquatic Center	17		marina aquatic center	07:29.1	OK	8.01	FALSE
+5	62	Womens Youth B ZLAC Rowing Club Cup	Pacific	16		pacific	07:51.2	OK	13.32	FALSE
+4	62	Womens Youth B ZLAC Rowing Club Cup	Long Beach Junior Crew	16		long beach junior crew	07:54.1	OK	14.03	FALSE
+3	63	Mens Youth B Jean Jessop Hervey Cup	Saugatuck	17		saugatuck	06:22.7	OK	0	TRUE
+1	63	Mens Youth B Jean Jessop Hervey Cup	San Diego RC	17		san diego rc	06:24.2	OK	0.38	TRUE
+2	63	Mens Youth B Jean Jessop Hervey Cup	Norcal Crew	17		norcal crew	06:25.7	OK	0.78	TRUE
+4	63	Mens Youth B Jean Jessop Hervey Cup	Newport B	17		newport	06:26.2	OK	0.91	TRUE
+5	63	Mens Youth B Jean Jessop Hervey Cup	Newport Sea Base	18		newport sea base rowing	06:39.3	OK	4.34	TRUE
+6	63	Mens Youth B Jean Jessop Hervey Cup	Saint Ignatius	20		saint ignatius	06:59.1	OK	9.51	FALSE
+1	64	Mens Youth B Jean Jessop Hervey Cup	Marin	17	"McMahon, W."	marin	06:17.7	OK	0	TRUE
+2	64	Mens Youth B Jean Jessop Hervey Cup	Newport A	18		newport	06:20.2	OK	0.66	TRUE
+4	64	Mens Youth B Jean Jessop Hervey Cup	Sammamish	19		sammamish rowing association	06:35.8	OK	4.78	TRUE
+3	64	Mens Youth B Jean Jessop Hervey Cup	Pacific	16		pacific	06:38.1	OK	5.41	FALSE
+6	64	Mens Youth B Jean Jessop Hervey Cup	Dallas United	17		dallas united crew	06:42.3	OK	6.51	FALSE
+5	64	Mens Youth B Jean Jessop Hervey Cup	Marina Aquatic Center	17		marina aquatic center	06:45.9	OK	7.47	FALSE
+2	65	Womens Concept2 Youth 4x	Redwood Scullers C	17	"Bollyky, G."	redwood scullers	07:44.2	OK	0	TRUE
+4	65	Womens Concept2 Youth 4x	RowLA	17	"Goldstein, E."	rowla	07:46.7	OK	0.54	TRUE
+1	65	Womens Concept2 Youth 4x	Lake Las Vegas	18		lake las vegas rowing club	08:06.6	OK	4.82	TRUE
+3	65	Womens Concept2 Youth 4x	Austin	17	"Apostolakis, A."	austin	08:30.3	OK	9.93	FALSE
+5	65	Womens Concept2 Youth 4x	Community Rowing SD	16		community rowing sd	11:02.9	OK	42.8	FALSE
+2	66	Mens Youth 4x	Texas RC B	17		texas rowing center	07:02.4	OK	0	TRUE
+3	66	Mens Youth 4x	Austin	17	"Miguel, R."	austin	07:06.5	OK	0.98	TRUE
+1	66	Mens Youth 4x	River City	17	"Hoernlein, T."	river city	07:17.3	OK	3.53	TRUE
+4	66	Mens Youth 4x	Lake Las Vegas	17		lake las vegas rowing club	07:17.9	OK	3.67	TRUE
+3	67	Womens Youth Gilman-Mulliken Cup	Saint Ignatius	17	"Visser, G."	saint ignatius	07:22.3	OK	0	TRUE
+2	67	Womens Youth Gilman-Mulliken Cup	River City	17		river city	07:23.1	OK	0.18	TRUE
+1	67	Womens Youth Gilman-Mulliken Cup	Texas RC	17		texas rowing center	07:28.6	OK	1.42	TRUE
+6	67	Womens Youth Gilman-Mulliken Cup	White Rock Rowing	17	"Fox, E."	white rock rowing	07:38.2	OK	3.59	TRUE
+4	67	Womens Youth Gilman-Mulliken Cup	ZLAC	17		zlac	07:54.0	OK	7.16	FALSE
+5	67	Womens Youth Gilman-Mulliken Cup	CCHS Crew	17	"Ewart, C."	cchs crew	08:01.0	OK	8.75	FALSE
+2	68	Mens Youth San Diego Rowing Cup	Sammamish	17		sammamish rowing association	06:33.8	OK	0	TRUE
+1	68	Mens Youth San Diego Rowing Cup	Saint Ignatius	18		saint ignatius	06:36.2	OK	0.59	TRUE
+3	68	Mens Youth San Diego Rowing Cup	CCHS Crew	17	"Krich, G."	cchs crew	06:53.4	OK	4.96	FALSE
+1	69	Womens U17 Referee Cup LA84 Foundation Trophy	San Diego RC	15		san diego rc	08:02.7	OK	0	TRUE
+2	69	Womens U17 Referee Cup LA84 Foundation Trophy	Dallas United B	15		dallas united crew	08:32.7	OK	6.21	FALSE
+1	72	Womens Concept2 Youth 4x	Los Gatos B	17		los gatos	07:29.8	OK	0	TRUE
+5	72	Womens Concept2 Youth 4x	Maritime RC B	17		maritime rowing club	07:36.1	OK	1.41	TRUE
+2	72	Womens Concept2 Youth 4x	Norcal Crew	17		norcal crew	07:37.8	OK	1.79	TRUE
+4	72	Womens Concept2 Youth 4x	Texas RC	17		texas rowing center	07:41.9	OK	2.68	TRUE
+6	72	Womens Concept2 Youth 4x	Casitas Rowing	19		casitas rowing	07:49.5	OK	4.39	TRUE
+3	72	Womens Concept2 Youth 4x	Newport Sea Base B	17		newport sea base rowing	07:55.6	OK	5.75	FALSE
+1	73	Womens Concept2 Youth 4x	Redwood Scullers A	17	"Phipps, C."	redwood scullers	07:07.1	OK	0	TRUE
+2	73	Womens Concept2 Youth 4x	Los Gatos A	18		los gatos	07:13.0	OK	1.38	TRUE
+5	73	Womens Concept2 Youth 4x	Long Beach Junior Crew	18		long beach junior crew	07:26.4	OK	4.52	TRUE
+4	73	Womens Concept2 Youth 4x	Newport Sea Base A	17		newport sea base rowing	07:28.8	OK	5.07	TRUE
+6	73	Womens Concept2 Youth 4x	Redwood Scullers B	17	"Ha, A."	redwood scullers	07:29.5	OK	5.23	FALSE
+3	73	Womens Concept2 Youth 4x	Maritime RC A	18		maritime rowing club	07:29.9	OK	5.33	FALSE
+3	74	Mens Youth 4x	Redwood Scullers B	17	"Perlroth, A."	redwood scullers	06:43.9	OK	0	TRUE
+6	74	Mens Youth 4x	Maritime RC B	17		maritime rowing club	06:46.7	OK	0.68	TRUE
+1	74	Mens Youth 4x	Casitas Rowing	17		casitas rowing	06:47.0	OK	0.75	TRUE
+4	74	Mens Youth 4x	Los Gatos B	18	"Lasso, A."	los gatos	06:47.1	OK	0.79	TRUE
+5	74	Mens Youth 4x	OARS	17		oars	06:48.9	OK	1.23	TRUE
+7	74	Mens Youth 4x	Newport Sea Base B	19		newport sea base rowing	06:58.4	OK	3.59	TRUE
+2	74	Mens Youth 4x	Capital	17		capital	07:07.0	OK	5.71	FALSE
+1	75	Mens Youth 4x	Newport Sea Base A	22		newport sea base rowing	06:21.1	OK	0	TRUE
+3	75	Mens Youth 4x	Los Gatos A	17	"Kramer, M."	los gatos	06:23.4	OK	0.59	TRUE
+4	75	Mens Youth 4x	Artemis	17		artemis	06:28.4	OK	1.91	TRUE
+5	75	Mens Youth 4x	Redwood Scullers A	17	"Vaksman, C."	redwood scullers	06:28.7	OK	1.98	TRUE
+2	75	Mens Youth 4x	Maritime RC A	18		maritime rowing club	06:32.5	OK	2.99	TRUE
+7	75	Mens Youth 4x	Texas RC A	17		texas rowing center	06:34.8	OK	3.58	TRUE
+6	75	Mens Youth 4x	Long Beach Junior Crew	17	"Griffin, T."	long beach junior crew	06:42.2	OK	5.52	FALSE
+1	76	Womens U16 8+	Marin	14	"Ellington, B."	marin	07:26.4	OK	0	TRUE
+2	76	Womens U16 8+	Newport Sea Base	14		newport sea base rowing	07:46.8	OK	4.57	TRUE
+3	76	Womens U16 8+	Norcal Crew	14		norcal crew	08:00.2	OK	7.58	FALSE
+4	76	Womens U16 8+	CCHS Crew	15	"Galluccio, S."	cchs crew	08:17.1	OK	11.35	FALSE
+1	77	Mens U16 8+ Rose Cup	Marin	14	"Fasano, N."	marin	06:43.6	OK	0	TRUE
+2	77	Mens U16 8+ Rose Cup	Pacific	19		pacific	06:49.1	OK	1.35	TRUE
+5	77	Mens U16 8+ Rose Cup	Norcal Crew	14		norcal crew	06:59.2	OK	3.85	TRUE
+3	77	Mens U16 8+ Rose Cup	Long Beach Junior Crew	15	"Price, K."	long beach junior crew	07:03.7	OK	4.98	TRUE
+4	77	Mens U16 8+ Rose Cup	Dallas United	14		dallas united crew	07:51.6	OK	16.85	FALSE
+1	78	Womens U16 Ulster Challenge Cup 4x+	Maritime RC	15		maritime rowing club	08:03.3	OK	0	TRUE
+2	78	Womens U16 Ulster Challenge Cup 4x+	Redwood Scullers	14	"Naveen, A."	redwood scullers	08:25.5	OK	4.58	TRUE
+3	78	Womens U16 Ulster Challenge Cup 4x+	Norcal Crew	15		norcal crew	09:57.0	OK	23.51	FALSE
+2	79	Mens U16 4x+	OARS	24		oars	07:36.1	OK	0	TRUE
+1	79	Mens U16 4x+	Newport Sea Base	14		newport sea base rowing	07:37.2	OK	0.23	TRUE
+5	79	Mens U16 4x+	Norcal Crew	14		norcal crew	08:02.7	OK	5.83	FALSE
+4	79	Mens U16 4x+	CCHS Crew	15	"MacNab, J."	cchs crew	08:07.4	OK	6.85	FALSE
+3	79	Mens U16 4x+	Lake Las Vegas	14		lake las vegas rowing club	08:37.6	OK	13.49	FALSE
+1	80	Womens U17 4x	Norcal Crew	16		norcal crew	08:24.6	OK	0	TRUE
+2	80	Womens U17 4x	Lake Las Vegas	15		lake las vegas rowing club	08:31.9	OK	1.46	TRUE
+1	81	Womens U17 4x	Redwood Scullers A	15	"PETRI, O."	redwood scullers	07:34.1	OK	0	TRUE
+3	81	Womens U17 4x	Los Gatos	16	"Sivi, A."	los gatos	07:41.4	OK	1.59	TRUE
+2	81	Womens U17 4x	Connecticut	16		connecticut	07:46.0	OK	2.61	TRUE
+6	81	Womens U17 4x	Maritime RC	15		maritime rowing club	07:53.3	OK	4.22	TRUE
+4	81	Womens U17 4x	Redwood Scullers B	16	"Khawaja, F."	redwood scullers	08:05.0	OK	6.81	FALSE
+5	81	Womens U17 4x	Texas RC	15		texas rowing center	08:05.4	OK	6.88	FALSE
+2	82	Mens U17 4x	Los Gatos B	16	"Yoo, D."	los gatos	07:16.6	OK	0	TRUE
+1	82	Mens U17 4x	Austin	15	"Engler, G."	austin	09:14.4	OK	26.99	FALSE
+1	83	Mens U17 4x	Maritime RC A	16		maritime rowing club	06:46.3	OK	0	TRUE
+2	83	Mens U17 4x	Maritime RC B	16		maritime rowing club	06:53.0	OK	1.63	TRUE
+3	83	Mens U17 4x	Los Gatos A	16	"Shetler, L."	los gatos	06:53.4	OK	1.73	TRUE
+6	83	Mens U17 4x	OARS	15		oars	06:58.1	OK	2.88	TRUE
+4	83	Mens U17 4x	Redwood Scullers	15	"Gurenkov, D."	redwood scullers	06:59.5	OK	3.25	TRUE
+5	83	Mens U17 4x	River City	15	"Davids, B."	river city	07:16.2	OK	7.35	FALSE
+1	84	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	Texas Austin	21		texas austin	06:26.3	OK	0	TRUE
+2	84	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	California	21		california	06:32.8	OK	1.69	TRUE
+3	84	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	Washington	23	"Cossill, E."	washington	06:34.7	OK	2.17	TRUE
+4	84	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	USC	22		usc women	06:37.2	OK	2.84	TRUE
+5	84	Womens Collegiate Varsity Jessop-Whittier Cup Invitational	UCLA	21		ucla	06:46.8	OK	5.32	FALSE
+2	86	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	Purdue	22		purdue	07:07.7	OK	0	TRUE
+3	86	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	U of Calgary RC	24		u of calgary rc	07:13.1	OK	1.26	TRUE
+1	86	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	UC Santa Barbara	21		uc santa barbara	07:19.6	OK	2.78	TRUE
+4	86	Womens Grace Rett Memorial Collegiate Varsity DII/III/Club	Colorado	20		colorado	07:47.9	OK	9.38	FALSE
+1	87	Womens Collegiate Varsity UCSD Health Cal Cup	Old Dominion	22	"Carlisle, A."	old dominion - women	07:00.1	OK	0	TRUE
+5	87	Womens Collegiate Varsity UCSD Health Cal Cup	Portland	21		university of portland	07:06.7	OK	1.57	TRUE
+3	87	Womens Collegiate Varsity UCSD Health Cal Cup	Loyola Marymount	21		loyola marymount	07:07.4	OK	1.74	TRUE
+2	87	Womens Collegiate Varsity UCSD Health Cal Cup	MIT (LTWT)	21	"Love, K."	mit	07:09.2	OK	2.17	TRUE
+6	87	Womens Collegiate Varsity UCSD Health Cal Cup	Marist	21		marist	07:12.1	OK	2.85	TRUE
+4	87	Womens Collegiate Varsity UCSD Health Cal Cup	Bates	21		bates college	07:13.4	OK	3.17	TRUE
+7	87	Womens Collegiate Varsity UCSD Health Cal Cup	SeattleU	21	"Logan, C."	seattleu	07:15.4	OK	3.64	TRUE
+2	88	Womens Collegiate Varsity UCSD Health Cal Cup	Stanford			stanford - women	06:42.8	OK	0	TRUE
+4	88	Womens Collegiate Varsity UCSD Health Cal Cup	Gonzaga	20		gonzaga	06:50.3	OK	1.85	TRUE
+6	88	Womens Collegiate Varsity UCSD Health Cal Cup	Sacramento St	22	"YOUNG, H."	sacramento state	06:56.6	OK	3.42	TRUE
+3	88	Womens Collegiate Varsity UCSD Health Cal Cup	Oklahoma	22		oklahoma	07:00.2	OK	4.31	TRUE
+5	88	Womens Collegiate Varsity UCSD Health Cal Cup	UC San Diego	20		uc san diego	07:02.6	OK	4.91	TRUE
+1	88	Womens Collegiate Varsity UCSD Health Cal Cup	San Diego	21		san diego	07:03.2	OK	5.05	FALSE
+7	88	Womens Collegiate Varsity UCSD Health Cal Cup	MIT	20		mit	07:04.2	OK	5.3	FALSE
+1	91	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	San Diego	21		san diego	08:13.2	OK	0	TRUE
+2	91	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	UC San Diego	20		uc san diego	08:21.3	OK	1.64	TRUE
+3	91	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	MIT	23		mit	08:23.1	OK	2.01	TRUE
+6	91	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Portland	20		university of portland	08:24.8	OK	2.36	TRUE
+5	91	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Sacramento St	19	"Nixon, B."	sacramento state	08:33.3	OK	4.07	TRUE
+4	91	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Old Dominion	22	"Hoff, A."	old dominion - women	08:34.2	OK	4.25	TRUE
+2	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Texas Austin	29		texas austin	07:27.7	OK	0	TRUE
+1	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	USC	19		usc women	07:32.5	OK	1.07	TRUE
+4	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	California	20		california	07:39.9	OK	2.72	TRUE
+3	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Washington	21	"McNamara-Smith, C."	washington	07:49.7	OK	4.9	TRUE
+5	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Oklahoma	22		oklahoma	08:02.3	OK	7.71	FALSE
+6	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	Gonzaga	19		gonzaga	08:02.9	OK	7.85	FALSE
+7	92	Womens Collegiate Varsity 4+ Karen Plumleigh Cortney Cup	UCLA	19		ucla	08:07.8	OK	8.94	FALSE
+1	93	Mens Collegiate 3V	UC San Diego	20		uc san diego	06:40.2	OK	0	TRUE
+2	93	Mens Collegiate 3V	MIT	20		mit	06:58.1	OK	4.47	TRUE
+3	93	Mens Collegiate 3V	Bates	20		bates college	07:06.5	OK	6.57	FALSE
+2	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	UC San Diego	20		uc san diego	07:16.1	OK	0	TRUE
+1	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	San Diego	20		san diego	07:16.2	OK	0.04	TRUE
+3	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Sacramento St	20	"Goddard, W."	sacramento state	07:16.2	OK	0.04	TRUE
+4	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Loyola Marymount	21		loyola marymount	07:18.5	OK	0.56	TRUE
+6	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	MIT	20		mit	07:23.4	OK	1.69	TRUE
+5	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Marist	21		marist	07:24.2	OK	1.88	TRUE
+8	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Bates	20		bates college	07:26.4	OK	2.37	TRUE
+7	94	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Portland	19		university of portland	07:27.5	OK	2.63	TRUE
+2	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Texas Austin	21		texas austin	06:42.9	OK	0	TRUE
+1	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	California	20		california	06:45.2	OK	0.57	TRUE
+4	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Washington	22	"Bryant, M."	washington	06:49.6	OK	1.65	TRUE
+3	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	USC	21		usc women	06:51.1	OK	2.01	TRUE
+6	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Stanford	21		stanford - women	07:02.9	OK	4.95	TRUE
+5	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	UCLA	21		ucla	07:06.0	OK	5.73	FALSE
+8	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Gonzaga	21		gonzaga	07:07.2	OK	6.01	FALSE
+7	95	Womens Collegiate 2V Jackie Ann Stitt Hungness Trophy	Oklahoma	22		oklahoma	07:14.6	OK	7.85	FALSE
+1	96	Mens Collegiate 2V Sharp Memorial Cup	MIT	20		mit	06:41.2	OK	0	TRUE
+3	96	Mens Collegiate 2V Sharp Memorial Cup	UCLA	21		ucla	06:45.2	OK	1	TRUE
+2	96	Mens Collegiate 2V Sharp Memorial Cup	Bates	21		bates college	06:51.7	OK	2.62	TRUE
+4	96	Mens Collegiate 2V Sharp Memorial Cup	Colorado	22		colorado	08:16.4	OK	23.74	FALSE
+2	97	Mens Collegiate 2V Sharp Memorial Cup	UC San Diego	22		uc san diego	06:23.4	OK	0	TRUE
+4	97	Mens Collegiate 2V Sharp Memorial Cup	Marist	21		marist	06:24.0	OK	0.17	TRUE
+1	97	Mens Collegiate 2V Sharp Memorial Cup	Purdue	21		purdue	06:30.9	OK	1.96	TRUE
+3	97	Mens Collegiate 2V Sharp Memorial Cup	Gonzaga	19		gonzaga	06:31.2	OK	2.02	TRUE
+6	97	Mens Collegiate 2V Sharp Memorial Cup	Marietta	21	"McWhite, J."	marietta college	06:35.8	OK	3.23	TRUE
+5	97	Mens Collegiate 2V Sharp Memorial Cup	San Diego	21		san diego	06:37.1	OK	3.58	TRUE
+1	98	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	Washington	19	"Fehling, B."	washington	07:15.8	OK	0	TRUE
+2	98	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	UCLA	19		ucla	07:23.8	OK	1.83	TRUE
+3	98	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	British Columbia	19		british columbia	07:26.2	OK	2.38	TRUE
+4	98	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	San Diego	19		san diego	07:27.5	OK	2.68	TRUE
+5	98	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	Oklahoma	20		oklahoma	07:33.9	OK	4.15	TRUE
+6	98	Womens Collegiate Novice Laurel Korholz Perpetual Trophy	Loyola Marymount	20		loyola marymount	08:16.9	OK	14.02	FALSE
+2	99	Mens Collegiate Novice Derek Guelker Memorial Cup	UC Davis	19	"Mohamad Khani, A."	uc davis	07:06.4	OK	0	TRUE
+4	99	Mens Collegiate Novice Derek Guelker Memorial Cup	Colorado	23		colorado	07:14.5	OK	1.89	TRUE
+3	99	Mens Collegiate Novice Derek Guelker Memorial Cup	SDSU - Men	21		sdsu - men	07:16.9	OK	2.47	TRUE
+1	99	Mens Collegiate Novice Derek Guelker Memorial Cup	Long Beach St	22		long beach state rowing	07:23.0	OK	3.9	TRUE
+1	100	Mens Collegiate Novice Derek Guelker Memorial Cup	Orange Coast	19		orange coast	06:34.9	OK	0	TRUE
+2	100	Mens Collegiate Novice Derek Guelker Memorial Cup	UCLA	21		ucla	06:37.9	OK	0.77	TRUE
+4	100	Mens Collegiate Novice Derek Guelker Memorial Cup	Southern California	19	"Labounko, T."	southern california	06:44.8	OK	2.5	TRUE
+6	100	Mens Collegiate Novice Derek Guelker Memorial Cup	U of Calgary RC	20		u of calgary rc	07:07.8	OK	8.34	FALSE
+3	100	Mens Collegiate Novice Derek Guelker Memorial Cup	Loyola Marymount	20		loyola marymount	07:08.2	OK	8.44	FALSE
+5	100	Mens Collegiate Novice Derek Guelker Memorial Cup	UC Santa Barbara	20		uc santa barbara	07:14.5	OK	10.03	FALSE
+1	101	Womens 8+ Alumni Susan Francia Trophy	Brown Women			brown women	07:27.0	OK	0	TRUE
+4	101	Womens 8+ Alumni Susan Francia Trophy	SDSU	23		sdsu - men	07:37.1	OK	2.26	TRUE
+2	101	Womens 8+ Alumni Susan Francia Trophy	San Diego	26	"Ahlman, S."	san diego	07:41.3	OK	3.2	TRUE
+5	101	Womens 8+ Alumni Susan Francia Trophy	UC San Diego	24		uc san diego	07:45.4	OK	4.11	TRUE
+3	101	Womens 8+ Alumni Susan Francia Trophy	UCSB Alumni	30		ucsb alumni	08:06.8	OK	8.91	FALSE
+2	102	Mens 8+ Alumni Cup	Butte	28	"Holmes, A."	butte	06:31.8	OK	0	TRUE
+3	102	Mens 8+ Alumni Cup	Isla Vista A	26		isla vista	06:38.2	OK	1.62	TRUE
+1	102	Mens 8+ Alumni Cup	Club Nautico De San Juan	30		club nautico de san juan	06:44.3	OK	3.18	TRUE
+4	102	Mens 8+ Alumni Cup	Isla Vista B	27		isla vista	07:08.8	OK	9.44	FALSE
+1	103	Mens Collegiate Novice 8+ B EntrieS	Orange Coast	20		orange coast	06:51.6	OK	0	TRUE
+2	103	Mens Collegiate Novice 8+ B EntrieS	UCLA	20		ucla	06:54.1	OK	0.61	TRUE
+5	103	Mens Collegiate Novice 8+ B EntrieS	UC Davis [Exhibition]	20		uc davis	07:24.9	OK	8.08	FALSE
+3	103	Mens Collegiate Novice 8+ B EntrieS	UC Santa Barbara	21		uc santa barbara	07:57.7	OK	16.05	FALSE
+6	103	Mens Collegiate Novice 8+ B EntrieS	SDSU - Men	23		sdsu - men	08:30.3	OK	23.97	FALSE
+4	103	Mens Collegiate Novice 8+ B EntrieS	Southern California	21		southern california		DNS	null	FALSE
+2	104	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	BIAC	50		biac	07:30.2	OK	0	TRUE
+4	104	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Station L	50	"Walker, S."	station l	07:32.8	OK	0.58	TRUE
+1	104	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Sammamish	58	"Kovaly, J."	sammamish rowing association	07:45.3	OK	3.36	TRUE
+3	104	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Vancouver	40	"Riley, P."	vancouver	07:46.9	OK	3.71	TRUE
+6	104	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Martha's Moms	68		martha's moms	08:00.6	OK	6.75	FALSE
+5	104	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Lake Union	32	"Werner, J."	lake union	08:14.9	OK	9.92	FALSE
+3	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Sarasota	53		sarasota crew	07:04.9	OK	0	TRUE
+1	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Long Beach	50		long beach	07:07.6	OK	0.64	TRUE
+5	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	College Club Seattle	50	"Scull, C."	college club seattle	07:14.2	OK	2.18	TRUE
+7	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Martha's Moms	57		martha's moms	07:23.8	OK	4.45	TRUE
+4	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Texas RC	37		texas rowing center	07:24.7	OK	4.65	TRUE
+2	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Sammamish	46	"Teschke, J."	sammamish rowing association	07:28.6	OK	5.58	FALSE
+6	105	Womens Masters 8+ Club Champ Thalia Kelly Considine Cup	Rogue Rowing	54	"Rimov, C."	rogue rowing	07:54.3	OK	11.62	FALSE
+6	106	Mens Masters 8+ Club Champ	Riverside	27		riverside	06:36.0	OK	0	TRUE
+2	106	Mens Masters 8+ Club Champ	Texas RC	46		texas rowing center	06:36.2	OK	0.05	TRUE
+8	106	Mens Masters 8+ Club Champ	Station L	52	"Glasfeld, A."	station l	06:36.5	OK	0.14	TRUE
+4	106	Mens Masters 8+ Club Champ	Lake Union	31	"Tan, A."	lake union	06:45.4	OK	2.38	TRUE
+1	106	Mens Masters 8+ Club Champ	Crimson Death Barge	51	"Caughey, T."	crimson death barge	06:51.5	OK	3.92	TRUE
+5	106	Mens Masters 8+ Club Champ	Potomac	42	"DeLo, C."	potomac	06:56.8	OK	5.25	FALSE
+3	106	Mens Masters 8+ Club Champ	Potomac	27	"Merchant, W."	potomac	06:57.5	OK	5.42	FALSE
+7	106	Mens Masters 8+ Club Champ	BIAC	28		biac	06:59.2	OK	5.88	FALSE
+1	107	Mens Masters 8+ Club Champ	Cambridge	61	"Pierce, J."	cambridge	06:07.6	OK	0	TRUE
+2	107	Mens Masters 8+ Club Champ	Marin	57	"Aguiar, M."	marin	06:14.2	OK	1.8	TRUE
+3	107	Mens Masters 8+ Club Champ	San Diego	60	"Kapicka, M."	san diego	06:17.0	OK	2.58	TRUE
+5	107	Mens Masters 8+ Club Champ	Sammamish	49	"Senenko, W."	sammamish rowing association	06:24.8	OK	4.68	TRUE
+7	107	Mens Masters 8+ Club Champ	Riverside	27		riverside	06:27.8	OK	5.51	FALSE
+4	107	Mens Masters 8+ Club Champ	Rocky Mountain	62	"Springer, G."	rocky mountain	06:29.6	OK	6	FALSE
+8	107	Mens Masters 8+ Club Champ	East Bay	38	"Scott, H."	east bay	06:33.2	OK	6.97	FALSE
+6	107	Mens Masters 8+ Club Champ	North Dakota	51	"McCabe, C."	north dakota	06:33.6	OK	7.08	FALSE
+1	108	Womens Open 8+ Carley Copley Cup	Texas Austin	20		texas austin	06:49.7	OK	0	TRUE
+2	108	Womens Open 8+ Carley Copley Cup	California	20		california	06:55.1	OK	1.3	TRUE
+3	108	Womens Open 8+ Carley Copley Cup	Washington	19	"Adebiyi, A."	washington	06:57.6	OK	1.91	TRUE
+4	108	Womens Open 8+ Carley Copley Cup	Baja California St	20		baja california state	07:12.4	OK	5.52	FALSE
+5	108	Womens Open 8+ Carley Copley Cup	USC	20		usc women	07:18.3	OK	6.98	FALSE
+6	108	Womens Open 8+ Carley Copley Cup	U of Calgary RC	25		u of calgary rc	07:23.9	OK	8.35	FALSE
+7	108	Womens Open 8+ Carley Copley Cup	Bates	20		bates college	07:55.3	OK	16.01	FALSE
+2	109	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	Butte			Unaffiliated	06:17.6	OK	0	TRUE
+1	109	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	Baja California St	22		baja california state	06:20.3	OK	0.73	TRUE
+4	109	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	U of Calgary RC	27		u of calgary rc	06:36.7	OK	5.07	FALSE
+3	109	Mens Open 8+ Anderson Borthwick Memorial Trophy Presented by SDRC	Long Beach St	24		long beach state rowing	06:44.4	OK	7.11	FALSE
+2	110	Womens Collegiate 4+ B entries	Gonzaga	21		gonzaga	07:25.6	OK	0	TRUE
+1	110	Womens Collegiate 4+ B entries	San Diego	22		san diego	07:44.7	OK	4.3	TRUE
+3	110	Womens Collegiate 4+ B entries	Oklahoma	23		oklahoma	07:48.1	OK	5.06	FALSE
+4	110	Womens Collegiate 4+ B entries	UC San Diego	20		uc san diego	08:13.6	OK	10.77	FALSE
+3	111	Womens Collegiate DII/DIII Club 4+	Colorado	23		colorado	07:48.7	OK	0	TRUE
+2	111	Womens Collegiate DII/DIII Club 4+	UC Santa Barbara	21		uc santa barbara	08:31.3	OK	9.09	FALSE
+1	111	Womens Collegiate DII/DIII Club 4+	Long Beach St	20	"Valtierra, L."	long beach state rowing	09:30.2	OK	21.65	FALSE
+1	112	Womens Collegiate DII/DIII/Club Novice	Orange Coast	19		orange coast	07:23.7	OK	0	TRUE
+2	112	Womens Collegiate DII/DIII/Club Novice	U of Calgary RC	22		u of calgary rc	07:37.5	OK	3.12	TRUE
+3	112	Womens Collegiate DII/DIII/Club Novice	UC Santa Barbara A	19		uc santa barbara	07:39.5	OK	3.58	TRUE
+5	112	Womens Collegiate DII/DIII/Club Novice	Colorado	20		colorado	07:41.6	OK	4.04	TRUE
+4	112	Womens Collegiate DII/DIII/Club Novice	UC Santa Barbara B	21		uc santa barbara	08:30.6	OK	15.08	FALSE
+1	113	Mens Collegiate Ltwt Secretary of the Navy Cup	MIT			mit	06:11.1	OK	0	TRUE
+2	113	Mens Collegiate Ltwt Secretary of the Navy Cup	UC Santa Barbara	20		uc santa barbara	07:06.2	OK	14.86	FALSE
+2	114	Womens Youth Gilman-Mulliken Cup	Norcal Crew	17		norcal crew	06:57.1	OK	0	TRUE
+3	114	Womens Youth Gilman-Mulliken Cup	Marina Aquatic Center	18		marina aquatic center	07:04.7	OK	1.81	TRUE
+4	114	Womens Youth Gilman-Mulliken Cup	Dallas United	17	"Rodriguez, E."	dallas united crew	07:08.9	OK	2.83	TRUE
+6	114	Womens Youth Gilman-Mulliken Cup	Sammamish	17		sammamish rowing association	07:09.7	OK	3.01	TRUE
+5	114	Womens Youth Gilman-Mulliken Cup	Pacific	18		pacific	07:12.0	OK	3.56	TRUE
+1	114	Womens Youth Gilman-Mulliken Cup	Long Beach Junior Crew	17		long beach junior crew	07:16.0	OK	4.54	TRUE
+2	115	Womens Youth Gilman-Mulliken Cup	Marin	17	"Lermusiaux, J."	marin	06:33.2	OK	0	TRUE
+3	115	Womens Youth Gilman-Mulliken Cup	Newport	17		newport	06:42.8	OK	2.44	TRUE
+5	115	Womens Youth Gilman-Mulliken Cup	Capital	17		capital	06:48.1	OK	3.8	TRUE
+6	115	Womens Youth Gilman-Mulliken Cup	Saugatuck	17		saugatuck	06:51.8	OK	4.73	TRUE
+1	115	Womens Youth Gilman-Mulliken Cup	Connecticut	17		connecticut	06:56.9	OK	6.02	FALSE
+4	115	Womens Youth Gilman-Mulliken Cup	San Diego RC	16		san diego rc	06:59.4	OK	6.66	FALSE
+1	116	Mens Youth San Diego Rowing Cup	OARS	17		oars	06:01.5	OK	0	TRUE
+5	116	Mens Youth San Diego Rowing Cup	Marina Aquatic Center	18		marina aquatic center	06:10.0	OK	2.34	TRUE
+2	116	Mens Youth San Diego Rowing Cup	Long Beach Junior Crew	18	"Hutton, R."	long beach junior crew	06:12.3	OK	2.99	TRUE
+3	116	Mens Youth San Diego Rowing Cup	Capital	17		capital	06:14.8	OK	3.68	TRUE
+4	116	Mens Youth San Diego Rowing Cup	Dallas United Crew	21		dallas united crew	06:15.9	OK	3.98	TRUE
+6	116	Mens Youth San Diego Rowing Cup	Pacific	17		pacific	06:28.9	OK	7.59	FALSE
+3	117	Mens Youth San Diego Rowing Cup	Newport	18		newport	05:50.9	OK	0	TRUE
+1	117	Mens Youth San Diego Rowing Cup	Saugatuck	17		saugatuck	05:52.7	OK	0.54	TRUE
+2	117	Mens Youth San Diego Rowing Cup	Marin	18	"Sutherland, K."	marin	05:57.3	OK	1.83	TRUE
+5	117	Mens Youth San Diego Rowing Cup	Norcal Crew	17		norcal crew	05:59.2	OK	2.38	TRUE
+4	117	Mens Youth San Diego Rowing Cup	San Diego RC	18		san diego rc	06:05.7	OK	4.23	TRUE
+6	117	Mens Youth San Diego Rowing Cup	Maritime RC	18		maritime rowing club	06:11.7	OK	5.94	FALSE
+3	118	Womens U17 Referee Cup LA84 Foundation Trophy	Austin	15	"Ueber, I."	austin	07:13.8	OK	0	TRUE
+1	118	Womens U17 Referee Cup LA84 Foundation Trophy	White Rock Rowing	14		white rock rowing	07:22.0	OK	1.9	TRUE
+2	118	Womens U17 Referee Cup LA84 Foundation Trophy	Marina Aquatic Center	14		marina aquatic center	07:25.2	OK	2.63	TRUE
+6	118	Womens U17 Referee Cup LA84 Foundation Trophy	Casitas Rowing	17		casitas rowing	07:28.5	OK	3.39	TRUE
+5	118	Womens U17 Referee Cup LA84 Foundation Trophy	Dallas United A	16	"Bell, V."	dallas united crew	07:30.3	OK	3.81	TRUE
+4	118	Womens U17 Referee Cup LA84 Foundation Trophy	Saint Ignatius	15	"Keene, A."	saint ignatius	07:32.0	OK	4.21	TRUE
+1	119	Womens U17 Referee Cup LA84 Foundation Trophy	Capital	15		capital	07:03.0	OK	0	TRUE
+2	119	Womens U17 Referee Cup LA84 Foundation Trophy	Long Beach Junior Crew	15		long beach junior crew	07:05.0	OK	0.46	TRUE
+3	119	Womens U17 Referee Cup LA84 Foundation Trophy	Newport	16		newport	07:08.9	OK	1.38	TRUE
+6	119	Womens U17 Referee Cup LA84 Foundation Trophy	Norcal Crew	16		norcal crew	07:09.3	OK	1.49	TRUE
+5	119	Womens U17 Referee Cup LA84 Foundation Trophy	Pacific	16		pacific	07:16.5	OK	3.19	TRUE
+4	119	Womens U17 Referee Cup LA84 Foundation Trophy	Marin	16	"King, A."	marin	07:26.9	OK	5.64	FALSE
+1	120	Mens U17 Shimano Rowing Dynamics Cup	Dallas United	16		dallas united crew	06:42.6	OK	0	TRUE
+2	120	Mens U17 Shimano Rowing Dynamics Cup	CCHS Crew	16	"Wittman, H."	cchs crew	06:51.7	OK	2.25	TRUE
+3	120	Mens U17 Shimano Rowing Dynamics Cup	Casitas Rowing	15		casitas rowing	07:12.0	OK	7.29	FALSE
+4	120	Mens U17 Shimano Rowing Dynamics Cup	Marina Aquatic Center	15		marina aquatic center	07:20.3	OK	9.37	FALSE
+2	121	Mens U17 Shimano Rowing Dynamics Cup	Marin A	16	"Ryan, H."	marin	06:18.1	OK	0	TRUE
+1	121	Mens U17 Shimano Rowing Dynamics Cup	Newport	16		newport	06:25.9	OK	2.04	TRUE
+4	121	Mens U17 Shimano Rowing Dynamics Cup	Long Beach Junior Crew	15	"Josephbek, C."	long beach junior crew	06:28.6	OK	2.77	TRUE
+3	121	Mens U17 Shimano Rowing Dynamics Cup	Marin B	16	"Wilcox, B."	marin	06:29.6	OK	3.03	TRUE
+6	121	Mens U17 Shimano Rowing Dynamics Cup	San Diego RC	15		san diego rc	06:40.8	OK	5.99	FALSE
+5	121	Mens U17 Shimano Rowing Dynamics Cup	Norcal Crew	15		norcal crew	06:45.9	OK	7.35	FALSE
+3	122	Womens Youth B ZLAC Rowing Club Cup	Marina Aquatic Center	17		marina aquatic center	07:14.3	OK	0	TRUE
+1	122	Womens Youth B ZLAC Rowing Club Cup	Newport B	17		newport	07:15.6	OK	0.31	TRUE
+2	122	Womens Youth B ZLAC Rowing Club Cup	Sammamish	17		sammamish rowing association	07:17.1	OK	0.66	TRUE
+6	122	Womens Youth B ZLAC Rowing Club Cup	Saint Ignatius	17	"Riad, D."	saint ignatius	07:21.2	OK	1.6	TRUE
+4	122	Womens Youth B ZLAC Rowing Club Cup	River City	18		river city	07:28.6	OK	3.3	TRUE
+5	122	Womens Youth B ZLAC Rowing Club Cup	Pacific	16		pacific	07:33.2	OK	4.37	TRUE
+7	122	Womens Youth B ZLAC Rowing Club Cup	Long Beach Junior Crew	16		long beach junior crew	07:34.2	OK	4.6	TRUE
+2	123	Womens Youth B ZLAC Rowing Club Cup	Marin A	17	"Holtz, M."	marin	06:45.4	OK	0	TRUE
+1	123	Womens Youth B ZLAC Rowing Club Cup	Newport A	17		newport	06:54.4	OK	2.22	TRUE
+4	123	Womens Youth B ZLAC Rowing Club Cup	Saugatuck	17		saugatuck	06:58.2	OK	3.17	TRUE
+5	123	Womens Youth B ZLAC Rowing Club Cup	Marin B	18		marin	07:08.4	OK	5.68	FALSE
+3	123	Womens Youth B ZLAC Rowing Club Cup	Capital	17		capital	07:08.9	OK	5.82	FALSE
+6	123	Womens Youth B ZLAC Rowing Club Cup	Norcal Crew	24		norcal crew	07:09.1	OK	5.87	FALSE
+7	123	Womens Youth B ZLAC Rowing Club Cup	San Diego RC	17		san diego rc	07:15.2	OK	7.36	FALSE
+1	124	Mens Youth B Jean Jessop Hervey Cup	Newport B	17		newport	06:19.7	OK	0	TRUE
+2	124	Mens Youth B Jean Jessop Hervey Cup	Pacific	16		pacific	06:24.9	OK	1.36	TRUE
+4	124	Mens Youth B Jean Jessop Hervey Cup	Dallas United	17		dallas united crew	06:28.5	OK	2.31	TRUE
+6	124	Mens Youth B Jean Jessop Hervey Cup	Marina Aquatic Center	17		marina aquatic center	06:31.8	OK	3.18	TRUE
+3	124	Mens Youth B Jean Jessop Hervey Cup	Newport Sea Base	18		newport sea base rowing	06:31.9	OK	3.21	TRUE
+5	124	Mens Youth B Jean Jessop Hervey Cup	Saint Ignatius	20		saint ignatius	06:45.5	OK	6.79	FALSE
+2	125	Mens Youth B Jean Jessop Hervey Cup	Marin	17	"McMahon, W."	marin	06:02.7	OK	0	TRUE
+4	125	Mens Youth B Jean Jessop Hervey Cup	Newport A	18		newport	06:11.1	OK	2.3	TRUE
+1	125	Mens Youth B Jean Jessop Hervey Cup	Saugatuck	17		saugatuck	06:12.6	OK	2.71	TRUE
+5	125	Mens Youth B Jean Jessop Hervey Cup	Norcal Crew	17		norcal crew	06:13.5	OK	2.96	TRUE
+3	125	Mens Youth B Jean Jessop Hervey Cup	San Diego RC	17		san diego rc	06:14.3	OK	3.19	TRUE
+6	125	Mens Youth B Jean Jessop Hervey Cup	Sammamish	19		sammamish rowing association	06:25.0	OK	6.13	FALSE
