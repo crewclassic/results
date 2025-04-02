@@ -21,6 +21,7 @@ From present day back to 2005, San Diego Crew Classic results were
 published on the web. Here are archive links to those results. See
 the excel spreadsheets in this repository for years prior to 2005.
 
+* [2025 RegattaMaster](https://m.regattamaster.com/#vwResultsBySchedule/1551)
 * [2024 RegattaMaster](https://m.regattamaster.com/#vwResultsBySchedule/1514)
 * [2023 Regatta Timing](https://results.regattatiming.com/backoffice/webpages/staticRaceResults.jsp?raceId=566)
 * [2022 Regatta Timing](http://results.regattatiming.com/backoffice/webpages/staticRaceResults.jsp?raceId=540)
