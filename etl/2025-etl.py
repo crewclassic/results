@@ -79,6 +79,7 @@ if __name__ == "__main__":
         "$format": "json"
     }
 
+    output.writerow(["Year","Event","Trophy","Event Descriptions","Race Label","Finish Place","Club Name","Adj Time","Cox","Bow","2","3","4","5","6","7","Stroke","Coach","Seconds"])
     for entry in fetch_race_entries_line_by_line(resultsurl, entrySelect):
         crew = []
         for seat in seats:
@@ -94,4 +95,4 @@ if __name__ == "__main__":
             except:
                 total_seconds = 0
 
-            output.writerow(["2025",entry['eventId'],entry['trophy'],entry['eventDescription'],entry['raceLabel'],entry['finishPlace'],entry['ClubName'],entry['adjTime']] + crew + [total_seconds])
+        output.writerow(["2025",entry['eventId'],entry['trophy'],entry['eventDescription'],entry['raceLabel'],entry['finishPlace'],entry['ClubName'],entry['adjTime']] + crew + [total_seconds])
